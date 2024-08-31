@@ -1,0 +1,30 @@
+{
+  "calendars": [],
+  "fieldFormat": "dataview",
+  "muted": true,
+  "timerEvent": "notification",
+  "inbox": null,
+  "search": "",
+  "taskSearch": "",
+  "fileOrder": [
+    "Daily: Jun 14"
+  ],
+  "customStatus": {
+    "include": false,
+    "statuses": "-"
+  },
+  "showCompleted": true,
+  "groupBy": "path",
+  "dayStartEnd": [
+    0,
+    24
+  ],
+  "twentyFourHourFormat": true,
+  "filterFunction": "",
+  "addTaskToEnd": false,
+  "extendBlocks": false,
+  "hideTimes": false,
+  "borders": true,
+  "viewMode": "day",
+  "scheduledSubtasks": true
+}

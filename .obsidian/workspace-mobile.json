@@ -1,0 +1,368 @@
+{
+  "main": {
+    "id": "e7c7bc49e3e4bab6",
+    "type": "split",
+    "children": [
+      {
+        "id": "db7f33da931ef894",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "568f92a1e1a26898",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10.06.2024 Biologie;.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "697f157bd54deb61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Englisch/Klasse 12.2/Macbeth/Macbeth the Movie/22.04.2024 Englisch; Story-board.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c90dfb1d138ffb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Englisch/04.06.2024 Englisch; Entwurf des Drehbuches.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "632e5a039d18b8e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "14.06.2024 ?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c2dc5fed466a8b9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "14.06.2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88787c25a26970e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Englisch/Klasse 12/13.05.2024 Englisch; Macbeth page 1 to page 100.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "14e98f7043761a3d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8b44cf0368cc02ae",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": false
+          }
+        }
+      },
+      {
+        "id": "a9cbb9ec233e4f12",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "5cb8aeed9253cd6e",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          }
+        }
+      },
+      {
+        "id": "3427b8868bd2539d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "160e3f78f0abc71b",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
+      },
+      {
+        "id": "9a909cdd8c6b0c89",
+        "type": "leaf",
+        "state": {
+          "type": "mk-path-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "right": {
+    "id": "36eb56d71c78aba3",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "da1766df125cf4fc",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "14.06.2024.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "c37ade572a1d4bce",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "14.06.2024.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "0ab031d65380caab",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "14.06.2024.md"
+          }
+        }
+      },
+      {
+        "id": "ddaf6a92c03195aa",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {}
+        }
+      },
+      {
+        "id": "8be0b3f244b50369",
+        "type": "leaf",
+        "state": {
+          "type": "make-context-view",
+          "state": {}
+        }
+      },
+      {
+        "id": "202ff46065f447cf",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "3f3f8778f5bde907",
+        "type": "leaf",
+        "state": {
+          "type": "podcast_player_view",
+          "state": {}
+        }
+      },
+      {
+        "id": "fba579a8da9f4aa6",
+        "type": "leaf",
+        "state": {
+          "type": "BC-matrix",
+          "state": {}
+        }
+      },
+      {
+        "id": "df6154932fc88f46",
+        "type": "leaf",
+        "state": {
+          "type": "BC-tree",
+          "state": {}
+        }
+      },
+      {
+        "id": "dcd7f86f699e9a4b",
+        "type": "leaf",
+        "state": {
+          "type": "graph-analysis",
+          "state": {}
+        }
+      },
+      {
+        "id": "28c5ed746a2ac3f6",
+        "type": "leaf",
+        "state": {
+          "type": "DICE_ROLLER_VIEW",
+          "state": {}
+        }
+      },
+      {
+        "id": "faae08d3e51a1195",
+        "type": "leaf",
+        "state": {
+          "type": "CALENDARIUM",
+          "state": {}
+        }
+      },
+      {
+        "id": "57e05382b2139341",
+        "type": "leaf",
+        "state": {
+          "type": "mermaid-toolbar-view",
+          "state": {}
+        }
+      },
+      {
+        "id": "8b868fb197b4f436",
+        "type": "leaf",
+        "state": {
+          "type": "time-ruler-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 2
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "omnisearch:Omnisearch": false,
+      "graph:Open graph view": false,
+      "3d-graph:3D Graph": false,
+      "daily-notes:Open today's daily note": false,
+      "canvas:Create new canvas": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "command-palette:Open command palette": true,
+      "handwritten-notes:Create empty handwritten note": true,
+      "excel:Create Excel File": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "time-ruler:Open Time Ruler": false,
+      "obsidian-plugin-update-tracker:Plugin Update Tracker": false,
+      "janitor:Janitor: scan vault": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false,
+      "obsidian-jump-to-date-plugin:Jump-to-Date": false
+    }
+  },
+  "active": "c2dc5fed466a8b9b",
+  "lastOpenFiles": [
+    "14.06.2024 ?.md",
+    "14.06.2024.md",
+    "Englisch/04.06.2024 Englisch; Entwurf des Drehbuches.md",
+    "Englisch/Klasse 12/13.05.2024 Englisch; Macbeth page 1 to page 100.md",
+    "Englisch/Klasse 12.2/Macbeth/Macbeth the Movie/22.04.2024 Englisch; Story-board.md",
+    "10.06.2024 Biologie;.md",
+    "Englisch/Klasse 12.2/Macbeth/Macbeth the book/Acts/Macbeth the Acts/Act 1/Englisch; Macbeth Act 1 Scene 3.md",
+    "Englisch/Klasse 12.2/20.03.2024 Englisch;.md",
+    "Spaces/Home/_Excalidraw_/Drawing 25.05.2024 17.32.excalidraw.md",
+    "Excel 2024-06-08 23.35.01.sheet.md",
+    "Excel 2024-06-08 23.34.21.sheet.md",
+    "Spaces/Home/Mathe/Klasse 12/08.05.2024.md",
+    "Spaces/Home/05.06.2024.md",
+    "Spaces/Home/06.06.2024.md",
+    "Spaces/Home/08.06.2024.md",
+    "_handwritten-notes_/New note.pdf",
+    "_handwritten-notes_",
+    "Spaces/Home/Englisch/04.06.2024 Englisch; Entwurf des Drehbuches.md",
+    "Spaces/Home/Biologie/Klasse 12/06.06.2024 Biologie; Wie kommt es zu einer Algenblüte im See?.md",
+    "Spaces/Home/Geschichte/Klasse 12/06.06.2024 Geschichte; Buchseite 180.md",
+    "Spaces/Home/Geschichte/Klasse 12/06.06.2024 Geschichte; 1888 — Dreikaiserjahr.md",
+    "Excel 2024-06-08 22.56.39.sheet.md",
+    "Spaces/Home/_Excalidraw_/Drawing 08.05.2024 12.14.excalidraw.md",
+    "Spaces/Home/_Excalidraw_/Drawing 08.05.2024 12.14_0.excalidraw.md",
+    "Spaces/Home/Englisch/Klasse 12.2/Macbeth/Macbeth the book/Englisch; Macbeth the book html.md",
+    "Spaces/Home/Englisch/Klasse 12.2/Macbeth/Macbeth the Movie/22.04.2024 Englisch; Story-board.md",
+    "Spaces/Home/Französisch/Klasse 12/04.06.2024 Französisch; §40 Die Verben préférer und mettre.md",
+    "Spaces/Home/Französisch/Klasse 12/Lektion 9/04.06.2024 Livre une Page 102 — 103.md",
+    "Spaces/Home/Französisch/Klasse 12/Lektion 10",
+    "Spaces/Home/Französisch/Klasse 12/Lektion 9",
+    "Spaces/Home/Englisch/Klasse 12.2/Macbeth/Macbeth the Movie",
+    "Spaces/Home/Englisch/Klasse 12.2/Macbeth/Macbeth the book/Acts/13.05.2024 Englisch; Macbeth act 1 1.file",
+    "Spaces/Home/Englisch/Klasse 12.2/Macbeth/Macbeth the book/Acts/Macbeth the Acts/Act 4",
+    "Spaces/Home/Englisch/Klasse 12.2/Macbeth/Macbeth the book/Acts/Macbeth the Acts/Act 3",
+    "Spaces/Home/Englisch/Klasse 12.2/Macbeth/Macbeth the book/Acts/Macbeth the Acts/Act 2",
+    "Spaces/Home/Englisch/Klasse 12.2/Macbeth/Macbeth the book/Acts/Macbeth the Acts/Act 5",
+    "Spaces/Home/_Sonstige_/06.05.2024_Mathe;_Buchseite_63_Aufgabe_2b_&_Buchseite_70_Aufgabe_5_&_Arbeitsblatt_Vektorrechnung_2_Aufgabe_2.png",
+    "Spaces/Home/_Sonstige_/22.04.2024_Französisch;_Besuchen_eines_Restaurants_im_Französischem.png",
+    "Spaces/Home/Biologie/Klasse 12/12.2/Ökologie/Abbildungen & Unterlagen/14.03.2024 Biologie; Vergleich der Fuchsarten Fennekund Rotfuchs.svg",
+    "Spaces/Home/_Jasons Mathematische Formelsamlung für den Matheleistungskurs der WBS Schule Norderstedt_/Z_Spielereien/Pasted image 20240103145623.png",
+    "Spaces/Home/_Jasons Mathematische Formelsamlung für den Matheleistungskurs der WBS Schule Norderstedt_/Z_Spielereien/desmos-graph.svg",
+    "Spaces/Home/Französisch/Klasse 12/Lektion 6/Französisch vom 02.11.2023; Körperteile auf Französisch.png",
+    "Spaces/Home/Französisch/Klasse 12/Lektion 6/FranzoÌsisch vom 02.11.2023; KoÌrperteile auf FranzoÌsisch.png",
+    "Spaces/Home/_Excalidraw_/Drawing 12.01.2024 15.52.excalidraw.light.svg",
+    "Spaces/Home/_Excalidraw_/Drawing 12.01.2024 15.52.excalidraw.dark.svg",
+    "Spaces/Home/Französisch/Klasse 12/Lektion 6/Drawing 06.11.2023 15.39.excalidraw.light.svg",
+    "Spaces/Home/Religion/Klasse 12/08.02.2024 Religion; Schaubild zur Aussage von M20.canvas",
+    "Spaces/Home/Deutsch/Klasse 12/12.1/„Sprache und Sprachwandel“ — „Medien“ — „Lesen und Literatur“/Verwendung von Sprache in Werrbung.canvas",
+    "Spaces/Home/Mathe/Klasse 12/Integrale/Integrale.canvas",
+    "Spaces/Home/Geschichte/Klasse 12/Die Menschenrechte aus universal – historischer Perspektive – angeboren und universell/Die Menschenrechte aus universal – historischer Perspektive – angeboren und universell.canvas",
+    "_Templates_/Untitled.canvas",
+    "Spaces/Home/Physik/Regelwerk/Regelwerk.canvas",
+    "Spaces/Home/Mathe/Regelwerk /Untitled 1 2.canvas",
+    "Spaces/Home/Mathe/Regelwerk /Untitled 1.canvas",
+    "Spaces/Home/Mathe/Regelwerk /Untitled.canvas"
+  ]
+}

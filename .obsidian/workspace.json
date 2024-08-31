@@ -1,0 +1,353 @@
+{
+  "main": {
+    "id": "34b40b9c004d2c80",
+    "type": "split",
+    "children": [
+      {
+        "id": "249bfbc321deb2b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54eabda840ab6048",
+            "type": "leaf",
+            "state": {
+              "type": "swar8080/AVAILABLE_PLUGIN_UPDATES",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "16b1a99aa2481007",
+    "type": "split",
+    "children": [
+      {
+        "id": "abdd23af89e76628",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbca30e3886887f2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "975f87cefeffdc92",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "df8fc7268515bf26",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "1ad743433d2e35b4",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "4277651399bbb4c8",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 428.5
+  },
+  "right": {
+    "id": "d0083e7af5e01785",
+    "type": "split",
+    "children": [
+      {
+        "id": "48d5d801f20bbaaa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29aff9ab69f87570",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3e91f6cf568c4f74",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c42259ff479988df",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f9fcbcfb36fd0e21",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "d00bf653625a0f00",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "bbe330a10b89f854",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "d41478f560fff8a3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "b6ad5a36e5a3e039",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "b08cf9ab503f0490",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
+          },
+          {
+            "id": "4f018cf09103da2b",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "d4db4b7c54736698",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          },
+          {
+            "id": "421a3708dc71b550",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
+          },
+          {
+            "id": "0760ee569136b621",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "788a90bb55acd4f2",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "b9ea904b7074e509",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          },
+          {
+            "id": "6627884ceea5997b",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
+          },
+          {
+            "id": "6d2bf339a04cb17f",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
+          },
+          {
+            "id": "83fd714f23e30f4f",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
+          },
+          {
+            "id": "9f3ee9ff8ab69628",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 17
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "canvas:Create new canvas": false,
+      "switcher:Open quick switcher": true,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "3d-graph:3D Graph": false,
+      "omnisearch:Omnisearch": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "handwritten-notes:Create empty handwritten note": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "janitor:Janitor: scan vault": false,
+      "excel:Create Excel File": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "time-ruler:Open Time Ruler": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "obsidian-day-planner:Timeline": false,
+      "homework-manager:Open homework": false,
+      "obsidian-map-view:Open map view": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "media-extended:Open media": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "obsidian-projects:Open projects": false,
+      "obsidian-jump-to-date-plugin:Jump-to-Date": false
+    }
+  },
+  "active": "54eabda840ab6048",
+  "lastOpenFiles": [
+    "_Sonstige_/plugins/fantasy-calendar/data.json",
+    "_Sonstige_/plugins/fantasy-calendar",
+    "_Sonstige_/plugins",
+    "_Sonstige_",
+    "2023-05-29.md",
+    "Biologie/Klasse 11/2023-06-04.md",
+    "Biologie/Klasse 11/2023-06-04r.md",
+    "Englisch/Klasse 12/Act_1_Scene_4.md",
+    "Biologie/Klasse 11/ALT 2023-02-03 Bio Profilaufgabe Protokol Freitag ALT.md",
+    "Französisch/Klasse 12/Gramatik/Französisch; § 39 Die Demonstrativbegleiter ce I cet I cette I ces.md",
+    "_Sonstige_/Pdf/Der Einfluss von Impfungen auf die Gesundheit der heutigen Gesellschaft im Vergleich zu der Zeit, in welcher es noch keine gab..pdf",
+    "Englisch/Klasse 12/14.06.2024 Englisch; 1,1 to 3,3.md",
+    "10.06.2024 Biologie;.md",
+    "18.06.2024.md",
+    "14.06.2024 .md",
+    "Mathe/Regelwerk/Untitled.canvas",
+    "Mathe/Regelwerk/Untitled 1.canvas",
+    "Mathe/Regelwerk/Untitled 1 2.canvas",
+    "Mathe/Regelwerk/Mathe; Differenzialquotient.md",
+    "Mathe/Regelwerk/Mathe; Rechnen in einem rechtwinkligen Dreieck.md",
+    "Mathe/Regelwerk/Mathe; Ableitungsregeln.md",
+    "Mathe/Regelwerk/30.11.2023 Mathe; Regelwerk.md",
+    "Mathe/Regelwerk/08.12.2023 Mathe; lagebeziehung Ebene — Ebene.md",
+    "Mathe/Regelwerk",
+    "Kunst/Klasse 12",
+    "Kunst/Klasse",
+    "Kunst/New folder",
+    "Geschichte/Klasse 12/12.2",
+    "Geschichte/Klasse 12/New folder",
+    "Geographie/Klasse 12/12.2/Migration/Französisch; Indirekte Fragen.md",
+    "Geographie/Klasse 12/12.2/Migration/28.02.2024 Geographie; Naturräumliches Potenzial.md",
+    "Geographie/Klasse 12/12.2/Migration/28.02.2024 Geographie; Indikatoren zur Kenzeichnung des Entwicklungstand eines Landes.md",
+    "Geographie/Klasse 12/12.2/Migration/21.02.2024 Geographie; Definierung der Begriffe „Entwicklungsländer“ und „dritte Welt“.md",
+    "Geographie/Klasse 12/12.2/Migration/21.02.2024 Einteilung der Länder nach Weltbank (2021).md",
+    "Geographie/Klasse 12/12.2/Migration/07.02.2024 Geographie; Glossar.md",
+    "Geographie/Klasse 12/12.2/Migration/07.02.2024 Geographie; Das Push-Pull Model.md",
+    "Geographie/Klasse 12/12.2/Drawing 24.04.2024 Bevölkerungsexplosion in Ländern des Globalen Südens.excalidraw.md",
+    "Geographie/Klasse 12/12.2/07.02.2024 Geographie; Glossar.md",
+    "Französisch/Klasse 11/2023-03-22 Franzo╠êsisch Klausur Themen.md",
+    "Pasted Image 20231127121454_853.svg",
+    "Pasted Image 20231129143257_613.svg",
+    "_Sonstige_/Biologie/Codesonne.svg",
+    "_Sonstige_/Biologie/Abhängigkeit der Enzymmenge von der Anwesenheit von Lactose (dark).svg",
+    "_Sonstige_/Biologie/Abhängigkeit der Enzymmenge von der Anwesenheit von Lactose.svg",
+    "_Excalidraw_/Drawing 06.11.2023 15.39.excalidraw.dark.png",
+    "_Excalidraw_/Französisch vom 02.11.2023; Körperteile auf Französisch.png",
+    "_Excalidraw_/Drawing 06.11.2023 15.39.excalidraw.dark.svg",
+    "_Excalidraw_/Französisch vom 02.11.2023; Körperteile auf Französisch.sv

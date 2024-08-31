@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path: Spaces/Home/Mathe ",
+      "color": {
+        "a": 1,
+        "rgb": 29323
+      }
+    },
+    {
+      "query": "path: Spaces/Home/Deutsch",
+      "color": {
+        "a": 1,
+        "rgb": 14043484
+      }
+    },
+    {
+      "query": "path: Spaces/Home/Physik ",
+      "color": {
+        "a": 1,
+        "rgb": 4168540
+      }
+    },
+    {
+      "query": "path: Spaces/Home/Biologie",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    },
+    {
+      "query": "path:Spaces/Home/Englisch  ",
+      "color": {
+        "a": 1,
+        "rgb": 16771213
+      }
+    },
+    {
+      "query": "path:Spaces/Home/Französisch  ",
+      "color": {
+        "a": 1,
+        "rgb": 16756188
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.2780197667338914,
+  "close": true
+}
