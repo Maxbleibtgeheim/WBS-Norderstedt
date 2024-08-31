@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2830ef29a3c1d637",
+        "id": "387b142e95c41c47",
         "type": "tabs",
         "children": [
           {
-            "id": "08a9f8c7c01e8e02",
+            "id": "a4ccfec5a470ae27",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geschichte/Klasse 12/Die Menschenrechte aus universal – historischer Perspektive – angeboren und universell/21.12.2023 Geschichte; Erklärung der Menschen- und Bürgerrechte in der Französischen Revolution.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -101,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geschichte/Klasse 12/Die Menschenrechte aus universal – historischer Perspektive – angeboren und universell/21.12.2023 Geschichte; Erklärung der Menschen- und Bürgerrechte in der Französischen Revolution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geschichte/Klasse 12/Die Menschenrechte aus universal – historischer Perspektive – angeboren und universell/21.12.2023 Geschichte; Erklärung der Menschen- und Bürgerrechte in der Französischen Revolution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Geschichte/Klasse 12/Die Menschenrechte aus universal – historischer Perspektive – angeboren und universell/21.12.2023 Geschichte; Erklärung der Menschen- und Bürgerrechte in der Französischen Revolution.md"
-              }
+              "state": {}
             }
           },
           {
@@ -304,13 +296,14 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "media-extended:Open media": false,
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
-      "obsidian-projects:Open projects": false
+      "obsidian-projects:Open projects": false,
+      "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "08a9f8c7c01e8e02",
+  "active": "a4ccfec5a470ae27",
   "lastOpenFiles": [
-    "Geschichte/Klasse 12/Die Menschenrechte aus universal – historischer Perspektive – angeboren und universell/30.11.2023 Geschichte; Buch Seite 47 Aufgabe 1, 2 und 3.md",
     "Geschichte/Klasse 12/Die Menschenrechte aus universal – historischer Perspektive – angeboren und universell/21.12.2023 Geschichte; Erklärung der Menschen- und Bürgerrechte in der Französischen Revolution.md",
+    "Geschichte/Klasse 12/Die Menschenrechte aus universal – historischer Perspektive – angeboren und universell/30.11.2023 Geschichte; Buch Seite 47 Aufgabe 1, 2 und 3.md",
     "Geschichte/07.03.2024 Geschichte; Deutscher Nationalismus im 19. Jahrhundert.md",
     "2023-05-22 Deutsch _Der Zeck_ Grenopille.md",
     "2023-05-20 Quellen.md",
