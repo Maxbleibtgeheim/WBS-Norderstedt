@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "249bfbc321deb2b2",
+        "id": "2830ef29a3c1d637",
         "type": "tabs",
         "children": [
           {
-            "id": "54eabda840ab6048",
+            "id": "08a9f8c7c01e8e02",
             "type": "leaf",
             "state": {
-              "type": "swar8080/AVAILABLE_PLUGIN_UPDATES",
+              "type": "empty",
               "state": {}
             }
           }
@@ -301,7 +301,7 @@
       "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "54eabda840ab6048",
+  "active": "08a9f8c7c01e8e02",
   "lastOpenFiles": [
     "_Sonstige_/plugins/fantasy-calendar/data.json",
     "_Sonstige_/plugins/fantasy-calendar",
@@ -350,4 +350,7 @@
     "_Excalidraw_/Drawing 06.11.2023 15.39.excalidraw.dark.png",
     "_Excalidraw_/Französisch vom 02.11.2023; Körperteile auf Französisch.png",
     "_Excalidraw_/Drawing 06.11.2023 15.39.excalidraw.dark.svg",
-    "_Excalidraw_/Französisch vom 02.11.2023; Körperteile auf Französisch.sv
+    "_Excalidraw_/Französisch vom 02.11.2023; Körperteile auf Französisch.svg",
+    "_Excalidraw_/Drawing 06.11.2023 15.39.excalidraw.light.png"
+  ]
+}
