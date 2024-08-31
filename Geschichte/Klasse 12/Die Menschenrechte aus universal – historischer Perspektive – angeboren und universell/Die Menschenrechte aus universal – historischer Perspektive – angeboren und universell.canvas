@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"db02bad428aeff8f","type":"text","text":"konstituhonelle Monachie\n→ Monachie mit Verfassung\n","x":140,"y":-120,"width":400,"height":120},
+		{"id":"1d6fca78e0d305d0","x":-125,"y":120,"width":925,"height":1480,"type":"file","file":"Spaces/Home/Geschichte/Klasse 12/Die Menschenrechte aus universal – historischer Perspektive – angeboren und universell/21.12.2023 Geschichte; Die Erklärung der Menschen- und Bürgerrechte in der Französischen Revolution — Buch Seite 58 bis 60.md"}
+	],
+	"edges":[
+		{"id":"0c5a09192bd08d3f","fromNode":"db02bad428aeff8f","fromSide":"bottom","toNode":"1d6fca78e0d305d0","toSide":"top"}
+	]
+}

@@ -11,8 +11,12 @@
             "id": "08a9f8c7c01e8e02",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Geschichte/Klasse 12/Die Menschenrechte aus universal – historischer Perspektive – angeboren und universell/21.12.2023 Geschichte; Erklärung der Menschen- und Bürgerrechte in der Französischen Revolution.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -97,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Geschichte/Klasse 12/Die Menschenrechte aus universal – historischer Perspektive – angeboren und universell/21.12.2023 Geschichte; Erklärung der Menschen- und Bürgerrechte in der Französischen Revolution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Geschichte/Klasse 12/Die Menschenrechte aus universal – historischer Perspektive – angeboren und universell/21.12.2023 Geschichte; Erklärung der Menschen- und Bürgerrechte in der Französischen Revolution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Geschichte/Klasse 12/Die Menschenrechte aus universal – historischer Perspektive – angeboren und universell/21.12.2023 Geschichte; Erklärung der Menschen- und Bürgerrechte in der Französischen Revolution.md"
+              }
             }
           },
           {
@@ -296,11 +304,15 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "media-extended:Open media": false,
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
-      "obsidian-projects:Open projects": false
+      "obsidian-projects:Open projects": false,
+      "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "dbca30e3886887f2",
+  "active": "08a9f8c7c01e8e02",
   "lastOpenFiles": [
+    "Geschichte/Klasse 12/Die Menschenrechte aus universal – historischer Perspektive – angeboren und universell/30.11.2023 Geschichte; Buch Seite 47 Aufgabe 1, 2 und 3.md",
+    "Geschichte/Klasse 12/Die Menschenrechte aus universal – historischer Perspektive – angeboren und universell/21.12.2023 Geschichte; Erklärung der Menschen- und Bürgerrechte in der Französischen Revolution.md",
+    "Geschichte/07.03.2024 Geschichte; Deutscher Nationalismus im 19. Jahrhundert.md",
     "2023-05-22 Deutsch _Der Zeck_ Grenopille.md",
     "2023-05-20 Quellen.md",
     "2023-05-15.md",
@@ -330,9 +342,6 @@
     "Wirtschaft & Politik/2023-03-26 Demografischer wandel.md",
     "Wirtschaft & Politik",
     "WiPo/Klasse 12/Wirtschaftspraktikumsberich vom zeitraum des 02.10.2023 bis zum 13.10.2023/09.11.2023Vulkanisation.md",
-    "WiPo/Klasse 12/Wirtschaftspraktikumsberich vom zeitraum des 02.10.2023 bis zum 13.10.2023/09.11.2023 Kurzdarstellung des Unternehmens.md",
-    "WiPo/Klasse 12/Wirtschaftspraktikumsberich vom zeitraum des 02.10.2023 bis zum 13.10.2023/08.11.2023gvhj.md",
-    "WiPo/Klasse 12/Wirtschaftspraktikumsberich vom zeitraum des 02.10.2023 bis zum 13.10.2023/08.11.2023 Unternehmensstruktur.md",
     "WiPo/Klasse 12/Wirtschaftspraktikumsberich vom zeitraum des 02.10.2023 bis zum 13.10.2023",
     "WiPo/Klasse 12",
     "WiPo",

@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"22a6f0573478b0d8","type":"text","text":"## Ist der Mensch gut oder Böse?","x":-120,"y":164,"width":580,"height":76,"color":"2"},
+		{"id":"c42f2e48e37b4626","type":"text","text":"Der Mensch ist von Natur aus gut geschaffen und wird erst durch die Hände anderer verdorben.","x":-140,"y":280,"width":620,"height":140},
+		{"id":"f2583239e87a75a4","type":"text","text":"Nur einzelne Menschen führen zu negativen Verhallten.","x":-80,"y":521,"width":500,"height":79},
+		{"id":"d62efbfb349a27e3","type":"text","text":"Dies wird nicht von anderen Menschen verhindert, sondern ausgelöst.","x":-20,"y":700,"width":380,"height":160},
+		{"id":"3c32d0d43cd6bdcb","type":"text","text":"Dieses, in allgemeinen als negativ betrachtete verhalten wird nicht an die Nächste Generation vererbt, sondern wird von dieser neu erlernt.","x":-20,"y":960,"width":380,"height":180},
+		{"id":"f5d7fa565a800c1c","type":"text","text":"Die zuvor genannten Eigenarten der Menschheit, führen zu einer fälschlichen Ansicht, nach welcher der Mensch von Grund auf böse ist.","x":40,"y":1257,"width":260,"height":263},
+		{"id":"dab64636fa4b62e7","type":"text","text":"#### Lösung\nDie Lösung der neuerlerung des negativen Verhaltens weiterer Generationen liegt im Gesellschaftsvertrag, welcher besagt, dass jeder sich selber unter den Gemeinwillen stehlt und jedes Mitglied ein untrennbaren teil der Gesellschaft darstellt.","x":540,"y":1257,"width":660,"height":263,"color":"4"}
+	],
+	"edges":[
+		{"id":"e90a3132f686a9d3","fromNode":"c42f2e48e37b4626","fromSide":"bottom","toNode":"f2583239e87a75a4","toSide":"top"},
+		{"id":"be5afb205bd9bd8a","fromNode":"f2583239e87a75a4","fromSide":"bottom","toNode":"d62efbfb349a27e3","toSide":"top"},
+		{"id":"f58db3234f7e9a63","fromNode":"d62efbfb349a27e3","fromSide":"bottom","toNode":"3c32d0d43cd6bdcb","toSide":"top"},
+		{"id":"05ce1e1c3ef2b39b","fromNode":"22a6f0573478b0d8","fromSide":"bottom","toNode":"c42f2e48e37b4626","toSide":"top"},
+		{"id":"13aca8b55b04d825","fromNode":"3c32d0d43cd6bdcb","fromSide":"bottom","toNode":"f5d7fa565a800c1c","toSide":"top"},
+		{"id":"7295aa3acd889883","fromNode":"f5d7fa565a800c1c","fromSide":"right","toNode":"dab64636fa4b62e7","toSide":"left"}
+	]
+}

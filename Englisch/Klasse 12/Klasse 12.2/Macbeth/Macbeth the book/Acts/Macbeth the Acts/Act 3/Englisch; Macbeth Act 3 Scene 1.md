@@ -1,0 +1,393 @@
+---
+color: var(--mk-color-yellow)
+sticker: lucide//file-plus
+---
+# Act 3, Scene 1
+
+[Forres, the royal palace. Enter Banquo thinking outloud]
+
+### Banquo
+
+Thou hast it now: king, Cawdor, Glamis, all
+
+As the weird women promised, and, I fear,
+
+Thou played’st most foully for't. Yet it was said
+
+It should not stand in thy posterity,
+
+But that myself should be the root and father
+
+Of many kings. If there come truth from them –
+
+As upon thee, Macbeth, their speeches shine — 
+
+Why, by the verities on thee made good,
+
+May they not be my oracles as well,
+
+And set me up in hope? But hush, no more.
+
+[Trumpet sounded. Enter Macbeth, as king, Lady Macbeth, as queen, Lennox, Ross, Lords, Ladies, and Attendants]
+
+### Macbeth
+
+Here's our chief guest.
+
+### Lady Macbeth
+
+                                       If he had been forgotten,
+
+It had been as a gap in our great feast,
+
+And allthing unbecoming.
+
+### Macbeth
+
+Tonight we hold a solemn supper sir,
+
+And I'll request your presence.
+
+### Banquo
+
+                                                   Let your highness
+
+Command upon me, to the which my duties
+
+Are with a most indissoluble tie
+
+Forever knit.
+
+### Macbeth
+
+Ride you this afternoon?
+
+### Banquo
+
+                                           Ay, my good lord.
+
+### Macbeth
+
+We should have else desired your good advice,
+
+Which still hath been both grave and prosperous,
+
+In this day's council; but we'll take tomorrow.
+
+Is't far you ride?
+
+### Banquo
+
+As far, my lord, as will fill up the time
+
+'Twixt this and supper. Go not my horse the better,
+
+I must become a borrower of the night
+
+For a dark hour or twain.
+
+### Macbeth
+
+                                                Fail not our feast.
+
+### Banquo
+
+My lord, I will not.
+
+### Macbeth
+
+We hear our bloody cousins are bestowed
+
+In England and in Ireland, not confessing
+
+Their cruel parricide, filling their hearers
+
+With strange invention. But of that tomorrow,
+
+When therewithal we shall have cause of state
+
+Craving us jointly. Hie you to horse. Adieu,
+
+Till you return at night. Goes Fleance with you?
+
+### Banquo
+
+Ay, my good lord. Our time does call upon 's.
+
+### Macbeth
+
+I wish your horses swift and sure of foot;
+
+And so I do commend you to their backs.
+
+Farewell.
+
+[Exit Banquo]
+
+Let every man be master of his time
+
+Till seven at night. To make society
+
+The sweeter welcome, we will keep ourself
+
+Till supper-time alone. While then, God be with you.
+
+[Exit all but Macbeth, and an attendant]
+
+Sirrah, a word with you. Attend those men our pleasure?
+
+### Attendant
+
+They are, my lord, without the palace gate.
+
+### Macbeth
+
+Bring them before us.
+
+[Exit Attendant. Macbeth thinks out loud]
+
+                                            To be thus is nothing,
+
+But to be safely thus. Our fears in Banquo
+
+Stick deep, and in his royalty of nature
+
+Reigns that which would be feared. Tis much he dares,
+
+And to that dauntless temper of his mind,
+
+He hath a wisdom that doth guide his valor
+
+To act in safety. There is none but he
+
+Whose being I do fear; and, under him,
+
+My Genius is rebuked as, it is said,
+
+Mark Antony's was by Caesar. He chid the sisters
+
+When first they put the name of king upon me,
+
+And bade them speak to him. Then, prophet-like,
+
+They hailed him father to a line of kings.
+
+Upon my head they placed a fruitless crown,
+
+And put a barren scepter in my gripe,
+
+Thence to be wrenched with an unlineal hand,
+
+No son of mine succeeding. If 't be so,
+
+For Banquo's issue have I filed my mind.
+
+For them the gracious Duncan have I murdered,
+
+Put rancors in the vessel of my peace,
+
+Only for them; and mine eternal jewel
+
+Given to the common enemy of man,
+
+To make them kings, the seed of Banquo kings.
+
+Rather than so, come fate into the list
+
+And champion me to the utterance – Who's there?
+
+[Re-enter Attendant, with two Murderers]
+
+Now go to the door, and stay there till we call.
+
+[Exit Attendant]
+
+Was it not yesterday we spoke together?
+
+### First Murderer
+
+It was, so please your highness.
+
+### Macbeth
+
+Well then, now have you considered of my 
+
+speeches? Know that it was he in the times past which 
+
+held you so under fortune, which you thought had been
+
+our innocent self? This I made good to you in our last
+
+conference, passed in probation with you how you were 
+
+borne in hand, how crossed, the instruments, who
+
+wrought with them, and all things else that might to
+
+half a soul, and to a notion crazed, say 'Thus did
+
+Banquo.'
+
+### First Murderer
+
+You made it known to us.
+
+### Macbeth
+
+I did so, and went further, which is now our
+
+point of second meeting. Do you find your patience so
+
+predominant in your nature that you can let this go? 
+
+Are you so gospelled to pray for this good man and for
+
+his issue, whose heavy hand hath bowed you to the
+
+grave and beggared yours forever?
+
+### First Murderer
+
+We are men, my liege.
+
+### Macbeth
+
+Ay, in the catalogue ye go for men,
+
+As hounds and greyhounds, mongrels, spaniels, curs,
+
+Shoughs, water-rugs and demi-wolves, are clept
+
+All by the name of dogs. The valued file
+
+Distinguishes the swift, the slow, the subtle,
+
+The housekeeper, the hunter — every one
+
+According to the gift which bounteous nature
+
+Hath in him closed, whereby he does receive
+
+Particular addition from the bill
+
+That writes them all alike — and so of men.
+
+Now, if you have a station in the file
+
+Not i' the worst rank of manhood, say 't.
+
+And I will put that business in your bosoms,
+
+Whose execution takes your enemy off,
+
+Grapples you to the heart and love of us,
+
+Who wear our health but sickly in his life,
+
+Which, in his death, were perfect.
+
+### Second Murderer
+
+                                                          I am one, my liege,
+
+Whom the vile blows and buffets of the world
+
+Have so incensed that I am reckless what I do 
+
+To spite the world.
+
+### First Murderer
+
+                                 And I another,
+
+So weary with disasters, tugged with fortune,
+
+That I would set my lie on any chance
+
+To mend it, or be rid on't.
+
+### Macbeth
+
+                                               Both of you
+
+Know Banquo was your enemy.
+
+### Both Murderers
+
+                                                         True, my lord.
+
+### Macbeth
+
+So is he mine — and in such bloody distance,
+
+That every minute of his being thrusts
+
+Against my near'st of life; and though I could
+
+With barefaced power sweep him from my sight
+
+And bid my will avouch it. Yet I must not,
+
+For certain friends, that are both his and mine,
+
+Whose loves I may not drop, but ​wail his fall,
+
+Who I myself struck down. And thence it is —
+
+That I, to your assistance, do make love,
+
+Masking the business from the common eye
+
+For sundry weighty reasons.
+
+### Second Murderer
+
+                                                      We shall, my lord,
+
+Perform what you command us.
+
+### First Murderer
+
+                                                        Though our lives —
+
+### Macbeth
+
+Your spirits shine through you. Within this hour, at most,
+
+I will advise you where to plant yourselves;
+
+Acquaint you with the perfect spy o' the time,
+
+The moment on't — for't must be done tonight
+
+And something from the palace, always thought
+
+That I require a clearness. And with him, 
+
+To leave no rubs nor botches in the work,
+
+Fleance, his son that keeps him company,
+
+Whose absence is no less material to me
+
+Than is his father's, must embrace the fate
+
+Of that dark hour. Resolve yourselves apart;
+
+I'll come to you anon.
+
+### Both Murderers
+
+                                            We are resolved, my lord.
+
+### Macbeth
+
+I'll call upon you straight; abide within.
+
+[Exit Murderers]
+
+It is concluded. Banquo, thy soul's flight,
+
+If it find heaven, must find it out tonight.
+
+[Exit]
