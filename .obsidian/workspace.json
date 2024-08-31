@@ -11,8 +11,12 @@
             "id": "a4ccfec5a470ae27",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "31.08.2024 Test.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -97,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "31.08.2024 Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "31.08.2024 Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "31.08.2024 Test.md"
+              }
             }
           },
           {
@@ -296,11 +304,13 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "media-extended:Open media": false,
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
-      "obsidian-projects:Open projects": false
+      "obsidian-projects:Open projects": false,
+      "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
   "active": "a4ccfec5a470ae27",
   "lastOpenFiles": [
+    "31.08.2024 Test.md",
     "Geschichte/Klasse 12/Die Menschenrechte aus universal – historischer Perspektive – angeboren und universell/21.12.2023 Geschichte; Erklärung der Menschen- und Bürgerrechte in der Französischen Revolution.md",
     "Geschichte/Klasse 12/Die Menschenrechte aus universal – historischer Perspektive – angeboren und universell/30.11.2023 Geschichte; Buch Seite 47 Aufgabe 1, 2 und 3.md",
     "Geschichte/07.03.2024 Geschichte; Deutscher Nationalismus im 19. Jahrhundert.md",
@@ -332,7 +342,6 @@
     "Wirtschaft & Politik/Klasse 11",
     "Wirtschaft & Politik/2023-03-26 Demografischer wandel.md",
     "Wirtschaft & Politik",
-    "WiPo/Klasse 12/Wirtschaftspraktikumsberich vom zeitraum des 02.10.2023 bis zum 13.10.2023/09.11.2023Vulkanisation.md",
     "WiPo/Klasse 12/Wirtschaftspraktikumsberich vom zeitraum des 02.10.2023 bis zum 13.10.2023",
     "WiPo/Klasse 12",
     "WiPo",
