@@ -81,7 +81,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -262,7 +263,7 @@
             }
           },
           {
-            "id": "9f3ee9ff8ab69628",
+            "id": "d24f8b566d0c0402",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -291,11 +292,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "handwritten-notes:Create empty handwritten note": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "enhance-youtube-links:Get YouTube data": false,
       "janitor:Janitor: scan vault": false,
       "excel:Create Excel File": false,
       "obsidian-book-search-plugin:Create new book note": false,
       "breadcrumbs:Breadcrumbs Visualisation": false,
       "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-jump-to-date-plugin:Jump-to-Date": false,
       "time-ruler:Open Time Ruler": false,
       "fantasy-calendar:Open Large Fantasy Calendar": false,
       "obsidian-day-planner:Timeline": false,
@@ -304,11 +307,10 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "media-extended:Open media": false,
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
-      "obsidian-projects:Open projects": false,
-      "obsidian-jump-to-date-plugin:Jump-to-Date": false
+      "obsidian-projects:Open projects": false
     }
   },
-  "active": "a4ccfec5a470ae27",
+  "active": "1ad743433d2e35b4",
   "lastOpenFiles": [
     "31.08.2024 Test.md",
     "Geschichte/Klasse 12/Die Menschenrechte aus universal – historischer Perspektive – angeboren und universell/21.12.2023 Geschichte; Erklärung der Menschen- und Bürgerrechte in der Französischen Revolution.md",
