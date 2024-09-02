@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "387b142e95c41c47",
+        "id": "0905de2cd41b1ce9",
         "type": "tabs",
         "children": [
           {
-            "id": "a4ccfec5a470ae27",
+            "id": "e5689f426aae91a5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02.09.2024 Biologie; Wiederholung.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -101,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.09.2024 Biologie; Wiederholung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.09.2024 Biologie; Wiederholung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "02.09.2024 Biologie; Wiederholung.md"
-              }
+              "state": {}
             }
           },
           {
@@ -302,17 +294,17 @@
       "obsidian-day-planner:Timeline": false,
       "homework-manager:Open homework": false,
       "obsidian-map-view:Open map view": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": true,
       "media-extended:Open media": false,
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "obsidian-projects:Open projects": false,
       "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "a4ccfec5a470ae27",
+  "active": "e5689f426aae91a5",
   "lastOpenFiles": [
-    "31.08.2024 Test.md",
     "02.09.2024 Biologie; Wiederholung.md",
+    "31.08.2024 Test.md",
     "Geschichte/Klasse 12/Die Menschenrechte aus universal – historischer Perspektive – angeboren und universell/21.12.2023 Geschichte; Erklärung der Menschen- und Bürgerrechte in der Französischen Revolution.md",
     "Geschichte/Klasse 12/Die Menschenrechte aus universal – historischer Perspektive – angeboren und universell/30.11.2023 Geschichte; Buch Seite 47 Aufgabe 1, 2 und 3.md",
     "Geschichte/07.03.2024 Geschichte; Deutscher Nationalismus im 19. Jahrhundert.md",
