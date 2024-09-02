@@ -81,12 +81,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 428.5
+    "width": 285.5
   },
   "right": {
     "id": "d0083e7af5e01785",
@@ -306,10 +305,11 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "media-extended:Open media": false,
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
-      "obsidian-projects:Open projects": false
+      "obsidian-projects:Open projects": false,
+      "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "a4ccfec5a470ae27",
+  "active": "dbca30e3886887f2",
   "lastOpenFiles": [
     "31.08.2024 Test.md",
     "02.09.2024 Biologie; Wiederholung.md",
