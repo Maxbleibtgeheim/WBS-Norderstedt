@@ -102,6 +102,41 @@
       "name": "Demo project",
       "id": "09231b98-c226-49fe-bdc9-0a438b9ee769",
       "path": "Projects - Demo Project"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": true,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "/",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "a3ff72ab-f452-414c-8e6f-8ed631d89fd3",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "3e7484e6-9eb2-4261-9ff5-9acf5064426a",
+      "name": "Leistungsnachweise"
     }
   ],
   "archives": [],
