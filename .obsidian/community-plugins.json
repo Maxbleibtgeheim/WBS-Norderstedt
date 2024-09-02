@@ -78,7 +78,6 @@
   "obsidian-markdown-export-plugin",
   "obsidian-git",
   "obsidian-thumbnails",
-  "fantasy-calendar",
   "buttons",
   "obsidian-checklist-plugin",
   "cmenu-plugin",
@@ -105,5 +104,6 @@
   "obsidian-tasks-plugin",
   "obsidian-transcription",
   "merge-notes",
-  "file-diff"
+  "file-diff",
+  "fantasy-calendar"
 ]

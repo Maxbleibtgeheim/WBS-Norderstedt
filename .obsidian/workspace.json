@@ -214,14 +214,6 @@
             }
           },
           {
-            "id": "0760ee569136b621",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
-          },
-          {
             "id": "788a90bb55acd4f2",
             "type": "leaf",
             "state": {
@@ -268,9 +260,17 @@
               "type": "timeline",
               "state": {}
             }
+          },
+          {
+            "id": "adebb4d34dbbab62",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 17
+        "currentTab": 18
       }
     ],
     "direction": "horizontal",
@@ -309,7 +309,7 @@
       "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "dbca30e3886887f2",
+  "active": "a4ccfec5a470ae27",
   "lastOpenFiles": [
     "31.08.2024 Test.md",
     "02.09.2024 Biologie; Wiederholung.md",
