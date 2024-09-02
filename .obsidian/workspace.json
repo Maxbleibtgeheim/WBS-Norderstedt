@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "0905de2cd41b1ce9",
+        "id": "c1155da66028d159",
         "type": "tabs",
         "children": [
           {
-            "id": "e5689f426aae91a5",
+            "id": "227a9784c91f11a8",
             "type": "leaf",
             "state": {
-              "type": "obsidian-projects",
+              "type": "empty",
               "state": {}
             }
           }
@@ -297,11 +297,10 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": true,
       "media-extended:Open media": false,
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
-      "obsidian-projects:Open projects": false,
-      "obsidian-jump-to-date-plugin:Jump-to-Date": false
+      "obsidian-projects:Open projects": false
     }
   },
-  "active": "e5689f426aae91a5",
+  "active": "227a9784c91f11a8",
   "lastOpenFiles": [
     "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
     "Projects - Demo Project/What I Learned From Taking 15,000 Notes.md",
