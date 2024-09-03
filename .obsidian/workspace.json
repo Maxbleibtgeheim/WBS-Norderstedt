@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03.09.2024.md",
+                "file": "03.09.2024 Mathe; Arbeitsblatt -- Wiederholung der Grundlagen der Stochastik.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03.09.2024.md",
+                "file": "03.09.2024 Mathe; Arbeitsblatt -- Wiederholung der Grundlagen der Stochastik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03.09.2024.md",
+                "file": "03.09.2024 Mathe; Arbeitsblatt -- Wiederholung der Grundlagen der Stochastik.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03.09.2024.md"
+                "file": "03.09.2024 Mathe; Arbeitsblatt -- Wiederholung der Grundlagen der Stochastik.md"
               }
             }
           },
@@ -282,7 +282,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -320,7 +321,7 @@
   "lastOpenFiles": [
     "_Sonstige_/jpeg/03_09_2024_Arbeitsblatt_Wiederholung_der_Grundlagen_der_Stochastik.jpg",
     "_Sonstige_/jpeg",
-    "03.09.2024.md",
+    "03.09.2024 Mathe; Arbeitsblatt -- Wiederholung der Grundlagen der Stochastik.md",
     "2023-05-05 Podcast \"Das Parfum\".md",
     "02.09.2024.md",
     "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
