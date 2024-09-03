@@ -11,8 +11,12 @@
             "id": "a2dc96b443c8e207",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "03.09.2024.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -97,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "03.09.2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "03.09.2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "03.09.2024.md"
+              }
             }
           },
           {
@@ -305,11 +313,13 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": true,
       "media-extended:Open media": false,
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
-      "obsidian-projects:Open projects": false
+      "obsidian-projects:Open projects": false,
+      "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
   "active": "a2dc96b443c8e207",
   "lastOpenFiles": [
+    "03.09.2024.md",
     "2023-05-05 Podcast \"Das Parfum\".md",
     "02.09.2024.md",
     "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
@@ -336,7 +346,6 @@
     "22.05.2024 Geographie;.md",
     "20.06.2024.md",
     "18.06.2024.md",
-    "18.06.2024 Englisch; Macbeth -- Scene 1.1 to 2.1.md",
     "Wirtschaft & Politik/Klasse 11/Aktuelle Viertelstunde /Chatkontrolle",
     "Wirtschaft & Politik/Klasse 11/Aktuelle Viertelstunde/Chatkontrolle",
     "Wirtschaft & Politik/Klasse 11/Aktuelle Viertelstunde ",
