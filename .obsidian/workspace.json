@@ -20,15 +20,27 @@
             }
           },
           {
-            "id": "71be7642a90271d1",
+            "id": "8147628b5a9e65b7",
             "type": "leaf",
             "state": {
-              "type": "swar8080/AVAILABLE_PLUGIN_UPDATES",
+              "type": "markdown",
+              "state": {
+                "file": "03.09.2024 Geschichte; Novemberrevolution 1918.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f1cfae31af45006c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
               "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -259,14 +271,6 @@
             }
           },
           {
-            "id": "d24f8b566d0c0402",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {}
-            }
-          },
-          {
             "id": "adebb4d34dbbab62",
             "type": "leaf",
             "state": {
@@ -281,9 +285,17 @@
               "type": "time-ruler-view",
               "state": {}
             }
+          },
+          {
+            "id": "668d7315ec1da841",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 17
+        "currentTab": 16
       }
     ],
     "direction": "horizontal",
@@ -322,8 +334,12 @@
       "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "71be7642a90271d1",
+  "active": "dbca30e3886887f2",
   "lastOpenFiles": [
+    "Geschichte/Klasse 13/Klasse 13.1/Untitled",
+    "Geschichte/Klasse 13/Klasse 13.1",
+    "Geschichte/Klasse 13",
+    "03.09.2024 Geschichte; Novemberrevolution 1918.md",
     "03.09.2024 Mathe; Arbeitsblatt -- Wiederholung der Grundlagen der Stochastik.md",
     "_Sonstige_/jpeg/03_09_2024_Arbeitsblatt_Wiederholung_der_Grundlagen_der_Stochastik.jpg",
     "_Sonstige_/jpeg",
@@ -351,15 +367,12 @@
     "25.06.2024.md",
     "25.06.2024 535.md",
     "22.05.2024 Geographie;.md",
-    "20.06.2024.md",
     "Wirtschaft & Politik/Klasse 11/Aktuelle Viertelstunde /Chatkontrolle",
     "Wirtschaft & Politik/Klasse 11/Aktuelle Viertelstunde/Chatkontrolle",
     "Wirtschaft & Politik/Klasse 11/Aktuelle Viertelstunde ",
     "Wirtschaft & Politik/Klasse 11/Aktuelle Viertelstunde",
     "Wirtschaft & Politik/Klasse 11",
     "Wirtschaft & Politik",
-    "WiPo/Klasse 12/Wirtschaftspraktikumsberich vom zeitraum des 02.10.2023 bis zum 13.10.2023",
-    "WiPo/Klasse 12",
     "Sonstiges/F483314F-E1AF-46B6-90D8-3B501C4599E2.jpeg",
     "Sonstiges/24047043-F808-4173-AC62-752524B9185A.jpeg",
     "Religion/Klasse 11/03.04.23, 11.43 Microsoft Lens.jpeg",
