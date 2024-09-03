@@ -25,22 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03.09.2024 Geschichte; Novemberrevolution 1918.md",
+                "file": "Geschichte/Klasse 13/Klasse 13.1/Dektaturen und Dwemokratien im Zeitalter der Extremen/03.09.2024 Geschichte; Novemberrevolution 1918.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "f1cfae31af45006c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 328.5
   },
   "right": {
     "id": "d0083e7af5e01785",
@@ -122,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Geschichte/Klasse 13/Klasse 13.1/Dektaturen und Dwemokratien im Zeitalter der Extremen/03.09.2024 Geschichte; Novemberrevolution 1918.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,6 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Geschichte/Klasse 13/Klasse 13.1/Dektaturen und Dwemokratien im Zeitalter der Extremen/03.09.2024 Geschichte; Novemberrevolution 1918.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +153,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Geschichte/Klasse 13/Klasse 13.1/Dektaturen und Dwemokratien im Zeitalter der Extremen/03.09.2024 Geschichte; Novemberrevolution 1918.md"
+              }
             }
           },
           {
@@ -334,12 +330,13 @@
       "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "dbca30e3886887f2",
+  "active": "8147628b5a9e65b7",
   "lastOpenFiles": [
-    "Geschichte/Klasse 13/Klasse 13.1/Untitled",
+    "03.09.2024.md",
+    "Geschichte/Klasse 13/Klasse 13.1/Dektaturen und Dwemokratien im Zeitalter der Extremen/03.09.2024 Geschichte; Novemberrevolution 1918.md",
+    "Geschichte/Klasse 13/Klasse 13.1/Dektaturen und Dwemokratien im Zeitalter der Extremen",
     "Geschichte/Klasse 13/Klasse 13.1",
     "Geschichte/Klasse 13",
-    "03.09.2024 Geschichte; Novemberrevolution 1918.md",
     "03.09.2024 Mathe; Arbeitsblatt -- Wiederholung der Grundlagen der Stochastik.md",
     "_Sonstige_/jpeg/03_09_2024_Arbeitsblatt_Wiederholung_der_Grundlagen_der_Stochastik.jpg",
     "_Sonstige_/jpeg",
@@ -372,7 +369,6 @@
     "Wirtschaft & Politik/Klasse 11/Aktuelle Viertelstunde ",
     "Wirtschaft & Politik/Klasse 11/Aktuelle Viertelstunde",
     "Wirtschaft & Politik/Klasse 11",
-    "Wirtschaft & Politik",
     "Sonstiges/F483314F-E1AF-46B6-90D8-3B501C4599E2.jpeg",
     "Sonstiges/24047043-F808-4173-AC62-752524B9185A.jpeg",
     "Religion/Klasse 11/03.04.23, 11.43 Microsoft Lens.jpeg",
