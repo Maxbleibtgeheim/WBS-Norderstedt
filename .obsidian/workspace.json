@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9f4431fd37c23c04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geographie/Klasse 12/12.2/07.02.2024 Geographie; Glossar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04.09.2024 Geographie; \"Wie alles begann... \" Obelix GmbH & Co. KG.md",
+                "file": "Geographie/Klasse 12/12.2/07.02.2024 Geographie; Glossar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04.09.2024 Geographie; \"Wie alles begann... \" Obelix GmbH & Co. KG.md",
+                "file": "Geographie/Klasse 12/12.2/07.02.2024 Geographie; Glossar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04.09.2024 Geographie; \"Wie alles begann... \" Obelix GmbH & Co. KG.md"
+                "file": "Geographie/Klasse 12/12.2/07.02.2024 Geographie; Glossar.md"
               }
             }
           },
@@ -342,10 +354,11 @@
       "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "6a3283c69dbe6bce",
+  "active": "9f4431fd37c23c04",
   "lastOpenFiles": [
     "03.09.2024 Mathe; Arbeitsblatt -- Wiederholung der Grundlagen der Stochastik.md",
     "04.09.2024 Geographie; \"Wie alles begann... \" Obelix GmbH & Co. KG.md",
+    "Geographie/Klasse 12/12.2/07.02.2024 Geographie; Glossar.md",
     "Geschichte/Klasse 13/Klasse 13.1/Dektaturen und Dwemokratien im Zeitalter der Extremen/03.09.2024 Geschichte; Novemberrevolution 1918.md",
     "03.09.2024.md",
     "Geschichte/Klasse 13/Klasse 13.1/Dektaturen und Dwemokratien im Zeitalter der Extremen",
@@ -375,7 +388,6 @@
     "2023-05-08 Kunst konstruktivismus.md",
     "2023-03-26 Demografischer wandel.md",
     "25.06.2024.md",
-    "25.06.2024 535.md",
     "Wirtschaft & Politik/Klasse 11/Aktuelle Viertelstunde /Chatkontrolle",
     "Wirtschaft & Politik/Klasse 11/Aktuelle Viertelstunde/Chatkontrolle",
     "Wirtschaft & Politik/Klasse 11/Aktuelle Viertelstunde ",
