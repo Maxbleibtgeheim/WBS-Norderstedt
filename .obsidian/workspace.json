@@ -37,38 +37,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04.09.2024 Religion; Theodizee.md",
+                "file": "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Wo begegnet uns Leid? — Meldungen und Notitzen.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "9f4431fd37c23c04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; \"Das Leid ist der Fels der Atheisten\".md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0cd614a4c21c674c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "9626a201568a9593",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ],
@@ -154,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04.09.2024 Religion; Theodizee.md",
+                "file": "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Wo begegnet uns Leid? — Meldungen und Notitzen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04.09.2024 Religion; Theodizee.md",
+                "file": "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Wo begegnet uns Leid? — Meldungen und Notitzen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04.09.2024 Religion; Theodizee.md"
+                "file": "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Wo begegnet uns Leid? — Meldungen und Notitzen.md"
               }
             }
           },
@@ -366,14 +338,22 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": true,
       "media-extended:Open media": false,
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
-      "obsidian-projects:Open projects": false,
-      "obsidian-jump-to-date-plugin:Jump-to-Date": false
+      "obsidian-projects:Open projects": false
     }
   },
   "active": "6a3283c69dbe6bce",
   "lastOpenFiles": [
+    "_Sonstige_/Diagramme/XML/Formen des Leidens.drawio",
+    "_Sonstige_/Diagramme/XML",
+    "_Sonstige_/Diagramme",
+    "_Sonstige_/Pdf/04.09.2024 Religion; Wo begegnet uns Leid? — Meldungen und Notitzen.pdf",
+    "_Sonstige_/jpeg/04.09.2024 Religion; Wo begegnet uns Leid? — Meldungen und Notitzen.jpg",
+    "_Sonstige_/jpeg/03_09_2024_Arbeitsblatt_Wiederholung_der_Grundlagen_der_Stochastik.jpg",
+    "_Sonstige_/jpeg/photo_2024-09-04_12-46-26.jpg",
+    "_Sonstige_/Pdf/04.09.24, 12_45 Microsoft Lens.pdf",
+    "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Theodizee.md",
+    "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Wo begegnet uns Leid? — Meldungen und Notitzen.md",
     "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; \"Das Leid ist der Fels der Atheisten\".md",
-    "04.09.2024 Religion; Theodizee.md",
     "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus",
     "Religion/Klasse 13/Klasse 13.1",
     "Religion/Klasse 13",
@@ -386,8 +366,6 @@
     "Geschichte/Klasse 13/Klasse 13.1/Dektaturen und Dwemokratien im Zeitalter der Extremen",
     "Geschichte/Klasse 13/Klasse 13.1",
     "Geschichte/Klasse 13",
-    "_Sonstige_/jpeg/03_09_2024_Arbeitsblatt_Wiederholung_der_Grundlagen_der_Stochastik.jpg",
-    "_Sonstige_/jpeg",
     "2023-05-05 Podcast \"Das Parfum\".md",
     "02.09.2024.md",
     "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
@@ -395,7 +373,6 @@
     "Projects - Demo Project/Why You Should Be Taking More Notes.md",
     "Projects - Demo Project/The Easiest Way to Start Taking Notes.md",
     "Projects - Demo Project/The Best Notes You'll Ever Make.md",
-    "Projects - Demo Project",
     "02.09.2024 Biologie; Wiederholung.md",
     "31.08.2024 Test.md",
     "Geschichte/Klasse 12/Die Menschenrechte aus universal – historischer Perspektive – angeboren und universell/21.12.2023 Geschichte; Erklärung der Menschen- und Bürgerrechte in der Französischen Revolution.md",
@@ -405,10 +382,6 @@
     "2023-05-20 Quellen.md",
     "2023-05-15.md",
     "2023-05-14.md",
-    "2023-05-12 Geo Neapel.md",
-    "2023-05-12 Das Parfum erzähl perspektive.md",
-    "Wirtschaft & Politik/Klasse 11/Aktuelle Viertelstunde /Chatkontrolle",
-    "Wirtschaft & Politik/Klasse 11/Aktuelle Viertelstunde/Chatkontrolle",
     "Sonstiges/F483314F-E1AF-46B6-90D8-3B501C4599E2.jpeg",
     "Sonstiges/24047043-F808-4173-AC62-752524B9185A.jpeg",
     "Religion/Klasse 11/03.04.23, 11.43 Microsoft Lens.jpeg",
@@ -423,8 +396,6 @@
     "Französisch/Klasse 12/Lektion 6/FranzoÌsisch vom 02.11.2023; KoÌrperteile auf FranzoÌsisch.png",
     "Französisch/Klasse 12/Lektion 6/Französisch vom 02.11.2023; Körperteile auf Französisch.png",
     "Französisch/Klasse 12/Lektion 6/Drawing 06.11.2023 15.39.excalidraw.light.svg",
-    "Französisch/Klasse 12/Lektion 6/Drawing 06.11.2023 15.39.excalidraw.light.png",
-    "Französisch/Klasse 12/Lektion 6/Drawing 06.11.2023 15.39.excalidraw.excalidraw.light.svg",
     "Deutsch/Klasse 12/12.1/„Sprache und Sprachwandel“ — „Medien“ — „Lesen und Literatur“/Verwendung von Sprache in Werrbung.canvas"
   ]
 }
