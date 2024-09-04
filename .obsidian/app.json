@@ -85,7 +85,7 @@
     "obsidian-languagetool-plugin:ltcheck-text"
   ],
   "attachmentFolderPath": "_Sonstige_",
-  "readableLineLength": true,
+  "readableLineLength": false,
   "showUnsupportedFiles": true,
   "newFileLocation": "root",
   "newFileFolderPath": ""
