@@ -35,8 +35,12 @@
             "id": "6a3283c69dbe6bce",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "04.09.2024 Geographie; \"Wie alles begann... \" Obelix GmbH & Co. KG.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -122,6 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "04.09.2024 Geographie; \"Wie alles begann... \" Obelix GmbH & Co. KG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,6 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "04.09.2024 Geographie; \"Wie alles begann... \" Obelix GmbH & Co. KG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +165,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "04.09.2024 Geographie; \"Wie alles begann... \" Obelix GmbH & Co. KG.md"
+              }
             }
           },
           {
@@ -287,7 +295,7 @@
             }
           },
           {
-            "id": "af56ea2e02abc9a0",
+            "id": "cdecc7f0b09f9cf4",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -295,7 +303,7 @@
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 19
       }
     ],
     "direction": "horizontal",
@@ -336,6 +344,7 @@
   },
   "active": "6a3283c69dbe6bce",
   "lastOpenFiles": [
+    "04.09.2024 Geographie; \"Wie alles begann... \" Obelix GmbH & Co. KG.md",
     "03.09.2024 Mathe; Arbeitsblatt -- Wiederholung der Grundlagen der Stochastik.md",
     "Geschichte/Klasse 13/Klasse 13.1/Dektaturen und Dwemokratien im Zeitalter der Extremen/03.09.2024 Geschichte; Novemberrevolution 1918.md",
     "03.09.2024.md",
@@ -367,7 +376,6 @@
     "2023-03-26 Demografischer wandel.md",
     "25.06.2024.md",
     "25.06.2024 535.md",
-    "22.05.2024 Geographie;.md",
     "Wirtschaft & Politik/Klasse 11/Aktuelle Viertelstunde /Chatkontrolle",
     "Wirtschaft & Politik/Klasse 11/Aktuelle Viertelstunde/Chatkontrolle",
     "Wirtschaft & Politik/Klasse 11/Aktuelle Viertelstunde ",
