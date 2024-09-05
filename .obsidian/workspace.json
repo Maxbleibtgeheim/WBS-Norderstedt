@@ -294,7 +294,7 @@
             }
           },
           {
-            "id": "822bd289d93a6c0f",
+            "id": "07ac245bbc3f0f29",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -337,7 +337,8 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": true,
       "media-extended:Open media": false,
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
-      "obsidian-projects:Open projects": false
+      "obsidian-projects:Open projects": false,
+      "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
   "active": "a2dc96b443c8e207",
