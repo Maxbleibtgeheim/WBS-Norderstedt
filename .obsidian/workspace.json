@@ -62,9 +62,17 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "249f4c4a42a21d32",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -315,7 +323,7 @@
             }
           },
           {
-            "id": "53d4229d07a34f26",
+            "id": "2a3dea6336be5908",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -358,10 +366,11 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": true,
       "media-extended:Open media": false,
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
-      "obsidian-projects:Open projects": false
+      "obsidian-projects:Open projects": false,
+      "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "af12fe9eaa48356b",
+  "active": "249f4c4a42a21d32",
   "lastOpenFiles": [
     "03.09.2024 Mathe; Arbeitsblatt -- Wiederholung der Grundlagen der Stochastik.md",
     "05.09.2024.md",

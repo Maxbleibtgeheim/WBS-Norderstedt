@@ -104,5 +104,6 @@
   "file-diff",
   "fantasy-calendar",
   "quick-latex",
-  "obsidian-latex-suite"
+  "obsidian-latex-suite",
+  "obsidian-tikzjax"
 ]
