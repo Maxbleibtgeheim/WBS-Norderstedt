@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05.09.2024.md",
+                "file": "05.09.2024 Englisch;.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,8 +67,12 @@
             "id": "249f4c4a42a21d32",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "05.09.2024.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -154,6 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "05.09.2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,6 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "05.09.2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +197,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "05.09.2024.md"
+              }
             }
           },
           {
@@ -368,9 +376,10 @@
   },
   "active": "249f4c4a42a21d32",
   "lastOpenFiles": [
+    "05.09.2024.md",
+    "05.09.2024 Englisch;.md",
     "03.09.2024 Mathe; Arbeitsblatt -- Wiederholung der Grundlagen der Stochastik.md",
     "Geschichte/Klasse 13/Klasse 13.1/Dektaturen und Dwemokratien im Zeitalter der Extremen/03.09.2024 Geschichte; Novemberrevolution 1918.md",
-    "05.09.2024.md",
     "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Wo begegnet uns Leid? — Meldungen und Notitzen.md",
     "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Theodizee.md",
     "_Sonstige_/Diagramme/XML/Formen des Leidens.drawio",
@@ -406,7 +415,6 @@
     "2023-05-22 Deutsch _Der Zeck_ Grenopille.md",
     "2023-05-20 Quellen.md",
     "2023-05-15.md",
-    "2023-05-14.md",
     "Sonstiges/F483314F-E1AF-46B6-90D8-3B501C4599E2.jpeg",
     "Sonstiges/24047043-F808-4173-AC62-752524B9185A.jpeg",
     "Religion/Klasse 11/03.04.23, 11.43 Microsoft Lens.jpeg",
