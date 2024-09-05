@@ -389,8 +389,7 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": true,
       "media-extended:Open media": false,
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
-      "obsidian-projects:Open projects": false,
-      "obsidian-jump-to-date-plugin:Jump-to-Date": false
+      "obsidian-projects:Open projects": false
     }
   },
   "active": "d19a44af756f712c",
