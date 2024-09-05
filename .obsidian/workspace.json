@@ -63,7 +63,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -357,17 +358,16 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": true,
       "media-extended:Open media": false,
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
-      "obsidian-projects:Open projects": false,
-      "obsidian-jump-to-date-plugin:Jump-to-Date": false
+      "obsidian-projects:Open projects": false
     }
   },
-  "active": "a2dc96b443c8e207",
+  "active": "af12fe9eaa48356b",
   "lastOpenFiles": [
+    "03.09.2024 Mathe; Arbeitsblatt -- Wiederholung der Grundlagen der Stochastik.md",
     "05.09.2024.md",
     "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Wo begegnet uns Leid? — Meldungen und Notitzen.md",
     "Geschichte/Klasse 13/Klasse 13.1/Dektaturen und Dwemokratien im Zeitalter der Extremen/03.09.2024 Geschichte; Novemberrevolution 1918.md",
     "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Theodizee.md",
-    "03.09.2024 Mathe; Arbeitsblatt -- Wiederholung der Grundlagen der Stochastik.md",
     "_Sonstige_/Diagramme/XML/Formen des Leidens.drawio",
     "_Sonstige_/Diagramme/XML",
     "_Sonstige_/Diagramme",
