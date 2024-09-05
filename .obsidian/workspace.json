@@ -54,9 +54,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "af12fe9eaa48356b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -138,7 +146,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05.09.2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +162,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05.09.2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,9 +183,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "05.09.2024.md"
-              }
+              "state": {}
             }
           },
           {
@@ -354,10 +358,10 @@
       "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "bd4c7c54f4106f49",
+  "active": "af12fe9eaa48356b",
   "lastOpenFiles": [
-    "03.09.2024 Mathe; Arbeitsblatt -- Wiederholung der Grundlagen der Stochastik.md",
     "05.09.2024.md",
+    "03.09.2024 Mathe; Arbeitsblatt -- Wiederholung der Grundlagen der Stochastik.md",
     "Geschichte/Klasse 13/Klasse 13.1/Dektaturen und Dwemokratien im Zeitalter der Extremen/03.09.2024 Geschichte; Novemberrevolution 1918.md",
     "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Theodizee.md",
     "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Wo begegnet uns Leid? — Meldungen und Notitzen.md",
