@@ -341,9 +341,17 @@
               "type": "timeline",
               "state": {}
             }
+          },
+          {
+            "id": "59b928c25631233a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 18
+        "currentTab": 20
       }
     ],
     "direction": "horizontal",
@@ -383,6 +391,7 @@
   },
   "active": "249f4c4a42a21d32",
   "lastOpenFiles": [
+    "Excel 2024-09-05 10.16.02.sheet.md",
     "05.09.2024 Französisch; Steigerung des Wortes \"gut\".md",
     "05.09.2024 Englisch;.md",
     "03.09.2024 Mathe; Arbeitsblatt -- Wiederholung der Grundlagen der Stochastik.md",
@@ -421,7 +430,6 @@
     "Geschichte/07.03.2024 Geschichte; Deutscher Nationalismus im 19. Jahrhundert.md",
     "2023-05-22 Deutsch _Der Zeck_ Grenopille.md",
     "2023-05-20 Quellen.md",
-    "2023-05-15.md",
     "Sonstiges/F483314F-E1AF-46B6-90D8-3B501C4599E2.jpeg",
     "Sonstiges/24047043-F808-4173-AC62-752524B9185A.jpeg",
     "Religion/Klasse 11/03.04.23, 11.43 Microsoft Lens.jpeg",
