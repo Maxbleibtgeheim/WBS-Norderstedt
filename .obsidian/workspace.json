@@ -86,9 +86,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "275ceac62cee7c93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05.09.2024 Biologie; Brutblatt contra Buntnessel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -170,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05.09.2024 französisch; Livre une page 105 \"Sa premère voiture\".md",
+                "file": "05.09.2024 Biologie; Brutblatt contra Buntnessel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05.09.2024 französisch; Livre une page 105 \"Sa premère voiture\".md",
+                "file": "05.09.2024 Biologie; Brutblatt contra Buntnessel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05.09.2024 französisch; Livre une page 105 \"Sa premère voiture\".md"
+                "file": "05.09.2024 Biologie; Brutblatt contra Buntnessel.md"
               }
             }
           },
@@ -339,23 +351,23 @@
             }
           },
           {
-            "id": "6ef4fbd8c6043d14",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {}
-            }
-          },
-          {
             "id": "59b928c25631233a",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "57c23f753639e0b8",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 20
+        "currentTab": 19
       }
     ],
     "direction": "horizontal",
@@ -389,11 +401,13 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": true,
       "media-extended:Open media": false,
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
-      "obsidian-projects:Open projects": false
+      "obsidian-projects:Open projects": false,
+      "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "d19a44af756f712c",
+  "active": "275ceac62cee7c93",
   "lastOpenFiles": [
+    "05.09.2024 Biologie; Brutblatt contra Buntnessel.md",
     "05.09.2024 französisch; Livre une page 105 \"Sa premère voiture\".md",
     "05.09.2024 Französisch; Steigerung des Wortes \"gut\".md",
     "Excel 2024-09-05 10.16.02.sheet.md",
@@ -432,7 +446,6 @@
     "Geschichte/Klasse 12/Die Menschenrechte aus universal – historischer Perspektive – angeboren und universell/21.12.2023 Geschichte; Erklärung der Menschen- und Bürgerrechte in der Französischen Revolution.md",
     "Geschichte/Klasse 12/Die Menschenrechte aus universal – historischer Perspektive – angeboren und universell/30.11.2023 Geschichte; Buch Seite 47 Aufgabe 1, 2 und 3.md",
     "Geschichte/07.03.2024 Geschichte; Deutscher Nationalismus im 19. Jahrhundert.md",
-    "2023-05-22 Deutsch _Der Zeck_ Grenopille.md",
     "Sonstiges/F483314F-E1AF-46B6-90D8-3B501C4599E2.jpeg",
     "Sonstiges/24047043-F808-4173-AC62-752524B9185A.jpeg",
     "Religion/Klasse 11/03.04.23, 11.43 Microsoft Lens.jpeg",
