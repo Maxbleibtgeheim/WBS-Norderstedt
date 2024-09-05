@@ -65,7 +65,10 @@
     "Ferienjobs": 53,
     "obsidian": 54,
     "note-taking": 55,
-    "pkm": 56
+    "pkm": 56,
+    "Stochastik": 57,
+    "Bernoulli_Formel": 58,
+    "Laplace": 59
   },
   "_version": 3
 }
