@@ -79,12 +79,16 @@
             "id": "d19a44af756f712c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "05.09.2024.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -166,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05.09.2024 Französisch; Steigerung des Wortes \"gut\".md",
+                "file": "05.09.2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05.09.2024 Französisch; Steigerung des Wortes \"gut\".md",
+                "file": "05.09.2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05.09.2024 Französisch; Steigerung des Wortes \"gut\".md"
+                "file": "05.09.2024.md"
               }
             }
           },
@@ -389,10 +393,11 @@
       "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "249f4c4a42a21d32",
+  "active": "d19a44af756f712c",
   "lastOpenFiles": [
-    "Excel 2024-09-05 10.16.02.sheet.md",
+    "05.09.2024.md",
     "05.09.2024 Französisch; Steigerung des Wortes \"gut\".md",
+    "Excel 2024-09-05 10.16.02.sheet.md",
     "05.09.2024 Englisch;.md",
     "03.09.2024 Mathe; Arbeitsblatt -- Wiederholung der Grundlagen der Stochastik.md",
     "Geschichte/Klasse 13/Klasse 13.1/Dektaturen und Dwemokratien im Zeitalter der Extremen/03.09.2024 Geschichte; Novemberrevolution 1918.md",
@@ -429,7 +434,6 @@
     "Geschichte/Klasse 12/Die Menschenrechte aus universal – historischer Perspektive – angeboren und universell/30.11.2023 Geschichte; Buch Seite 47 Aufgabe 1, 2 und 3.md",
     "Geschichte/07.03.2024 Geschichte; Deutscher Nationalismus im 19. Jahrhundert.md",
     "2023-05-22 Deutsch _Der Zeck_ Grenopille.md",
-    "2023-05-20 Quellen.md",
     "Sonstiges/F483314F-E1AF-46B6-90D8-3B501C4599E2.jpeg",
     "Sonstiges/24047043-F808-4173-AC62-752524B9185A.jpeg",
     "Religion/Klasse 11/03.04.23, 11.43 Microsoft Lens.jpeg",
