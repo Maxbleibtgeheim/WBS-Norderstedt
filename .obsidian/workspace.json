@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06.09.2024 Biologie; Wie kann das Brutblatt nachts CO2 aufbewahren und trotzdem Fotosynthese betreiben?.md",
+                "file": "05.09.2024 Biologie; Brutblatt contra Buntnessel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06.09.2024 Biologie; Wie kann das Brutblatt nachts CO2 aufbewahren und trotzdem Fotosynthese betreiben?.md",
+                "file": "05.09.2024 Biologie; Brutblatt contra Buntnessel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06.09.2024 Biologie; Wie kann das Brutblatt nachts CO2 aufbewahren und trotzdem Fotosynthese betreiben?.md"
+                "file": "05.09.2024 Biologie; Brutblatt contra Buntnessel.md"
               }
             }
           },
@@ -409,14 +409,17 @@
       "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "275ceac62cee7c93",
+  "active": "dbca30e3886887f2",
   "lastOpenFiles": [
+    "Biologie/Klasse 13/Klasse 13.1/Fotosynthese",
+    "Biologie/Klasse 13/Klasse 13.1",
+    "Biologie/Klasse 13",
+    "06.09.2024 Biologie; Wie kann das Brutblatt nachts CO2 aufbewahren und trotzdem Fotosynthese betreiben?.md",
     "05.09.2024 Biologie; Brutblatt contra Buntnessel.md",
     "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Theodizee.md",
     "Geschichte/Klasse 13/Klasse 13.1/Dektaturen und Dwemokratien im Zeitalter der Extremen/03.09.2024 Geschichte; Novemberrevolution 1918.md",
     "03.09.2024 Mathe; Arbeitsblatt -- Wiederholung der Grundlagen der Stochastik.md",
     "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Wo begegnet uns Leid? — Meldungen und Notitzen.md",
-    "06.09.2024 Biologie; Wie kann das Brutblatt nachts CO2 aufbewahren und trotzdem Fotosynthese betreiben?.md",
     "_Sonstige_/png/CAM Pflanzen Brutblatt contra Buntnessel.png",
     "_Sonstige_/Pdf/CAM Pflanzen Brutblatt contra Buntnessel.pdf",
     "05.09.2024 französisch; Livre une page 105 \"Sa premère voiture\".md",
@@ -434,12 +437,10 @@
     "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; \"Das Leid ist der Fels der Atheisten\".md",
     "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus",
     "Religion/Klasse 13/Klasse 13.1",
-    "Religion/Klasse 13",
     "04.09.2024 Geographie; \"Wie alles begann... \" Obelix GmbH & Co. KG.md",
     "Geographie/13.03.2024 Geographie; klausur.md",
     "Geographie/Klasse 12/12.2/07.02.2024 Geographie; Glossar.md",
     "03.09.2024.md",
-    "Geschichte/Klasse 13/Klasse 13.1/Dektaturen und Dwemokratien im Zeitalter der Extremen",
     "2023-05-05 Podcast \"Das Parfum\".md",
     "02.09.2024.md",
     "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
@@ -450,7 +451,6 @@
     "02.09.2024 Biologie; Wiederholung.md",
     "31.08.2024 Test.md",
     "Geschichte/Klasse 12/Die Menschenrechte aus universal – historischer Perspektive – angeboren und universell/21.12.2023 Geschichte; Erklärung der Menschen- und Bürgerrechte in der Französischen Revolution.md",
-    "Geschichte/Klasse 12/Die Menschenrechte aus universal – historischer Perspektive – angeboren und universell/30.11.2023 Geschichte; Buch Seite 47 Aufgabe 1, 2 und 3.md",
     "Sonstiges/F483314F-E1AF-46B6-90D8-3B501C4599E2.jpeg",
     "Sonstiges/24047043-F808-4173-AC62-752524B9185A.jpeg",
     "Religion/Klasse 11/03.04.23, 11.43 Microsoft Lens.jpeg",
