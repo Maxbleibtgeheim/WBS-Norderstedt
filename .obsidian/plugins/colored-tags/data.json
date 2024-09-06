@@ -72,7 +72,11 @@
     "Fotosynthese": 60,
     "Cam-Pflanzen": 61,
     "C3-Pflanzen": 62,
-    "novemberrevolotion": 63
+    "novemberrevolotion": 63,
+    "Matheaufgaben": 64,
+    "Stochastikaufgaben": 65,
+    "Novemberrevolotion": 66,
+    "Jahr_1918": 67
   },
   "_version": 3
 }
