@@ -56,14 +56,6 @@
             }
           },
           {
-            "id": "af12fe9eaa48356b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "249f4c4a42a21d32",
             "type": "leaf",
             "state": {
@@ -94,6 +86,18 @@
               "type": "markdown",
               "state": {
                 "file": "06.09.2024 Biologie; Wie kann das Brutblatt nachts CO2 aufbewahren und trotzdem Fotosynthese betreiben?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8465be2df4941d31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05.09.2024 Biologie; Brutblatt contra Buntnessel.md",
                 "mode": "source",
                 "source": false
               }
@@ -183,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06.09.2024 Biologie; Wie kann das Brutblatt nachts CO2 aufbewahren und trotzdem Fotosynthese betreiben?.md",
+                "file": "05.09.2024 Biologie; Brutblatt contra Buntnessel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06.09.2024 Biologie; Wie kann das Brutblatt nachts CO2 aufbewahren und trotzdem Fotosynthese betreiben?.md",
+                "file": "05.09.2024 Biologie; Brutblatt contra Buntnessel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06.09.2024 Biologie; Wie kann das Brutblatt nachts CO2 aufbewahren und trotzdem Fotosynthese betreiben?.md"
+                "file": "05.09.2024 Biologie; Brutblatt contra Buntnessel.md"
               }
             }
           },
@@ -406,10 +410,10 @@
       "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "275ceac62cee7c93",
+  "active": "8465be2df4941d31",
   "lastOpenFiles": [
-    "05.09.2024 Biologie; Brutblatt contra Buntnessel.md",
     "06.09.2024 Biologie; Wie kann das Brutblatt nachts CO2 aufbewahren und trotzdem Fotosynthese betreiben?.md",
+    "05.09.2024 Biologie; Brutblatt contra Buntnessel.md",
     "_Sonstige_/png/CAM Pflanzen Brutblatt contra Buntnessel.png",
     "_Sonstige_/Pdf/CAM Pflanzen Brutblatt contra Buntnessel.pdf",
     "05.09.2024 französisch; Livre une page 105 \"Sa premère voiture\".md",
