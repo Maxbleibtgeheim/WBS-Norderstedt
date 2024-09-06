@@ -103,8 +103,7 @@
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06.09.2024 Biologie; Wie kann das Brutblatt nachts CO2 aufbewahren und trotzdem Fotosynthese betreiben?.md",
+                "file": "03.09.2024 Mathe; Arbeitsblatt -- Wiederholung der Grundlagen der Stochastik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06.09.2024 Biologie; Wie kann das Brutblatt nachts CO2 aufbewahren und trotzdem Fotosynthese betreiben?.md",
+                "file": "03.09.2024 Mathe; Arbeitsblatt -- Wiederholung der Grundlagen der Stochastik.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06.09.2024 Biologie; Wie kann das Brutblatt nachts CO2 aufbewahren und trotzdem Fotosynthese betreiben?.md"
+                "file": "03.09.2024 Mathe; Arbeitsblatt -- Wiederholung der Grundlagen der Stochastik.md"
               }
             }
           },
@@ -410,10 +409,10 @@
       "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "275ceac62cee7c93",
+  "active": "a2dc96b443c8e207",
   "lastOpenFiles": [
-    "05.09.2024 Biologie; Brutblatt contra Buntnessel.md",
     "06.09.2024 Biologie; Wie kann das Brutblatt nachts CO2 aufbewahren und trotzdem Fotosynthese betreiben?.md",
+    "05.09.2024 Biologie; Brutblatt contra Buntnessel.md",
     "_Sonstige_/png/CAM Pflanzen Brutblatt contra Buntnessel.png",
     "_Sonstige_/Pdf/CAM Pflanzen Brutblatt contra Buntnessel.pdf",
     "05.09.2024 französisch; Livre une page 105 \"Sa premère voiture\".md",
