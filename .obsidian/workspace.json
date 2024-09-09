@@ -6,6 +6,7 @@
       {
         "id": "5676b9015f6ccff6",
         "type": "tabs",
+        "dimension": 44.976635514018696,
         "children": [
           {
             "id": "a2dc96b443c8e207",
@@ -105,6 +106,23 @@
           }
         ],
         "currentTab": 7
+      },
+      {
+        "id": "6bb57458071f0f3d",
+        "type": "tabs",
+        "dimension": 55.023364485981304,
+        "children": [
+          {
+            "id": "253ecf2406aae564",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "_Sonstige_/png/Evolutionstheorien Schüler AB.2png.png"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +188,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.5
+    "width": 328.5,
+    "collapsed": true
   },
   "right": {
     "id": "d0083e7af5e01785",
@@ -420,6 +439,8 @@
   },
   "active": "bb032b3d26a8895d",
   "lastOpenFiles": [
+    "_Sonstige_/png/Evolutionstheorien Schüler AB.2png.png",
+    "09.09.2024 Biologie; Evolutionstheorien Schüler AB.md",
     "09.09.2024 Mathe;.md",
     "05.09.2024 Englisch;.md",
     "05.09.2024 Französisch; Steigerung des Wortes \"gut\".md",
@@ -429,10 +450,8 @@
     "09.09.2024.md",
     "Biologie/Klasse 13/Klasse 13.1/Fotosynthese/09.09.2024 Biologie; Vergleich C3-, C4- und CAMPflanzen.md",
     "09.09.2024 Biologie;.md",
-    "09.09.2024 Biologie; Evolutionstheorien Schüler AB.md",
     "Mathe/Klasse 13/Klasse 13.1/03.09.2024 Mathe; Arbeitsblatt -- Wiederholung der Grundlagen der Stochastik.md",
     "_Sonstige_/png/Evolutionstheorien Schüler AB.3png.png",
-    "_Sonstige_/png/Evolutionstheorien Schüler AB.2png.png",
     "_Sonstige_/Pdf/Evolutionstheorien Schüler AB.pdf",
     "_Sonstige_/Diagramme/XML/Evolution.drawio",
     "Biologie/Klasse 13/Klasse 13.1/Evolution",
@@ -465,7 +484,6 @@
     "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
     "Projects - Demo Project/What I Learned From Taking 15,000 Notes.md",
     "Projects - Demo Project/Why You Should Be Taking More Notes.md",
-    "Projects - Demo Project/The Easiest Way to Start Taking Notes.md",
     "Religion/Klasse 12/08.02.2024 Religion; Schaubild zur Aussage von M20.canvas",
     "Physik/Regelwerk/Regelwerk.canvas",
     "Mathe/Klasse 12/Integrale/Integrale.canvas",
