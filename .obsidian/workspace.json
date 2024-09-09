@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "09.09.2024 Mathe;.md",
+                "file": "09.09.2024 Biologie;.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "09.09.2024 Mathe;.md",
+                "file": "09.09.2024 Biologie;.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09.09.2024 Mathe;.md"
+                "file": "09.09.2024 Biologie;.md"
               }
             }
           },
@@ -409,12 +409,12 @@
       "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "4bcdc126bee2886d",
+  "active": "425f17a21623c33d",
   "lastOpenFiles": [
-    "_Sonstige_/jpeg/09.09.2024 Aufgabe zum bestimmen der Fairness eines Münzwurfes.jpeg",
-    "09.09.2024 Biologie;.md",
-    "09.09.2024 Mathe;.md",
     "Biologie/Klasse 13/Klasse 13.1/Fotosynthese/05.09.2024 Biologie; Brutblatt contra Buntnessel.md",
+    "09.09.2024 Mathe;.md",
+    "09.09.2024 Biologie;.md",
+    "_Sonstige_/jpeg/09.09.2024 Aufgabe zum bestimmen der Fairness eines Münzwurfes.jpeg",
     "Biologie/Klasse 13/Klasse 13.1/Fotosynthese/06.09.2024 Biologie; Wie kann das Brutblatt nachts CO2 aufbewahren und trotzdem Fotosynthese betreiben?.md",
     "05.09.2024 französisch; Livre une page 105 \"Sa premère voiture\".md",
     "05.09.2024 Französisch; Steigerung des Wortes \"gut\".md",
@@ -463,7 +463,6 @@
     "Mathe/Regelwerk/Untitled 1.canvas",
     "Mathe/Regelwerk/Untitled 1 2.canvas",
     "Geschichte/Klasse 12/Die Menschenrechte aus universal – historischer Perspektive – angeboren und universell/Die Menschenrechte aus universal – historischer Perspektive – angeboren und universell.canvas",
-    "Geographie/Klasse 11/Max_Janßen_11c_Geographie_PR-Konzepte_erarbeiten-ein_Windpark.png",
     "Deutsch/Klasse 12/12.1/„Sprache und Sprachwandel“ — „Medien“ — „Lesen und Literatur“/Verwendung von Sprache in Werrbung.canvas"
   ]
 }
