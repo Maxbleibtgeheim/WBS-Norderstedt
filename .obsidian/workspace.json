@@ -103,6 +103,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "274df89fd74c70d8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
         "currentTab": 7
@@ -188,8 +196,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.5,
-    "collapsed": true
+    "width": 328.5
   },
   "right": {
     "id": "d0083e7af5e01785",
@@ -434,7 +441,9 @@
       "media-extended:Open media": false,
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "obsidian-projects:Open projects": false,
-      "obsidian-jump-to-date-plugin:Jump-to-Date": false
+      "obsidian-jump-to-date-plugin:Jump-to-Date": false,
+      "ketcher:Create new structure": false,
+      "3d-graph-new:Global 3D Graph": false
     }
   },
   "active": "bb032b3d26a8895d",

@@ -108,5 +108,9 @@
   "obsidian-latex-suite",
   "tag-wrangler",
   "obsidian-tagfolder",
-  "gdscript-syntax-highlighting"
+  "gdscript-syntax-highlighting",
+  "ketcher",
+  "chem",
+  "chemical-structure-renderer",
+  "3d-graph-new"
 ]
