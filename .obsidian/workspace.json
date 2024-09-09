@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "4bcdc126bee2886d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "09.09.2024 Mathe;.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "bd4c7c54f4106f49",
             "type": "leaf",
             "state": {
@@ -80,43 +92,7 @@
             }
           },
           {
-            "id": "4bcdc126bee2886d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "09.09.2024 Mathe;.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "425f17a21623c33d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "09.09.2024 Biologie;.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ce982e2f32126883",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biologie/Klasse 13/Klasse 13.1/Fotosynthese/09.09.2024 Biologie; Vergleich C3-, C4- und CAMPflanzen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e9672427dea03580",
+            "id": "bb032b3d26a8895d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -128,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -393,13 +369,22 @@
               "type": "timeline",
               "state": {}
             }
+          },
+          {
+            "id": "880ca3994ac6cd2d",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 18
+        "currentTab": 21
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -433,28 +418,29 @@
       "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "e9672427dea03580",
+  "active": "bb032b3d26a8895d",
   "lastOpenFiles": [
+    "09.09.2024 Mathe;.md",
+    "05.09.2024 Englisch;.md",
+    "05.09.2024 Französisch; Steigerung des Wortes \"gut\".md",
+    "05.09.2024 französisch; Livre une page 105 \"Sa premère voiture\".md",
+    "Biologie/Klasse 13/Klasse 13.1/Fotosynthese/06.09.2024 Biologie; Wie kann das Brutblatt nachts CO2 aufbewahren und trotzdem Fotosynthese betreiben?.md",
+    "Biologie/Klasse 13/Klasse 13.1/Fotosynthese/05.09.2024 Biologie; Brutblatt contra Buntnessel.md",
+    "09.09.2024.md",
+    "Biologie/Klasse 13/Klasse 13.1/Fotosynthese/09.09.2024 Biologie; Vergleich C3-, C4- und CAMPflanzen.md",
+    "09.09.2024 Biologie;.md",
+    "09.09.2024 Biologie; Evolutionstheorien Schüler AB.md",
+    "Mathe/Klasse 13/Klasse 13.1/03.09.2024 Mathe; Arbeitsblatt -- Wiederholung der Grundlagen der Stochastik.md",
     "_Sonstige_/png/Evolutionstheorien Schüler AB.3png.png",
     "_Sonstige_/png/Evolutionstheorien Schüler AB.2png.png",
     "_Sonstige_/Pdf/Evolutionstheorien Schüler AB.pdf",
     "_Sonstige_/Diagramme/XML/Evolution.drawio",
-    "09.09.2024 Biologie; Evolutionstheorien Schüler AB.md",
     "Biologie/Klasse 13/Klasse 13.1/Evolution",
-    "Biologie/Klasse 13/Klasse 13.1/Fotosynthese/09.09.2024 Biologie; Vergleich C3-, C4- und CAMPflanzen.md",
-    "09.09.2024 Biologie;.md",
     "_Sonstige_/png/Vergleich ökologisch C3 C4 und CAM Pflanzen.png",
     "_Sonstige_/Pdf/Vergleich ökologisch C3 C4 und CAM Pflanzen.pdf",
     "_Sonstige_/png/Vergleich C3 C4 und CAM Pflanzen.png",
     "_Sonstige_/Pdf/Vergleich C3 C4 und CAM Pflanzen.pdf",
-    "Biologie/Klasse 13/Klasse 13.1/Fotosynthese/05.09.2024 Biologie; Brutblatt contra Buntnessel.md",
-    "09.09.2024 Mathe;.md",
     "_Sonstige_/jpeg/09.09.2024 Aufgabe zum bestimmen der Fairness eines Münzwurfes.jpeg",
-    "Biologie/Klasse 13/Klasse 13.1/Fotosynthese/06.09.2024 Biologie; Wie kann das Brutblatt nachts CO2 aufbewahren und trotzdem Fotosynthese betreiben?.md",
-    "05.09.2024 französisch; Livre une page 105 \"Sa premère voiture\".md",
-    "05.09.2024 Französisch; Steigerung des Wortes \"gut\".md",
-    "05.09.2024 Englisch;.md",
-    "Mathe/Klasse 13/Klasse 13.1/03.09.2024 Mathe; Arbeitsblatt -- Wiederholung der Grundlagen der Stochastik.md",
     "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Theodizee.md",
     "Geschichte/Klasse 13/Klasse 13.1/Dektaturen und Dwemokratien im Zeitalter der Extremen/03.09.2024 Geschichte; Novemberrevolution 1918.md",
     "Berufsorientierung/Klasse 13/Klasse 13.2",
@@ -469,7 +455,6 @@
     "Excel 2024-09-05 10.16.02.sheet.md",
     "_Sonstige_/jpeg/04.09.2024 Religion; Wo begegnet uns Leid? — Meldungen und Notitzen.jpg",
     "_Sonstige_/jpeg/03_09_2024_Arbeitsblatt_Wiederholung_der_Grundlagen_der_Stochastik.jpg",
-    "_Sonstige_/jpeg/photo_2024-09-04_12-46-26.jpg",
     "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; \"Das Leid ist der Fels der Atheisten\".md",
     "04.09.2024 Geographie; \"Wie alles begann... \" Obelix GmbH & Co. KG.md",
     "Geographie/13.03.2024 Geographie; klausur.md",
