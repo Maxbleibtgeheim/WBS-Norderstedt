@@ -114,9 +114,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e9672427dea03580",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "09.09.2024 Biologie; Evolutionstheorien Schüler AB.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -198,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologie/Klasse 13/Klasse 13.1/Fotosynthese/09.09.2024 Biologie; Vergleich C3-, C4- und CAMPflanzen.md",
+                "file": "09.09.2024 Biologie; Evolutionstheorien Schüler AB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologie/Klasse 13/Klasse 13.1/Fotosynthese/09.09.2024 Biologie; Vergleich C3-, C4- und CAMPflanzen.md",
+                "file": "09.09.2024 Biologie; Evolutionstheorien Schüler AB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologie/Klasse 13/Klasse 13.1/Fotosynthese/09.09.2024 Biologie; Vergleich C3-, C4- und CAMPflanzen.md"
+                "file": "09.09.2024 Biologie; Evolutionstheorien Schüler AB.md"
               }
             }
           },
@@ -367,18 +379,18 @@
             }
           },
           {
-            "id": "c9676799170c1d16",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {}
-            }
-          },
-          {
             "id": "41447aa3bc3c3b38",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "a9bba8aa773bdf31",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
               "state": {}
             }
           }
@@ -421,10 +433,16 @@
       "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "ce982e2f32126883",
+  "active": "e9672427dea03580",
   "lastOpenFiles": [
-    "09.09.2024 Biologie;.md",
+    "_Sonstige_/png/Evolutionstheorien Schüler AB.3png.png",
+    "_Sonstige_/png/Evolutionstheorien Schüler AB.2png.png",
+    "_Sonstige_/Pdf/Evolutionstheorien Schüler AB.pdf",
+    "_Sonstige_/Diagramme/XML/Evolution.drawio",
+    "09.09.2024 Biologie; Evolutionstheorien Schüler AB.md",
+    "Biologie/Klasse 13/Klasse 13.1/Evolution",
     "Biologie/Klasse 13/Klasse 13.1/Fotosynthese/09.09.2024 Biologie; Vergleich C3-, C4- und CAMPflanzen.md",
+    "09.09.2024 Biologie;.md",
     "_Sonstige_/png/Vergleich ökologisch C3 C4 und CAM Pflanzen.png",
     "_Sonstige_/Pdf/Vergleich ökologisch C3 C4 und CAM Pflanzen.pdf",
     "_Sonstige_/png/Vergleich C3 C4 und CAM Pflanzen.png",
@@ -444,9 +462,6 @@
     "Berufsorientierung/Klasse 13",
     "Bündelungswoche/Klasse 13/Klasse 13.2",
     "Bündelungswoche/Klasse 13/Klasse 13.1",
-    "Bündelungswoche/Klasse 13",
-    "Deutsch/Klasse 13/Klasse 13.2",
-    "Deutsch/Klasse 13/Klasse 13.1",
     "_Sonstige_/svg/Glucosegehalt und pH-Wert im Brutblatt als Beispiel einer Cam-Pflanze in Abhängigkeit der der Zeit.svg",
     "_Sonstige_/svg/desmos-graph.svg",
     "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Wo begegnet uns Leid? — Meldungen und Notitzen.md",
@@ -466,8 +481,6 @@
     "Projects - Demo Project/What I Learned From Taking 15,000 Notes.md",
     "Projects - Demo Project/Why You Should Be Taking More Notes.md",
     "Projects - Demo Project/The Easiest Way to Start Taking Notes.md",
-    "Projects - Demo Project/The Best Notes You'll Ever Make.md",
-    "Sonstiges/F483314F-E1AF-46B6-90D8-3B501C4599E2.jpeg",
     "Religion/Klasse 12/08.02.2024 Religion; Schaubild zur Aussage von M20.canvas",
     "Physik/Regelwerk/Regelwerk.canvas",
     "Mathe/Klasse 12/Integrale/Integrale.canvas",
