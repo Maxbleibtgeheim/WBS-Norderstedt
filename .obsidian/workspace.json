@@ -379,12 +379,11 @@
             }
           }
         ],
-        "currentTab": 19
+        "currentTab": 18
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
