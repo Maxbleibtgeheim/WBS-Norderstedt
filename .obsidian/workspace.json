@@ -111,7 +111,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe/Klasse 13/Klasse 13.1/03.09.2024 Mathe; Arbeitsblatt -- Wiederholung der Grundlagen der Stochastik.md",
+                "file": "09.09.2024 Mathe;.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe/Klasse 13/Klasse 13.1/03.09.2024 Mathe; Arbeitsblatt -- Wiederholung der Grundlagen der Stochastik.md",
+                "file": "09.09.2024 Mathe;.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathe/Klasse 13/Klasse 13.1/03.09.2024 Mathe; Arbeitsblatt -- Wiederholung der Grundlagen der Stochastik.md"
+                "file": "09.09.2024 Mathe;.md"
               }
             }
           },
@@ -418,10 +419,10 @@
       "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "a2dc96b443c8e207",
+  "active": "4bcdc126bee2886d",
   "lastOpenFiles": [
-    "09.09.2024 Mathe;.md",
     "Mathe/Klasse 13/Klasse 13.1/03.09.2024 Mathe; Arbeitsblatt -- Wiederholung der Grundlagen der Stochastik.md",
+    "09.09.2024 Mathe;.md",
     "09.09.2024 Biologie; Evolutionstheorien Schüler AB.md",
     "_Sonstige_/svg/Deszendenztheorie nach Lamarck.drawio.svg",
     "_Sonstige_/Diagramme/XML/Deszendenztheorie nach Lamarck.drawio",
