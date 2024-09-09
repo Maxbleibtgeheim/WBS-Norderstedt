@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "09.09.2024 Biologie;.md",
+                "file": "09.09.2024 Mathe;.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "09.09.2024 Biologie;.md",
+                "file": "09.09.2024 Mathe;.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09.09.2024 Biologie;.md"
+                "file": "09.09.2024 Mathe;.md"
               }
             }
           },
@@ -409,8 +409,9 @@
       "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "425f17a21623c33d",
+  "active": "4bcdc126bee2886d",
   "lastOpenFiles": [
+    "09.09.2024 Biologie;.md",
     "09.09.2024 Mathe;.md",
     "Biologie/Klasse 13/Klasse 13.1/Fotosynthese/05.09.2024 Biologie; Brutblatt contra Buntnessel.md",
     "Biologie/Klasse 13/Klasse 13.1/Fotosynthese/06.09.2024 Biologie; Wie kann das Brutblatt nachts CO2 aufbewahren und trotzdem Fotosynthese betreiben?.md",
@@ -420,7 +421,6 @@
     "Mathe/Klasse 13/Klasse 13.1/03.09.2024 Mathe; Arbeitsblatt -- Wiederholung der Grundlagen der Stochastik.md",
     "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Theodizee.md",
     "Geschichte/Klasse 13/Klasse 13.1/Dektaturen und Dwemokratien im Zeitalter der Extremen/03.09.2024 Geschichte; Novemberrevolution 1918.md",
-    "09.09.2024 Biologie;.md",
     "Berufsorientierung/Klasse 13/Klasse 13.2",
     "Berufsorientierung/Klasse 13/Klasse 13.1",
     "Berufsorientierung/Klasse 13",
