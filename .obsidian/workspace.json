@@ -20,30 +20,6 @@
             }
           },
           {
-            "id": "8147628b5a9e65b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geschichte/Klasse 13/Klasse 13.1/Dektaturen und Dwemokratien im Zeitalter der Extremen/03.09.2024 Geschichte; Novemberrevolution 1918.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a3283c69dbe6bce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Theodizee.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "bd4c7c54f4106f49",
             "type": "leaf",
             "state": {
@@ -127,7 +103,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -209,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe/Klasse 13/Klasse 13.1/03.09.2024 Mathe; Arbeitsblatt -- Wiederholung der Grundlagen der Stochastik.md",
+                "file": "09.09.2024 Biologie;.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe/Klasse 13/Klasse 13.1/03.09.2024 Mathe; Arbeitsblatt -- Wiederholung der Grundlagen der Stochastik.md",
+                "file": "09.09.2024 Biologie;.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathe/Klasse 13/Klasse 13.1/03.09.2024 Mathe; Arbeitsblatt -- Wiederholung der Grundlagen der Stochastik.md"
+                "file": "09.09.2024 Biologie;.md"
               }
             }
           },
@@ -432,8 +409,18 @@
       "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "a2dc96b443c8e207",
+  "active": "425f17a21623c33d",
   "lastOpenFiles": [
+    "09.09.2024 Mathe;.md",
+    "Biologie/Klasse 13/Klasse 13.1/Fotosynthese/05.09.2024 Biologie; Brutblatt contra Buntnessel.md",
+    "Biologie/Klasse 13/Klasse 13.1/Fotosynthese/06.09.2024 Biologie; Wie kann das Brutblatt nachts CO2 aufbewahren und trotzdem Fotosynthese betreiben?.md",
+    "05.09.2024 französisch; Livre une page 105 \"Sa premère voiture\".md",
+    "05.09.2024 Französisch; Steigerung des Wortes \"gut\".md",
+    "05.09.2024 Englisch;.md",
+    "Mathe/Klasse 13/Klasse 13.1/03.09.2024 Mathe; Arbeitsblatt -- Wiederholung der Grundlagen der Stochastik.md",
+    "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Theodizee.md",
+    "Geschichte/Klasse 13/Klasse 13.1/Dektaturen und Dwemokratien im Zeitalter der Extremen/03.09.2024 Geschichte; Novemberrevolution 1918.md",
+    "09.09.2024 Biologie;.md",
     "Berufsorientierung/Klasse 13/Klasse 13.2",
     "Berufsorientierung/Klasse 13/Klasse 13.1",
     "Berufsorientierung/Klasse 13",
@@ -444,19 +431,8 @@
     "Deutsch/Klasse 13/Klasse 13.1",
     "Deutsch/Klasse 13",
     "Englisch/Klasse 13/Klasse 13.2",
-    "Englisch/Klasse 13/Klasse 13.1",
-    "09.09.2024 Biologie;.md",
-    "09.09.2024 Mathe;.md",
-    "Biologie/Klasse 13/Klasse 13.1/Fotosynthese/05.09.2024 Biologie; Brutblatt contra Buntnessel.md",
-    "Biologie/Klasse 13/Klasse 13.1/Fotosynthese/06.09.2024 Biologie; Wie kann das Brutblatt nachts CO2 aufbewahren und trotzdem Fotosynthese betreiben?.md",
     "_Sonstige_/svg/Glucosegehalt und pH-Wert im Brutblatt als Beispiel einer Cam-Pflanze in Abhängigkeit der der Zeit.svg",
     "_Sonstige_/svg/desmos-graph.svg",
-    "05.09.2024 Englisch;.md",
-    "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Theodizee.md",
-    "05.09.2024 Französisch; Steigerung des Wortes \"gut\".md",
-    "05.09.2024 französisch; Livre une page 105 \"Sa premère voiture\".md",
-    "Geschichte/Klasse 13/Klasse 13.1/Dektaturen und Dwemokratien im Zeitalter der Extremen/03.09.2024 Geschichte; Novemberrevolution 1918.md",
-    "Mathe/Klasse 13/Klasse 13.1/03.09.2024 Mathe; Arbeitsblatt -- Wiederholung der Grundlagen der Stochastik.md",
     "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Wo begegnet uns Leid? — Meldungen und Notitzen.md",
     "_Sonstige_/png/CAM Pflanzen Brutblatt contra Buntnessel.png",
     "Excel 2024-09-05 10.16.02.sheet.md",
