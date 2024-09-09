@@ -105,12 +105,12 @@
   "fantasy-calendar",
   "obsidian-tikzjax",
   "quick-latex",
-  "obsidian-latex-suite",
   "tag-wrangler",
   "obsidian-tagfolder",
   "gdscript-syntax-highlighting",
   "ketcher",
   "chem",
   "chemical-structure-renderer",
-  "3d-graph-new"
+  "3d-graph-new",
+  "obsidian-latex-suite"
 ]
