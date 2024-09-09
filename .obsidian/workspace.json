@@ -127,8 +127,7 @@
               }
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "09.09.2024 Biologie;.md",
+                "file": "03.09.2024 Mathe; Arbeitsblatt -- Wiederholung der Grundlagen der Stochastik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "09.09.2024 Biologie;.md",
+                "file": "03.09.2024 Mathe; Arbeitsblatt -- Wiederholung der Grundlagen der Stochastik.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +249,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09.09.2024 Biologie;.md"
+                "file": "03.09.2024 Mathe; Arbeitsblatt -- Wiederholung der Grundlagen der Stochastik.md"
               }
             }
           },
@@ -433,10 +432,10 @@
       "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "425f17a21623c33d",
+  "active": "a2dc96b443c8e207",
   "lastOpenFiles": [
-    "09.09.2024 Mathe;.md",
     "09.09.2024 Biologie;.md",
+    "09.09.2024 Mathe;.md",
     "Biologie/Klasse 13/Klasse 13.1/Fotosynthese/05.09.2024 Biologie; Brutblatt contra Buntnessel.md",
     "Biologie/Klasse 13/Klasse 13.1/Fotosynthese/06.09.2024 Biologie; Wie kann das Brutblatt nachts CO2 aufbewahren und trotzdem Fotosynthese betreiben?.md",
     "_Sonstige_/svg/Glucosegehalt und pH-Wert im Brutblatt als Beispiel einer Cam-Pflanze in Abhängigkeit der der Zeit.svg",
