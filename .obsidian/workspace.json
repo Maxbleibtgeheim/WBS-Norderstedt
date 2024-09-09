@@ -6,7 +6,6 @@
       {
         "id": "5676b9015f6ccff6",
         "type": "tabs",
-        "dimension": 44.976635514018696,
         "children": [
           {
             "id": "a2dc96b443c8e207",
@@ -114,23 +113,6 @@
           }
         ],
         "currentTab": 7
-      },
-      {
-        "id": "6bb57458071f0f3d",
-        "type": "tabs",
-        "dimension": 55.023364485981304,
-        "children": [
-          {
-            "id": "253ecf2406aae564",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "_Sonstige_/png/Evolutionstheorien Schüler AB.2png.png"
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -448,8 +430,10 @@
   },
   "active": "bb032b3d26a8895d",
   "lastOpenFiles": [
-    "_Sonstige_/png/Evolutionstheorien Schüler AB.2png.png",
+    "_Sonstige_/svg/Deszendenztheorie nach Lamarck.drawio.svg",
+    "_Sonstige_/Diagramme/XML/Deszendenztheorie nach Lamarck.drawio",
     "09.09.2024 Biologie; Evolutionstheorien Schüler AB.md",
+    "_Sonstige_/png/Evolutionstheorien Schüler AB.2png.png",
     "09.09.2024 Mathe;.md",
     "05.09.2024 Englisch;.md",
     "05.09.2024 Französisch; Steigerung des Wortes \"gut\".md",
@@ -475,7 +459,6 @@
     "Berufsorientierung/Klasse 13/Klasse 13.1",
     "Berufsorientierung/Klasse 13",
     "Bündelungswoche/Klasse 13/Klasse 13.2",
-    "Bündelungswoche/Klasse 13/Klasse 13.1",
     "_Sonstige_/svg/Glucosegehalt und pH-Wert im Brutblatt als Beispiel einer Cam-Pflanze in Abhängigkeit der der Zeit.svg",
     "_Sonstige_/svg/desmos-graph.svg",
     "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Wo begegnet uns Leid? — Meldungen und Notitzen.md",
