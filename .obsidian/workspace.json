@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09.09.2024 Mathe;.md",
+                "file": "Mathe/Klasse 13/Klasse 13.1/09.09.2024 Mathe;.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,50 +65,6 @@
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "275ceac62cee7c93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biologie/Klasse 13/Klasse 13.1/Fotosynthese/06.09.2024 Biologie; Wie kann das Brutblatt nachts CO2 aufbewahren und trotzdem Fotosynthese betreiben?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8465be2df4941d31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biologie/Klasse 13/Klasse 13.1/Fotosynthese/05.09.2024 Biologie; Brutblatt contra Buntnessel.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bb032b3d26a8895d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "09.09.2024 Biologie; Evolutionstheorien Schüler AB.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8285ae7acd4fad29",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ],
@@ -194,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "09.09.2024 Mathe;.md",
+                "file": "Mathe/Klasse 13/Klasse 13.1/09.09.2024 Mathe;.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "09.09.2024 Mathe;.md",
+                "file": "Mathe/Klasse 13/Klasse 13.1/09.09.2024 Mathe;.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09.09.2024 Mathe;.md"
+                "file": "Mathe/Klasse 13/Klasse 13.1/09.09.2024 Mathe;.md"
               }
             }
           },
@@ -421,17 +377,17 @@
   },
   "active": "4bcdc126bee2886d",
   "lastOpenFiles": [
+    "05.09.2024 französisch; Livre une page 105 \"Sa premère voiture\".md",
+    "Biologie/Klasse 13/Klasse 13.1/Evolution/09.09.2024 Biologie; Evolutionstheorien Schüler AB.md",
+    "Biologie/Klasse 13/Klasse 13.1/Fotosynthese/05.09.2024 Biologie; Brutblatt contra Buntnessel.md",
+    "Biologie/Klasse 13/Klasse 13.1/Fotosynthese/06.09.2024 Biologie; Wie kann das Brutblatt nachts CO2 aufbewahren und trotzdem Fotosynthese betreiben?.md",
+    "05.09.2024 Französisch; Steigerung des Wortes \"gut\".md",
+    "05.09.2024 Englisch;.md",
     "Mathe/Klasse 13/Klasse 13.1/03.09.2024 Mathe; Arbeitsblatt -- Wiederholung der Grundlagen der Stochastik.md",
-    "09.09.2024 Mathe;.md",
-    "09.09.2024 Biologie; Evolutionstheorien Schüler AB.md",
+    "Mathe/Klasse 13/Klasse 13.1/09.09.2024 Mathe;.md",
     "_Sonstige_/svg/Deszendenztheorie nach Lamarck.drawio.svg",
     "_Sonstige_/Diagramme/XML/Deszendenztheorie nach Lamarck.drawio",
     "_Sonstige_/png/Evolutionstheorien Schüler AB.2png.png",
-    "05.09.2024 Englisch;.md",
-    "05.09.2024 Französisch; Steigerung des Wortes \"gut\".md",
-    "05.09.2024 französisch; Livre une page 105 \"Sa premère voiture\".md",
-    "Biologie/Klasse 13/Klasse 13.1/Fotosynthese/06.09.2024 Biologie; Wie kann das Brutblatt nachts CO2 aufbewahren und trotzdem Fotosynthese betreiben?.md",
-    "Biologie/Klasse 13/Klasse 13.1/Fotosynthese/05.09.2024 Biologie; Brutblatt contra Buntnessel.md",
     "09.09.2024.md",
     "Biologie/Klasse 13/Klasse 13.1/Fotosynthese/09.09.2024 Biologie; Vergleich C3-, C4- und CAMPflanzen.md",
     "09.09.2024 Biologie;.md",
