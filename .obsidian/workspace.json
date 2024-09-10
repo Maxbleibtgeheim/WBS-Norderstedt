@@ -67,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe/Klasse 13/Klasse 13.1/03.09.2024 Mathe; Arbeitsblatt -- Wiederholung der Grundlagen der Stochastik.md",
+                "file": "Mathe/Klasse 13/Klasse 13.1/09.09.2024 Mathe;.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe/Klasse 13/Klasse 13.1/03.09.2024 Mathe; Arbeitsblatt -- Wiederholung der Grundlagen der Stochastik.md",
+                "file": "Mathe/Klasse 13/Klasse 13.1/09.09.2024 Mathe;.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathe/Klasse 13/Klasse 13.1/03.09.2024 Mathe; Arbeitsblatt -- Wiederholung der Grundlagen der Stochastik.md"
+                "file": "Mathe/Klasse 13/Klasse 13.1/09.09.2024 Mathe;.md"
               }
             }
           },
@@ -374,8 +375,9 @@
       "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "a2dc96b443c8e207",
+  "active": "4bcdc126bee2886d",
   "lastOpenFiles": [
+    "Mathe/Klasse 13/Klasse 13.1/03.09.2024 Mathe; Arbeitsblatt -- Wiederholung der Grundlagen der Stochastik.md",
     "_Sonstige_/Diagramme/XML/03.09.2024 Mathe; Arbeitsblatt -- Wiederholung der Grundlagen der Stochastik fe.drawio",
     "Mathe/Klasse 13/Klasse 13.1/09.09.2024 Mathe;.md",
     "_Sonstige_/Pdf/09.09.2024 Mathe;.pdf",
@@ -385,7 +387,6 @@
     "Biologie/Klasse 13/Klasse 13.1/Fotosynthese/06.09.2024 Biologie; Wie kann das Brutblatt nachts CO2 aufbewahren und trotzdem Fotosynthese betreiben?.md",
     "05.09.2024 Französisch; Steigerung des Wortes \"gut\".md",
     "05.09.2024 Englisch;.md",
-    "Mathe/Klasse 13/Klasse 13.1/03.09.2024 Mathe; Arbeitsblatt -- Wiederholung der Grundlagen der Stochastik.md",
     "_Sonstige_/svg/Deszendenztheorie nach Lamarck.drawio.svg",
     "_Sonstige_/Diagramme/XML/Deszendenztheorie nach Lamarck.drawio",
     "_Sonstige_/png/Evolutionstheorien Schüler AB.2png.png",
@@ -405,7 +406,6 @@
     "Geschichte/Klasse 13/Klasse 13.1/Dektaturen und Dwemokratien im Zeitalter der Extremen/03.09.2024 Geschichte; Novemberrevolution 1918.md",
     "Berufsorientierung/Klasse 13/Klasse 13.2",
     "Berufsorientierung/Klasse 13/Klasse 13.1",
-    "Berufsorientierung/Klasse 13",
     "_Sonstige_/svg/Glucosegehalt und pH-Wert im Brutblatt als Beispiel einer Cam-Pflanze in Abhängigkeit der der Zeit.svg",
     "_Sonstige_/svg/desmos-graph.svg",
     "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Wo begegnet uns Leid? — Meldungen und Notitzen.md",
