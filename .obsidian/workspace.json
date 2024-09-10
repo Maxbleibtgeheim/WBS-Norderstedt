@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe/Klasse 13/Klasse 13.1/09.09.2024 Mathe;.md",
+                "file": "Mathe/Klasse 13/Klasse 13.1/03.09.2024 Mathe; Arbeitsblatt -- Wiederholung der Grundlagen der Stochastik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe/Klasse 13/Klasse 13.1/09.09.2024 Mathe;.md",
+                "file": "Mathe/Klasse 13/Klasse 13.1/03.09.2024 Mathe; Arbeitsblatt -- Wiederholung der Grundlagen der Stochastik.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathe/Klasse 13/Klasse 13.1/09.09.2024 Mathe;.md"
+                "file": "Mathe/Klasse 13/Klasse 13.1/03.09.2024 Mathe; Arbeitsblatt -- Wiederholung der Grundlagen der Stochastik.md"
               }
             }
           },
@@ -375,11 +374,11 @@
       "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "4bcdc126bee2886d",
+  "active": "a2dc96b443c8e207",
   "lastOpenFiles": [
+    "Mathe/Klasse 13/Klasse 13.1/09.09.2024 Mathe;.md",
     "Mathe/Klasse 13/Klasse 13.1/03.09.2024 Mathe; Arbeitsblatt -- Wiederholung der Grundlagen der Stochastik.md",
     "_Sonstige_/Diagramme/XML/03.09.2024 Mathe; Arbeitsblatt -- Wiederholung der Grundlagen der Stochastik fe.drawio",
-    "Mathe/Klasse 13/Klasse 13.1/09.09.2024 Mathe;.md",
     "_Sonstige_/Pdf/09.09.2024 Mathe;.pdf",
     "05.09.2024 französisch; Livre une page 105 \"Sa premère voiture\".md",
     "Biologie/Klasse 13/Klasse 13.1/Evolution/09.09.2024 Biologie; Evolutionstheorien Schüler AB.md",
