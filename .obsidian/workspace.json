@@ -66,8 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4c876fbe07d76840",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10.09.2024 physik;.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -149,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe/Klasse 13/Klasse 13.1/03.09.2024 Mathe; Arbeitsblatt -- Wiederholung der Grundlagen der Stochastik.md",
+                "file": "10.09.2024 physik;.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe/Klasse 13/Klasse 13.1/03.09.2024 Mathe; Arbeitsblatt -- Wiederholung der Grundlagen der Stochastik.md",
+                "file": "10.09.2024 physik;.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathe/Klasse 13/Klasse 13.1/03.09.2024 Mathe; Arbeitsblatt -- Wiederholung der Grundlagen der Stochastik.md"
+                "file": "10.09.2024 physik;.md"
               }
             }
           },
@@ -338,7 +351,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -374,10 +388,11 @@
       "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "a2dc96b443c8e207",
+  "active": "4c876fbe07d76840",
   "lastOpenFiles": [
-    "Mathe/Klasse 13/Klasse 13.1/09.09.2024 Mathe;.md",
+    "10.09.2024 physik;.md",
     "Mathe/Klasse 13/Klasse 13.1/03.09.2024 Mathe; Arbeitsblatt -- Wiederholung der Grundlagen der Stochastik.md",
+    "Mathe/Klasse 13/Klasse 13.1/09.09.2024 Mathe;.md",
     "_Sonstige_/Diagramme/XML/03.09.2024 Mathe; Arbeitsblatt -- Wiederholung der Grundlagen der Stochastik fe.drawio",
     "_Sonstige_/Pdf/09.09.2024 Mathe;.pdf",
     "05.09.2024 französisch; Livre une page 105 \"Sa premère voiture\".md",
