@@ -32,7 +32,24 @@
       "showOrphans": true,
       "showAttachments": false
     },
-    "groups": [],
+    "groups": [
+      {
+        "query": "",
+        "color": "#170eee"
+      },
+      {
+        "query": "",
+        "color": "#5c80f8"
+      },
+      {
+        "query": "",
+        "color": "#381df3"
+      },
+      {
+        "query": "",
+        "color": "#48300f"
+      }
+    ],
     "display": {
       "nodeSize": 3,
       "linkThickness": 2,
