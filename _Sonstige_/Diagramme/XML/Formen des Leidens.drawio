@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2024-09-05T06:25:25.243Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.6.4 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="tbUWEKQeoxlVzyffFeE1" version="24.6.4" type="device">
+<mxfile host="Electron" modified="2024-09-11T09:33:45.023Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.6.4 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="oie_leCdfjXnazFDMPA0" version="24.6.4" type="device">
   <diagram name="Seite-1" id="1UF-9J3jw6wH0BpeYu3B">
-    <mxGraphModel dx="1400" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1259" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,13 +8,19 @@
           <mxGeometry x="441" width="266" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GBmo4GnhyRKstA5T7fDf-3" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;Betroffene&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="514" y="60" width="120" height="80" as="geometry" />
+          <mxGeometry x="321" y="120" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GBmo4GnhyRKstA5T7fDf-4" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Leidende&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;Opfer&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;Familie / Freunde&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;Soldaten&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="230" y="180" width="180" height="120" as="geometry" />
+          <mxGeometry x="141" y="280" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="GBmo4GnhyRKstA5T7fDf-5" value="&lt;h1 style=&quot;margin-top: 0px; line-height: 160%;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Leidverursacher&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;Opfer&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;gewalttäter&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;Soldaten&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;Naturkatastrophen&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;Krankheiten&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;Drogen&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="760" y="180" width="180" height="190" as="geometry" />
+          <mxGeometry x="440" y="280" width="180" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="wIoaerUIfKc0yNkAb_Af-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Ursache&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="707" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wIoaerUIfKc0yNkAb_Af-3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Heading&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Lorem ipsum dolor sit amet, consectetur&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="827" y="280" width="180" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
