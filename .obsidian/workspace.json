@@ -8,126 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a2dc96b443c8e207",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathe/Klasse 13/Klasse 13.1/03.09.2024 Mathe; Arbeitsblatt -- Wiederholung der Grundlagen der Stochastik.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4bcdc126bee2886d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathe/Klasse 13/Klasse 13.1/09.09.2024 Mathe;.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd4c7c54f4106f49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05.09.2024 Englisch;.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "249f4c4a42a21d32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05.09.2024 Französisch; Steigerung des Wortes \"gut\".md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d19a44af756f712c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05.09.2024 französisch; Livre une page 105 \"Sa premère voiture\".md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4c876fbe07d76840",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10.09.2024 physik;.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e6ac664b9b69181",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04.09.2024 Geographie; \"Wie alles begann... \" Obelix GmbH & Co. KG.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dbee4279c6ad362c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "11.09.2024 Geographie; Definition von Globalisierung.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "848d12d836f833c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "11.09.2024 Geographie; Mögliche Themen für die Klausur.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f3550eda8cf6ee5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geographie/Klasse 12/12.2/07.02.2024 Geographie; Glossar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a6cab9cd9a1c2032",
             "type": "leaf",
             "state": {
@@ -151,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -234,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/11.09.2024 religion; Böse V Übel.md",
+                "file": "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Theodizee.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -251,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/11.09.2024 religion; Böse V Übel.md",
+                "file": "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Theodizee.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -274,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/11.09.2024 religion; Böse V Übel.md"
+                "file": "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Theodizee.md"
               }
             }
           },
@@ -459,31 +338,31 @@
       "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "40a136389895cf61",
+  "active": "a6cab9cd9a1c2032",
   "lastOpenFiles": [
+    "Geographie/Klasse 12/12.2/07.02.2024 Geographie; Glossar.md",
+    "11.09.2024 Geographie; Mögliche Themen für die Klausur.md",
+    "11.09.2024 Geographie; Definition von Globalisierung.md",
+    "04.09.2024 Geographie; \"Wie alles begann... \" Obelix GmbH & Co. KG.md",
+    "10.09.2024 physik;.md",
+    "05.09.2024 französisch; Livre une page 105 \"Sa premère voiture\".md",
+    "05.09.2024 Französisch; Steigerung des Wortes \"gut\".md",
+    "05.09.2024 Englisch;.md",
+    "Mathe/Klasse 13/Klasse 13.1/09.09.2024 Mathe;.md",
+    "Mathe/Klasse 13/Klasse 13.1/03.09.2024 Mathe; Arbeitsblatt -- Wiederholung der Grundlagen der Stochastik.md",
+    "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/11.09.2024 religion; Böse V Übel.md",
     "Ketcher/Ketcher 9-11-2024 12.00.32.ket",
     "Ketcher",
-    "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/11.09.2024 religion; Böse V Übel.md",
     "_Sonstige_/png/Evolutionstheorien Schüler AB.3png.png",
     "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Theodizee.md",
     "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; \"Das Leid ist der Fels der Atheisten\".md",
-    "11.09.2024 Geographie; Definition von Globalisierung.md",
-    "Geographie/Klasse 12/12.2/07.02.2024 Geographie; Glossar.md",
-    "11.09.2024 Geographie; Mögliche Themen für die Klausur.md",
-    "Mathe/Klasse 13/Klasse 13.1/03.09.2024 Mathe; Arbeitsblatt -- Wiederholung der Grundlagen der Stochastik.md",
-    "04.09.2024 Geographie; \"Wie alles begann... \" Obelix GmbH & Co. KG.md",
     "Geographie/05.12.2023 Geographie; Mögliche fragen bei einer Bildbeschreibung.md",
     "22.05.2024 Geographie;.md",
-    "10.09.2024 physik;.md",
-    "Mathe/Klasse 13/Klasse 13.1/09.09.2024 Mathe;.md",
     "_Sonstige_/Diagramme/XML/03.09.2024 Mathe; Arbeitsblatt -- Wiederholung der Grundlagen der Stochastik fe.drawio",
     "_Sonstige_/Pdf/09.09.2024 Mathe;.pdf",
-    "05.09.2024 französisch; Livre une page 105 \"Sa premère voiture\".md",
     "Biologie/Klasse 13/Klasse 13.1/Evolution/09.09.2024 Biologie; Evolutionstheorien Schüler AB.md",
     "Biologie/Klasse 13/Klasse 13.1/Fotosynthese/05.09.2024 Biologie; Brutblatt contra Buntnessel.md",
     "Biologie/Klasse 13/Klasse 13.1/Fotosynthese/06.09.2024 Biologie; Wie kann das Brutblatt nachts CO2 aufbewahren und trotzdem Fotosynthese betreiben?.md",
-    "05.09.2024 Französisch; Steigerung des Wortes \"gut\".md",
-    "05.09.2024 Englisch;.md",
     "_Sonstige_/svg/Deszendenztheorie nach Lamarck.drawio.svg",
     "_Sonstige_/Diagramme/XML/Deszendenztheorie nach Lamarck.drawio",
     "_Sonstige_/png/Evolutionstheorien Schüler AB.2png.png",
@@ -499,7 +378,6 @@
     "_Sonstige_/Pdf/Vergleich C3 C4 und CAM Pflanzen.pdf",
     "_Sonstige_/jpeg/09.09.2024 Aufgabe zum bestimmen der Fairness eines Münzwurfes.jpeg",
     "Geschichte/Klasse 13/Klasse 13.1/Dektaturen und Dwemokratien im Zeitalter der Extremen/03.09.2024 Geschichte; Novemberrevolution 1918.md",
-    "Berufsorientierung/Klasse 13/Klasse 13.2",
     "_Sonstige_/svg/Glucosegehalt und pH-Wert im Brutblatt als Beispiel einer Cam-Pflanze in Abhängigkeit der der Zeit.svg",
     "_Sonstige_/svg/desmos-graph.svg",
     "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Wo begegnet uns Leid? — Meldungen und Notitzen.md",
