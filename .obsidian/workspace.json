@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe/Klasse 13/Klasse 13.1/03.09.2024 Mathe; Arbeitsblatt -- Wiederholung der Grundlagen der Stochastik.md",
+                "file": "11.09.2024 Geographie; Definition von Globalisierung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe/Klasse 13/Klasse 13.1/03.09.2024 Mathe; Arbeitsblatt -- Wiederholung der Grundlagen der Stochastik.md",
+                "file": "11.09.2024 Geographie; Definition von Globalisierung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathe/Klasse 13/Klasse 13.1/03.09.2024 Mathe; Arbeitsblatt -- Wiederholung der Grundlagen der Stochastik.md"
+                "file": "11.09.2024 Geographie; Definition von Globalisierung.md"
               }
             }
           },
@@ -363,15 +363,7 @@
             }
           },
           {
-            "id": "3f73f695cd953f98",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {}
-            }
-          },
-          {
-            "id": "9a204b3eda85d09a",
+            "id": "971454e87bc8b024",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -379,7 +371,7 @@
             }
           }
         ],
-        "currentTab": 21
+        "currentTab": 19
       }
     ],
     "direction": "horizontal",
@@ -416,17 +408,18 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "obsidian-projects:Open projects": false,
       "ketcher:Create new structure": false,
-      "3d-graph-new:Global 3D Graph": false
+      "3d-graph-new:Global 3D Graph": false,
+      "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "dbca30e3886887f2",
+  "active": "dbee4279c6ad362c",
   "lastOpenFiles": [
+    "Mathe/Klasse 13/Klasse 13.1/03.09.2024 Mathe; Arbeitsblatt -- Wiederholung der Grundlagen der Stochastik.md",
     "04.09.2024 Geographie; \"Wie alles begann... \" Obelix GmbH & Co. KG.md",
     "Geographie/05.12.2023 Geographie; Mögliche fragen bei einer Bildbeschreibung.md",
     "11.09.2024 Geographie; Definition von Globalisierung.md",
     "22.05.2024 Geographie;.md",
     "10.09.2024 physik;.md",
-    "Mathe/Klasse 13/Klasse 13.1/03.09.2024 Mathe; Arbeitsblatt -- Wiederholung der Grundlagen der Stochastik.md",
     "Mathe/Klasse 13/Klasse 13.1/09.09.2024 Mathe;.md",
     "_Sonstige_/Diagramme/XML/03.09.2024 Mathe; Arbeitsblatt -- Wiederholung der Grundlagen der Stochastik fe.drawio",
     "_Sonstige_/Pdf/09.09.2024 Mathe;.pdf",
