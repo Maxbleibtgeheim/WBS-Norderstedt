@@ -138,9 +138,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "40a136389895cf61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11.09.2024 religion;.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -222,7 +234,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Theodizee.md",
+                "file": "11.09.2024 religion;.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +251,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Theodizee.md",
+                "file": "11.09.2024 religion;.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -262,7 +274,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Theodizee.md"
+                "file": "11.09.2024 religion;.md"
               }
             }
           },
@@ -448,8 +460,10 @@
       "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "a6cab9cd9a1c2032",
+  "active": "40a136389895cf61",
   "lastOpenFiles": [
+    "11.09.2024 religion;.md",
+    "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Theodizee.md",
     "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; \"Das Leid ist der Fels der Atheisten\".md",
     "11.09.2024 Geographie; Definition von Globalisierung.md",
     "Geographie/Klasse 12/12.2/07.02.2024 Geographie; Glossar.md",
@@ -483,7 +497,6 @@
     "_Sonstige_/png/Vergleich C3 C4 und CAM Pflanzen.png",
     "_Sonstige_/Pdf/Vergleich C3 C4 und CAM Pflanzen.pdf",
     "_Sonstige_/jpeg/09.09.2024 Aufgabe zum bestimmen der Fairness eines Münzwurfes.jpeg",
-    "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Theodizee.md",
     "Geschichte/Klasse 13/Klasse 13.1/Dektaturen und Dwemokratien im Zeitalter der Extremen/03.09.2024 Geschichte; Novemberrevolution 1918.md",
     "Berufsorientierung/Klasse 13/Klasse 13.2",
     "Berufsorientierung/Klasse 13/Klasse 13.1",
@@ -495,7 +508,6 @@
     "_Sonstige_/jpeg/04.09.2024 Religion; Wo begegnet uns Leid? — Meldungen und Notitzen.jpg",
     "Geographie/13.03.2024 Geographie; klausur.md",
     "03.09.2024.md",
-    "2023-05-05 Podcast \"Das Parfum\".md",
     "Religion/Klasse 12/08.02.2024 Religion; Schaubild zur Aussage von M20.canvas",
     "Physik/Regelwerk/Regelwerk.canvas",
     "Mathe/Klasse 12/Integrale/Integrale.canvas",
