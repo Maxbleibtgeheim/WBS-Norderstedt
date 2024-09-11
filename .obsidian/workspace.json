@@ -85,6 +85,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "04.09.2024 Geographie; \"Wie alles begann... \" Obelix GmbH & Co. KG.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dbee4279c6ad362c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "11.09.2024 Geographie; Definition von Globalisierung.md",
                 "mode": "source",
                 "source": false
@@ -92,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -357,9 +369,17 @@
               "type": "timeline",
               "state": {}
             }
+          },
+          {
+            "id": "9a204b3eda85d09a",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 20
+        "currentTab": 21
       }
     ],
     "direction": "horizontal",
@@ -400,8 +420,9 @@
       "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "3f73f695cd953f98",
+  "active": "dbca30e3886887f2",
   "lastOpenFiles": [
+    "04.09.2024 Geographie; \"Wie alles begann... \" Obelix GmbH & Co. KG.md",
     "Geographie/05.12.2023 Geographie; Mögliche fragen bei einer Bildbeschreibung.md",
     "11.09.2024 Geographie; Definition von Globalisierung.md",
     "22.05.2024 Geographie;.md",
@@ -442,7 +463,6 @@
     "Excel 2024-09-05 10.16.02.sheet.md",
     "_Sonstige_/jpeg/04.09.2024 Religion; Wo begegnet uns Leid? — Meldungen und Notitzen.jpg",
     "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; \"Das Leid ist der Fels der Atheisten\".md",
-    "04.09.2024 Geographie; \"Wie alles begann... \" Obelix GmbH & Co. KG.md",
     "Geographie/13.03.2024 Geographie; klausur.md",
     "Geographie/Klasse 12/12.2/07.02.2024 Geographie; Glossar.md",
     "03.09.2024.md",
