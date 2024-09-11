@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "22.05.2024 Geographie;.md",
+                "file": "11.09.2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "22.05.2024 Geographie;.md",
+                "file": "11.09.2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "22.05.2024 Geographie;.md",
+                "file": "11.09.2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "22.05.2024 Geographie;.md"
+                "file": "11.09.2024.md"
               }
             }
           },
@@ -402,6 +402,9 @@
   },
   "active": "5e6ac664b9b69181",
   "lastOpenFiles": [
+    "Geographie/05.12.2023 Geographie; Mögliche fragen bei einer Bildbeschreibung.md",
+    "11.09.2024.md",
+    "22.05.2024 Geographie;.md",
     "10.09.2024 physik;.md",
     "Mathe/Klasse 13/Klasse 13.1/03.09.2024 Mathe; Arbeitsblatt -- Wiederholung der Grundlagen der Stochastik.md",
     "Mathe/Klasse 13/Klasse 13.1/09.09.2024 Mathe;.md",
@@ -445,9 +448,6 @@
     "03.09.2024.md",
     "2023-05-05 Podcast \"Das Parfum\".md",
     "02.09.2024.md",
-    "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
-    "Projects - Demo Project/What I Learned From Taking 15,000 Notes.md",
-    "Projects - Demo Project/Why You Should Be Taking More Notes.md",
     "Religion/Klasse 12/08.02.2024 Religion; Schaubild zur Aussage von M20.canvas",
     "Physik/Regelwerk/Regelwerk.canvas",
     "Mathe/Klasse 12/Integrale/Integrale.canvas",
