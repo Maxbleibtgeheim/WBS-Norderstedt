@@ -78,9 +78,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5e6ac664b9b69181",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "22.05.2024 Geographie;.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -162,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10.09.2024 physik;.md",
+                "file": "22.05.2024 Geographie;.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10.09.2024 physik;.md",
+                "file": "22.05.2024 Geographie;.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10.09.2024 physik;.md"
+                "file": "22.05.2024 Geographie;.md"
               }
             }
           },
@@ -339,7 +351,7 @@
             }
           },
           {
-            "id": "12de7fc009e6dbd3",
+            "id": "3f73f695cd953f98",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -384,10 +396,11 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "obsidian-projects:Open projects": false,
       "ketcher:Create new structure": false,
-      "3d-graph-new:Global 3D Graph": false
+      "3d-graph-new:Global 3D Graph": false,
+      "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "4c876fbe07d76840",
+  "active": "5e6ac664b9b69181",
   "lastOpenFiles": [
     "10.09.2024 physik;.md",
     "Mathe/Klasse 13/Klasse 13.1/03.09.2024 Mathe; Arbeitsblatt -- Wiederholung der Grundlagen der Stochastik.md",
