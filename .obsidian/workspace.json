@@ -42,8 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "17dc5cea0fb7274a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "17.09.2024 Französisch; Ri.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -125,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Theodizee.md",
+                "file": "17.09.2024 Französisch; Ri.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Theodizee.md",
+                "file": "17.09.2024 Französisch; Ri.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Theodizee.md"
+                "file": "17.09.2024 Französisch; Ri.md"
               }
             }
           },
@@ -302,7 +315,7 @@
             }
           },
           {
-            "id": "cf3a17dc79e27fc9",
+            "id": "0b55945dfcdbf072",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -346,14 +359,17 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "obsidian-projects:Open projects": false,
       "ketcher:Create new structure": false,
-      "3d-graph-new:Global 3D Graph": false
+      "3d-graph-new:Global 3D Graph": false,
+      "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "a6cab9cd9a1c2032",
+  "active": "17dc5cea0fb7274a",
   "lastOpenFiles": [
+    "Untitled.md",
+    "17.09.2024 Französisch; Ri.md",
+    "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Theodizee.md",
     "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/11.09.2024 religion; Böse V Übel.md",
     "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/11.09.2024 Religion; M4 Leben wir in der besten aller möglichen Welten?.md",
-    "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Theodizee.md",
     "Geographie/Klasse 12/12.2/07.02.2024 Geographie; Glossar.md",
     "11.09.2024 Geographie; Mögliche Themen für die Klausur.md",
     "11.09.2024 Geographie; Definition von Globalisierung.md",
@@ -394,9 +410,7 @@
     "_Sonstige_/svg/desmos-graph.svg",
     "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Wo begegnet uns Leid? — Meldungen und Notitzen.md",
     "_Sonstige_/png/CAM Pflanzen Brutblatt contra Buntnessel.png",
-    "Excel 2024-09-05 10.16.02.sheet.md",
     "_Sonstige_/jpeg/04.09.2024 Religion; Wo begegnet uns Leid? — Meldungen und Notitzen.jpg",
-    "Geographie/13.03.2024 Geographie; klausur.md",
     "Religion/Klasse 12/08.02.2024 Religion; Schaubild zur Aussage von M20.canvas",
     "Physik/Regelwerk/Regelwerk.canvas",
     "Mathe/Klasse 12/Integrale/Integrale.canvas",
