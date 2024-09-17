@@ -54,27 +54,17 @@
                 "source": false
               }
             }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "381aff58d2680e91",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "17dc5cea0fb7274a",
+            "id": "fbb33ff07842537f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "17.09.2024 Französisch.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -156,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "17.09.2024 Französisch.md",
+                "file": "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Theodizee.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "17.09.2024 Französisch.md",
+                "file": "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Theodizee.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "17.09.2024 Französisch.md"
+                "file": "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Theodizee.md"
               }
             }
           },
@@ -323,9 +313,17 @@
               "type": "timeline",
               "state": {}
             }
+          },
+          {
+            "id": "1dbb3d599934ede6",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 16
+        "currentTab": 19
       }
     ],
     "direction": "horizontal",
@@ -342,7 +340,6 @@
       "switcher:Open quick switcher": true,
       "mermaid-tools:Open Mermaid Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "3d-graph:3D Graph": false,
       "omnisearch:Omnisearch": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "handwritten-notes:Create empty handwritten note": false,
@@ -350,7 +347,6 @@
       "janitor:Janitor: scan vault": false,
       "excel:Create Excel File": false,
       "obsidian-book-search-plugin:Create new book note": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "time-ruler:Open Time Ruler": false,
       "fantasy-calendar:Open Large Fantasy Calendar": false,
@@ -362,11 +358,47 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "obsidian-projects:Open projects": false,
       "ketcher:Create new structure": false,
-      "3d-graph-new:Global 3D Graph": false,
-      "obsidian-jump-to-date-plugin:Jump-to-Date": false
+      "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "17dc5cea0fb7274a",
+  "floating": {
+    "id": "ccfbb509ccd9891d",
+    "type": "floating",
+    "children": [
+      {
+        "id": "da96eb3d3bab5412",
+        "type": "window",
+        "children": [
+          {
+            "id": "ac05d2226dbc59c7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "17dc5cea0fb7274a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "17.09.2024 Französisch.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1057,
+        "y": 8,
+        "width": 699,
+        "height": 912,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "1dbb3d599934ede6",
   "lastOpenFiles": [
     "17.09.2024 Französisch; Résumé — Eine zusammenfassung eines Textes.md",
     "17.09.2024 Französisch.md",
