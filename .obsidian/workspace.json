@@ -44,7 +44,7 @@
             }
           },
           {
-            "id": "17dc5cea0fb7274a",
+            "id": "0453a8dc05cb180a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -57,6 +57,24 @@
           }
         ],
         "currentTab": 3
+      },
+      {
+        "id": "381aff58d2680e91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17dc5cea0fb7274a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "17.09.2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "17.09.2024 Französisch; Résumé — Eine zusammenfassung eines Textes.md",
+                "file": "17.09.2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "17.09.2024 Französisch; Résumé — Eine zusammenfassung eines Textes.md",
+                "file": "17.09.2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "17.09.2024 Französisch; Résumé — Eine zusammenfassung eines Textes.md"
+                "file": "17.09.2024.md"
               }
             }
           },
@@ -327,7 +345,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -365,11 +384,12 @@
   },
   "active": "17dc5cea0fb7274a",
   "lastOpenFiles": [
-    "Untitled.md",
     "17.09.2024 Französisch; Résumé — Eine zusammenfassung eines Textes.md",
+    "17.09.2024.md",
+    "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/11.09.2024 Religion; M4 Leben wir in der besten aller möglichen Welten?.md",
+    "Untitled.md",
     "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Theodizee.md",
     "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/11.09.2024 religion; Böse V Übel.md",
-    "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/11.09.2024 Religion; M4 Leben wir in der besten aller möglichen Welten?.md",
     "Geographie/Klasse 12/12.2/07.02.2024 Geographie; Glossar.md",
     "11.09.2024 Geographie; Mögliche Themen für die Klausur.md",
     "11.09.2024 Geographie; Definition von Globalisierung.md",
@@ -408,7 +428,6 @@
     "Geschichte/Klasse 13/Klasse 13.1/Dektaturen und Dwemokratien im Zeitalter der Extremen/03.09.2024 Geschichte; Novemberrevolution 1918.md",
     "_Sonstige_/svg/Glucosegehalt und pH-Wert im Brutblatt als Beispiel einer Cam-Pflanze in Abhängigkeit der der Zeit.svg",
     "_Sonstige_/svg/desmos-graph.svg",
-    "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Wo begegnet uns Leid? — Meldungen und Notitzen.md",
     "_Sonstige_/png/CAM Pflanzen Brutblatt contra Buntnessel.png",
     "_Sonstige_/jpeg/04.09.2024 Religion; Wo begegnet uns Leid? — Meldungen und Notitzen.jpg",
     "Religion/Klasse 12/08.02.2024 Religion; Schaubild zur Aussage von M20.canvas",
