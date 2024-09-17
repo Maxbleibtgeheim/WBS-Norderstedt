@@ -237,22 +237,6 @@
             }
           },
           {
-            "id": "4f018cf09103da2b",
-            "type": "leaf",
-            "state": {
-              "type": "BC-matrix",
-              "state": {}
-            }
-          },
-          {
-            "id": "d4db4b7c54736698",
-            "type": "leaf",
-            "state": {
-              "type": "BC-tree",
-              "state": {}
-            }
-          },
-          {
             "id": "421a3708dc71b550",
             "type": "leaf",
             "state": {
@@ -333,7 +317,7 @@
             }
           },
           {
-            "id": "0b55945dfcdbf072",
+            "id": "e4cbe99be0ae808b",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -378,13 +362,14 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "obsidian-projects:Open projects": false,
       "ketcher:Create new structure": false,
-      "3d-graph-new:Global 3D Graph": false
+      "3d-graph-new:Global 3D Graph": false,
+      "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
   "active": "17dc5cea0fb7274a",
   "lastOpenFiles": [
-    "17.09.2024 Französisch; Résumé — Eine zusammenfassung eines Textes.md",
     "17.09.2024 Französisch.md",
+    "17.09.2024 Französisch; Résumé — Eine zusammenfassung eines Textes.md",
     "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/11.09.2024 Religion; M4 Leben wir in der besten aller möglichen Welten?.md",
     "Untitled.md",
     "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Theodizee.md",
