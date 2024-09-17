@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "17.09.2024 Französisch; Résumé — Eine zusammenfassung eines Textes.md",
+                "file": "2024.09.17.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Theodizee.md",
+                "file": "2024.09.17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Theodizee.md",
+                "file": "2024.09.17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Theodizee.md"
+                "file": "2024.09.17.md"
               }
             }
           },
@@ -307,23 +307,23 @@
             }
           },
           {
-            "id": "e4cbe99be0ae808b",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {}
-            }
-          },
-          {
             "id": "1dbb3d599934ede6",
             "type": "leaf",
             "state": {
               "type": "BC-tree",
               "state": {}
             }
+          },
+          {
+            "id": "fe1733762bae4bc5",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 19
+        "currentTab": 18
       }
     ],
     "direction": "horizontal",
@@ -358,7 +358,8 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "obsidian-projects:Open projects": false,
       "ketcher:Create new structure": false,
-      "3d-graph-new:Global 3D Graph": false
+      "3d-graph-new:Global 3D Graph": false,
+      "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
   "floating": {
@@ -398,9 +399,10 @@
       }
     ]
   },
-  "active": "1dbb3d599934ede6",
+  "active": "0453a8dc05cb180a",
   "lastOpenFiles": [
     "17.09.2024 Französisch; Résumé — Eine zusammenfassung eines Textes.md",
+    "2024.09.17.md",
     "17.09.2024 Französisch.md",
     "Excel 2024-09-17 12.07.21.sheet.md",
     "Excel 2024-09-17 12.07.02.sheet.md",
@@ -433,7 +435,6 @@
     "_Sonstige_/Diagramme/XML/Deszendenztheorie nach Lamarck.drawio",
     "_Sonstige_/png/Evolutionstheorien Schüler AB.2png.png",
     "09.09.2024.md",
-    "Biologie/Klasse 13/Klasse 13.1/Fotosynthese/09.09.2024 Biologie; Vergleich C3-, C4- und CAMPflanzen.md",
     "_Sonstige_/Pdf/Evolutionstheorien Schüler AB.pdf",
     "_Sonstige_/Diagramme/XML/Evolution.drawio",
     "Biologie/Klasse 13/Klasse 13.1/Evolution",
