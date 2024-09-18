@@ -151,14 +151,6 @@
             }
           },
           {
-            "id": "44e05ad08bb230b6",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {}
-            }
-          },
-          {
             "id": "a84303ab2175cee5",
             "type": "leaf",
             "state": {
@@ -179,6 +171,14 @@
             "type": "leaf",
             "state": {
               "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "ff5b7b3f14c68730",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
               "state": {}
             }
           }
@@ -217,7 +217,8 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
   "active": "606c0edf059f8f10",
