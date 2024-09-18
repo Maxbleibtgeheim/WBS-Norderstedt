@@ -1,120 +1,35 @@
 {
   "main": {
-    "id": "34b40b9c004d2c80",
+    "id": "e717a349edf05d30",
     "type": "split",
     "children": [
       {
-        "id": "5676b9015f6ccff6",
+        "id": "9cc9b503d41ed1d3",
         "type": "tabs",
         "children": [
           {
-            "id": "a6cab9cd9a1c2032",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Theodizee.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "40a136389895cf61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/11.09.2024 religion; Böse V Übel.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c53b81d93423998",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/11.09.2024 Religion; M4 Leben wir in der besten aller möglichen Welten?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "392b5c858a533281",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024.09.18 reli.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1243185190623d6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024.09.18 reli.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "15b446a19e0ab4f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024.09.18 Mathe;.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "031d1788d6f6a4c6",
+            "id": "e2c9e0a68e76d157",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "9d590dc2e89126df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024.09.18. Deutsch;.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "16b1a99aa2481007",
+    "id": "6e25dc0fa226d6b2",
     "type": "split",
     "children": [
       {
-        "id": "abdd23af89e76628",
+        "id": "51b0dddfbcf282ed",
         "type": "tabs",
         "children": [
           {
-            "id": "dbca30e3886887f2",
+            "id": "4f36b123beadf4d5",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -124,41 +39,10 @@
             }
           },
           {
-            "id": "975f87cefeffdc92",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "df8fc7268515bf26",
+            "id": "855c03703d716dff",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
-            "id": "1ad743433d2e35b4",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          },
-          {
-            "id": "4277651399bbb4c8",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
               "state": {}
             }
           }
@@ -166,23 +50,30 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.5
+    "width": 300
   },
   "right": {
-    "id": "d0083e7af5e01785",
+    "id": "ec829f23c3b3c697",
     "type": "split",
     "children": [
       {
-        "id": "48d5d801f20bbaaa",
+        "id": "de87b68b92aeca59",
         "type": "tabs",
         "children": [
           {
-            "id": "29aff9ab69f87570",
+            "id": "4033c1d895bee061",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "5d59555b1e1d6e42",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024.09.18. Deutsch;.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,19 +85,18 @@
             }
           },
           {
-            "id": "3e91f6cf568c4f74",
+            "id": "caf5e25d0829e346",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024.09.18. Deutsch;.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "c42259ff479988df",
+            "id": "b0e1857466a1f8c5",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -217,33 +107,7 @@
             }
           },
           {
-            "id": "f9fcbcfb36fd0e21",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "2024.09.18. Deutsch;.md"
-              }
-            }
-          },
-          {
-            "id": "d00bf653625a0f00",
-            "type": "leaf",
-            "state": {
-              "type": "mermaid-toolbar-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "bbe330a10b89f854",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "d41478f560fff8a3",
+            "id": "7184dbbaa6df7976",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -255,119 +119,14 @@
             }
           },
           {
-            "id": "b08cf9ab503f0490",
+            "id": "310ddae454596c67",
             "type": "leaf",
             "state": {
-              "type": "graph-analysis",
-              "state": {}
-            }
-          },
-          {
-            "id": "421a3708dc71b550",
-            "type": "leaf",
-            "state": {
-              "type": "graph-analysis",
-              "state": {}
-            }
-          },
-          {
-            "id": "788a90bb55acd4f2",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
-            }
-          },
-          {
-            "id": "b9ea904b7074e509",
-            "type": "leaf",
-            "state": {
-              "type": "reminder-list",
-              "state": {}
-            }
-          },
-          {
-            "id": "6627884ceea5997b",
-            "type": "leaf",
-            "state": {
-              "type": "graph-analysis",
-              "state": {}
-            }
-          },
-          {
-            "id": "6d2bf339a04cb17f",
-            "type": "leaf",
-            "state": {
-              "type": "graph-analysis",
-              "state": {}
-            }
-          },
-          {
-            "id": "83fd714f23e30f4f",
-            "type": "leaf",
-            "state": {
-              "type": "graph-analysis",
-              "state": {}
-            }
-          },
-          {
-            "id": "adebb4d34dbbab62",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
-          },
-          {
-            "id": "80680599d729247d",
-            "type": "leaf",
-            "state": {
-              "type": "time-ruler-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "59b928c25631233a",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "41447aa3bc3c3b38",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {}
-            }
-          },
-          {
-            "id": "1dbb3d599934ede6",
-            "type": "leaf",
-            "state": {
-              "type": "BC-tree",
-              "state": {}
-            }
-          },
-          {
-            "id": "ba479325041a0c67",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "abf4cea811b477a9",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
+              "type": "outline",
               "state": {}
             }
           }
-        ],
-        "currentTab": 19
+        ]
       }
     ],
     "direction": "horizontal",
@@ -376,90 +135,34 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
-      "command-palette:Open command palette": false,
-      "graph:Open graph view": false,
-      "daily-notes:Open today's daily note": false,
-      "canvas:Create new canvas": false,
-      "switcher:Open quick switcher": true,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "omnisearch:Omnisearch": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "handwritten-notes:Create empty handwritten note": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "excel:Create Excel File": false,
       "obsidian-book-search-plugin:Create new book note": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "time-ruler:Open Time Ruler": false,
-      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "obsidian-git:Open Git source control": false,
       "obsidian-day-planner:Timeline": false,
       "homework-manager:Open homework": false,
       "obsidian-map-view:Open map view": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": true,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "media-extended:Open media": false,
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "obsidian-projects:Open projects": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
       "ketcher:Create new structure": false,
       "3d-graph-new:Global 3D Graph": false,
-      "obsidian-jump-to-date-plugin:Jump-to-Date": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "9d590dc2e89126df",
-  "lastOpenFiles": [
-    "2024.09.18. Deutsch;.md",
-    "2024.09.18 Mathe;.md",
-    "2024.09.18 reli.md",
-    "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Theodizee.md",
-    "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/11.09.2024 religion; Böse V Übel.md",
-    "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/11.09.2024 Religion; M4 Leben wir in der besten aller möglichen Welten?.md",
-    "2024.09.17 Geographie;.md",
-    "Geographie/Klasse 12/12.2/07.02.2024 Geographie; Glossar.md",
-    "17.09.2024 Französisch.md",
-    "17.09.2024 Französisch; Résumé — Eine zusammenfassung eines Textes.md",
-    "Excel 2024-09-17 12.07.21.sheet.md",
-    "Excel 2024-09-17 12.07.02.sheet.md",
-    "Untitled.md",
-    "11.09.2024 Geographie; Mögliche Themen für die Klausur.md",
-    "11.09.2024 Geographie; Definition von Globalisierung.md",
-    "04.09.2024 Geographie; \"Wie alles begann... \" Obelix GmbH & Co. KG.md",
-    "10.09.2024 physik;.md",
-    "05.09.2024 französisch; Livre une page 105 \"Sa premère voiture\".md",
-    "05.09.2024 Französisch; Steigerung des Wortes \"gut\".md",
-    "05.09.2024 Englisch;.md",
-    "Mathe/Klasse 13/Klasse 13.1/09.09.2024 Mathe;.md",
-    "Mathe/Klasse 13/Klasse 13.1/03.09.2024 Mathe; Arbeitsblatt -- Wiederholung der Grundlagen der Stochastik.md",
-    "Ketcher/Ketcher 9-11-2024 12.00.32.ket",
-    "Ketcher",
-    "_Sonstige_/png/Evolutionstheorien Schüler AB.3png.png",
-    "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; \"Das Leid ist der Fels der Atheisten\".md",
-    "Geographie/05.12.2023 Geographie; Mögliche fragen bei einer Bildbeschreibung.md",
-    "22.05.2024 Geographie;.md",
-    "_Sonstige_/Diagramme/XML/03.09.2024 Mathe; Arbeitsblatt -- Wiederholung der Grundlagen der Stochastik fe.drawio",
-    "_Sonstige_/Pdf/09.09.2024 Mathe;.pdf",
-    "Biologie/Klasse 13/Klasse 13.1/Evolution/09.09.2024 Biologie; Evolutionstheorien Schüler AB.md",
-    "_Sonstige_/svg/Deszendenztheorie nach Lamarck.drawio.svg",
-    "_Sonstige_/Diagramme/XML/Deszendenztheorie nach Lamarck.drawio",
-    "_Sonstige_/png/Evolutionstheorien Schüler AB.2png.png",
-    "_Sonstige_/Pdf/Evolutionstheorien Schüler AB.pdf",
-    "_Sonstige_/Diagramme/XML/Evolution.drawio",
-    "Biologie/Klasse 13/Klasse 13.1/Evolution",
-    "_Sonstige_/png/Vergleich ökologisch C3 C4 und CAM Pflanzen.png",
-    "_Sonstige_/Pdf/Vergleich ökologisch C3 C4 und CAM Pflanzen.pdf",
-    "_Sonstige_/png/Vergleich C3 C4 und CAM Pflanzen.png",
-    "_Sonstige_/Pdf/Vergleich C3 C4 und CAM Pflanzen.pdf",
-    "_Sonstige_/jpeg/09.09.2024 Aufgabe zum bestimmen der Fairness eines Münzwurfes.jpeg",
-    "_Sonstige_/svg/Glucosegehalt und pH-Wert im Brutblatt als Beispiel einer Cam-Pflanze in Abhängigkeit der der Zeit.svg",
-    "_Sonstige_/svg/desmos-graph.svg",
-    "_Sonstige_/png/CAM Pflanzen Brutblatt contra Buntnessel.png",
-    "_Sonstige_/jpeg/04.09.2024 Religion; Wo begegnet uns Leid? — Meldungen und Notitzen.jpg",
-    "Religion/Klasse 12/08.02.2024 Religion; Schaubild zur Aussage von M20.canvas",
-    "Physik/Regelwerk/Regelwerk.canvas",
-    "Mathe/Klasse 12/Integrale/Integrale.canvas",
-    "Mathe/Regelwerk/Untitled.canvas",
-    "Mathe/Regelwerk/Untitled 1.canvas",
-    "Mathe/Regelwerk/Untitled 1 2.canvas",
-    "Geschichte/Klasse 12/Die Menschenrechte aus universal – historischer Perspektive – angeboren und universell/Die Menschenrechte aus universal – historischer Perspektive – angeboren und universell.canvas",
-    "Deutsch/Klasse 12/12.1/„Sprache und Sprachwandel“ — „Medien“ — „Lesen und Literatur“/Verwendung von Sprache in Werrbung.canvas"
-  ]
+  "active": "e2c9e0a68e76d157",
+  "lastOpenFiles": []
 }
