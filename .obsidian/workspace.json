@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -137,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Theodizee.md",
+                "file": "2024.09.18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Theodizee.md",
+                "file": "2024.09.18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Theodizee.md"
+                "file": "2024.09.18.md"
               }
             }
           },
@@ -360,14 +361,14 @@
       "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "a6cab9cd9a1c2032",
+  "active": "392b5c858a533281",
   "lastOpenFiles": [
+    "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Theodizee.md",
     "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/11.09.2024 religion; Böse V Übel.md",
     "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/11.09.2024 Religion; M4 Leben wir in der besten aller möglichen Welten?.md",
     "2024.09.18.md",
     "2024.09.17 Geographie;.md",
     "Geographie/Klasse 12/12.2/07.02.2024 Geographie; Glossar.md",
-    "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Theodizee.md",
     "17.09.2024 Französisch.md",
     "17.09.2024 Französisch; Résumé — Eine zusammenfassung eines Textes.md",
     "Excel 2024-09-17 12.07.21.sheet.md",
