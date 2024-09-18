@@ -401,8 +401,7 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "obsidian-projects:Open projects": false,
       "ketcher:Create new structure": false,
-      "3d-graph-new:Global 3D Graph": false,
-      "obsidian-jump-to-date-plugin:Jump-to-Date": false
+      "3d-graph-new:Global 3D Graph": false
     }
   },
   "active": "9d590dc2e89126df",
