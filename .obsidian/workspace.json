@@ -11,8 +11,12 @@
             "id": "606c0edf059f8f10",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Sep.18.2024.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sep.18.2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sep.18.2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sep.18.2024.md"
+              }
             }
           },
           {
@@ -222,5 +230,7 @@
     }
   },
   "active": "606c0edf059f8f10",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Sep.18.2024.md"
+  ]
 }
