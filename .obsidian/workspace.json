@@ -321,9 +321,17 @@
               "type": "timeline",
               "state": {}
             }
+          },
+          {
+            "id": "ba479325041a0c67",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 18
+        "currentTab": 20
       }
     ],
     "direction": "horizontal",
