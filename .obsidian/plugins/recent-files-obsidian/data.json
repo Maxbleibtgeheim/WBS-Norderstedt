@@ -1,14 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "2024.09.17",
-      "path": "2024.09.17.md"
-    },
-    {
-      "basename": "07.02.2024 Geographie; Glossar",
-      "path": "Geographie/Klasse 12/12.2/07.02.2024 Geographie; Glossar.md"
-    },
-    {
       "basename": "04.09.2024 Religion; Theodizee",
       "path": "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Theodizee.md"
     },
@@ -19,6 +11,18 @@
     {
       "basename": "11.09.2024 Religion; M4 Leben wir in der besten aller möglichen Welten?",
       "path": "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/11.09.2024 Religion; M4 Leben wir in der besten aller möglichen Welten?.md"
+    },
+    {
+      "basename": "2024.09.18",
+      "path": "2024.09.18.md"
+    },
+    {
+      "basename": "2024.09.17 Geographie;",
+      "path": "2024.09.17 Geographie;.md"
+    },
+    {
+      "basename": "07.02.2024 Geographie; Glossar",
+      "path": "Geographie/Klasse 12/12.2/07.02.2024 Geographie; Glossar.md"
     },
     {
       "basename": "17.09.2024 Französisch",
@@ -195,10 +199,6 @@
     {
       "basename": "25.06.2024",
       "path": "25.06.2024.md"
-    },
-    {
-      "basename": "20.06.2024",
-      "path": "20.06.2024.md"
     }
   ],
   "omittedPaths": []

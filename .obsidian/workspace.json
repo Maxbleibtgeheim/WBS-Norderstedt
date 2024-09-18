@@ -44,43 +44,18 @@
             }
           },
           {
-            "id": "0453a8dc05cb180a",
+            "id": "392b5c858a533281",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024.09.17.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fbb33ff07842537f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geographie/Klasse 12/12.2/07.02.2024 Geographie; Glossar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b005129261947a03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024.09.17.md",
+                "file": "2024.09.18.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024.09.17.md",
+                "file": "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Theodizee.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024.09.17.md",
+                "file": "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Theodizee.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024.09.17.md"
+                "file": "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Theodizee.md"
               }
             }
           },
@@ -385,13 +360,14 @@
       "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "b005129261947a03",
+  "active": "a6cab9cd9a1c2032",
   "lastOpenFiles": [
-    "Geographie/Klasse 12/12.2/07.02.2024 Geographie; Glossar.md",
-    "2024.09.17.md",
-    "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Theodizee.md",
     "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/11.09.2024 religion; Böse V Übel.md",
     "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/11.09.2024 Religion; M4 Leben wir in der besten aller möglichen Welten?.md",
+    "2024.09.18.md",
+    "2024.09.17 Geographie;.md",
+    "Geographie/Klasse 12/12.2/07.02.2024 Geographie; Glossar.md",
+    "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Theodizee.md",
     "17.09.2024 Französisch.md",
     "17.09.2024 Französisch; Résumé — Eine zusammenfassung eines Textes.md",
     "Excel 2024-09-17 12.07.21.sheet.md",
@@ -420,7 +396,6 @@
     "_Sonstige_/svg/Deszendenztheorie nach Lamarck.drawio.svg",
     "_Sonstige_/Diagramme/XML/Deszendenztheorie nach Lamarck.drawio",
     "_Sonstige_/png/Evolutionstheorien Schüler AB.2png.png",
-    "09.09.2024.md",
     "_Sonstige_/Pdf/Evolutionstheorien Schüler AB.pdf",
     "_Sonstige_/Diagramme/XML/Evolution.drawio",
     "Biologie/Klasse 13/Klasse 13.1/Evolution",
