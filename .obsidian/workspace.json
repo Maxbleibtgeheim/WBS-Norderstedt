@@ -315,7 +315,7 @@
             }
           },
           {
-            "id": "5acce9a7bc064622",
+            "id": "56a2938b6e2333c2",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -357,7 +357,8 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "obsidian-projects:Open projects": false,
       "ketcher:Create new structure": false,
-      "3d-graph-new:Global 3D Graph": false
+      "3d-graph-new:Global 3D Graph": false,
+      "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
   "active": "392b5c858a533281",
