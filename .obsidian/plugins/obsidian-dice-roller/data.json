@@ -74,5 +74,20 @@
   "diceModTemplateFolders": {},
   "replaceDiceModInLivePreview": true,
   "version": "11.0.5",
-  "viewResults": []
+  "viewResults": [
+    {
+      "result": 0,
+      "original": "1d4kl",
+      "resultText": "[3d]",
+      "timestamp": 1726667242891,
+      "id": "CZgfk2xtQZid"
+    },
+    {
+      "result": 0,
+      "original": "1d4kl",
+      "resultText": "[4d]",
+      "timestamp": 1726667254051,
+      "id": "Gdu2fGAy0b_Z"
+    }
+  ]
 }
