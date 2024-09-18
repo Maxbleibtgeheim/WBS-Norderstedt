@@ -49,14 +49,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024.09.18.md",
+                "file": "2024.09.18 reli.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1243185190623d6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024.09.18 reli.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "15b446a19e0ab4f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024.09.18 Mathe;.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -138,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024.09.18.md",
+                "file": "2024.09.18 Mathe;.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024.09.18.md",
+                "file": "2024.09.18 Mathe;.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024.09.18.md"
+                "file": "2024.09.18 Mathe;.md"
               }
             }
           },
@@ -361,12 +385,13 @@
       "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "392b5c858a533281",
+  "active": "15b446a19e0ab4f9",
   "lastOpenFiles": [
+    "2024.09.18 Mathe;.md",
+    "2024.09.18 reli.md",
     "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Theodizee.md",
     "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/11.09.2024 religion; Böse V Übel.md",
     "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/11.09.2024 Religion; M4 Leben wir in der besten aller möglichen Welten?.md",
-    "2024.09.18.md",
     "2024.09.17 Geographie;.md",
     "Geographie/Klasse 12/12.2/07.02.2024 Geographie; Glossar.md",
     "17.09.2024 Französisch.md",
@@ -393,7 +418,6 @@
     "_Sonstige_/Pdf/09.09.2024 Mathe;.pdf",
     "Biologie/Klasse 13/Klasse 13.1/Evolution/09.09.2024 Biologie; Evolutionstheorien Schüler AB.md",
     "Biologie/Klasse 13/Klasse 13.1/Fotosynthese/05.09.2024 Biologie; Brutblatt contra Buntnessel.md",
-    "Biologie/Klasse 13/Klasse 13.1/Fotosynthese/06.09.2024 Biologie; Wie kann das Brutblatt nachts CO2 aufbewahren und trotzdem Fotosynthese betreiben?.md",
     "_Sonstige_/svg/Deszendenztheorie nach Lamarck.drawio.svg",
     "_Sonstige_/Diagramme/XML/Deszendenztheorie nach Lamarck.drawio",
     "_Sonstige_/png/Evolutionstheorien Schüler AB.2png.png",
