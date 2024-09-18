@@ -370,48 +370,11 @@
       "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "floating": {
-    "id": "ccfbb509ccd9891d",
-    "type": "floating",
-    "children": [
-      {
-        "id": "da96eb3d3bab5412",
-        "type": "window",
-        "children": [
-          {
-            "id": "ac05d2226dbc59c7",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "17dc5cea0fb7274a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "17.09.2024 Französisch.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1054,
-        "y": 7,
-        "width": 702,
-        "height": 916,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "0453a8dc05cb180a",
   "lastOpenFiles": [
-    "17.09.2024 Französisch; Résumé — Eine zusammenfassung eines Textes.md",
-    "2024.09.17.md",
     "17.09.2024 Französisch.md",
+    "2024.09.17.md",
+    "17.09.2024 Französisch; Résumé — Eine zusammenfassung eines Textes.md",
     "Excel 2024-09-17 12.07.21.sheet.md",
     "Excel 2024-09-17 12.07.02.sheet.md",
     "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/11.09.2024 Religion; M4 Leben wir in der besten aller möglichen Welten?.md",
