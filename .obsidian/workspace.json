@@ -86,9 +86,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "9d590dc2e89126df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024.09.18 Deutsch;.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -170,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024.09.18 Mathe;.md",
+                "file": "2024.09.18 Deutsch;.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024.09.18 Mathe;.md",
+                "file": "2024.09.18 Deutsch;.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024.09.18 Mathe;.md"
+                "file": "2024.09.18 Deutsch;.md"
               }
             }
           },
@@ -347,7 +359,7 @@
             }
           },
           {
-            "id": "56a2938b6e2333c2",
+            "id": "53e48379beb88271",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -389,11 +401,13 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "obsidian-projects:Open projects": false,
       "ketcher:Create new structure": false,
-      "3d-graph-new:Global 3D Graph": false
+      "3d-graph-new:Global 3D Graph": false,
+      "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "15b446a19e0ab4f9",
+  "active": "9d590dc2e89126df",
   "lastOpenFiles": [
+    "2024.09.18 Deutsch;.md",
     "2024.09.18 Mathe;.md",
     "2024.09.18 reli.md",
     "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Theodizee.md",
@@ -424,7 +438,6 @@
     "_Sonstige_/Diagramme/XML/03.09.2024 Mathe; Arbeitsblatt -- Wiederholung der Grundlagen der Stochastik fe.drawio",
     "_Sonstige_/Pdf/09.09.2024 Mathe;.pdf",
     "Biologie/Klasse 13/Klasse 13.1/Evolution/09.09.2024 Biologie; Evolutionstheorien Schüler AB.md",
-    "Biologie/Klasse 13/Klasse 13.1/Fotosynthese/05.09.2024 Biologie; Brutblatt contra Buntnessel.md",
     "_Sonstige_/svg/Deszendenztheorie nach Lamarck.drawio.svg",
     "_Sonstige_/Diagramme/XML/Deszendenztheorie nach Lamarck.drawio",
     "_Sonstige_/png/Evolutionstheorien Schüler AB.2png.png",
