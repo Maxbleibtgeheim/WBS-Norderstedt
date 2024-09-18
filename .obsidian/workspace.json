@@ -368,7 +368,6 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "handwritten-notes:Create empty handwritten note": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "janitor:Janitor: scan vault": false,
       "excel:Create Excel File": false,
       "obsidian-book-search-plugin:Create new book note": false,
       "obsidian-full-calendar:Open Full Calendar": false,
@@ -382,8 +381,7 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "obsidian-projects:Open projects": false,
       "ketcher:Create new structure": false,
-      "3d-graph-new:Global 3D Graph": false,
-      "obsidian-jump-to-date-plugin:Jump-to-Date": false
+      "3d-graph-new:Global 3D Graph": false
     }
   },
   "active": "b005129261947a03",
