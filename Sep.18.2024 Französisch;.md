@@ -1,1 +1,1 @@
-Le présent texte concerne Alex.
+Dans ce présent texte concerne Alex.
