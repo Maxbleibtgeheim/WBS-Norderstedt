@@ -9,3 +9,14 @@ $$
 &\cdot \quad \text{le sujet} &&= ~ \text{das Thema} \\
 \end{align}
 $$
+
+se diviser en… paragraphes (m.) / parties (f.)
+
+
+
+
+$$
+\begin{align}
+se 
+\end{align}
+$$
