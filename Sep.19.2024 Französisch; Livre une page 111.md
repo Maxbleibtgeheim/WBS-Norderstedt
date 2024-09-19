@@ -49,6 +49,7 @@ tags:
 Le présent texte, nomé avec le titre [« Les SUDS à Arles : les musiques du monde en Provence »](Livre une page 111.jpg), publié en 2004, parle de le festival « les SUDS à Arles » et les bénévoles Alex, Erik Szuszi, Aïtana, et Pedro.
 
 Le texte se divise en deux paragraphes.
+Le premier 
 
 
 
