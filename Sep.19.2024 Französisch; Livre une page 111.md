@@ -54,6 +54,11 @@ La première partie qui va de la ligne zéro jusqu’à la ligne neuf parle des 
 
 
 
+La première partie qui va de la ligne dix jusqu’à la ligne vingt-cinq parle des participants au festival.
+
+
+
+
 
 
 
