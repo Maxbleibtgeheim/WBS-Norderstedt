@@ -43,7 +43,7 @@ tags:
 > Alex : 
 > 	C'est fantastique!
 
-###  Les SUDS à Arles : les musiques du monde en Provence
+### Résumé le texte « Les SUDS à Arles : les musiques du monde en Provence »
 
 
 
