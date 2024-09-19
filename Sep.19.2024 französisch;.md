@@ -11,7 +11,7 @@ $$
 $$
 
 se diviser en… paragraphes (m.) / parties (f.)
-
+la preniere partie  qui va de la ligne… jusqu’à la ligne… parle de…
 
 
 
