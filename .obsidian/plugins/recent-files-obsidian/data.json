@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Sep.19.2024 Französisch; Livre une page 111",
+      "path": "Sep.19.2024 Französisch; Livre une page 111.md"
+    },
+    {
+      "basename": "17.09.2024 Französisch; Résumé — Eine zusammenfassung eines Textes",
+      "path": "17.09.2024 Französisch; Résumé — Eine zusammenfassung eines Textes.md"
+    },
+    {
       "basename": "Sep.19.2024 französisch;",
       "path": "Sep.19.2024 französisch;.md"
     },
     {
       "basename": "Sep.18.2024 Französisch; Livre une page 106",
       "path": "Sep.18.2024 Französisch; Livre une page 106.md"
-    },
-    {
-      "basename": "17.09.2024 Französisch; Résumé — Eine zusammenfassung eines Textes",
-      "path": "17.09.2024 Französisch; Résumé — Eine zusammenfassung eines Textes.md"
     },
     {
       "basename": "2024.09.18 Mathe;",
@@ -195,10 +199,6 @@
     {
       "basename": "14.06.2024 Englisch; 1,1 to 3,3",
       "path": "Englisch/Klasse 12/14.06.2024 Englisch; 1,1 to 3,3.md"
-    },
-    {
-      "basename": "10.06.2024 Biologie;",
-      "path": "10.06.2024 Biologie;.md"
     }
   ],
   "omittedPaths": []

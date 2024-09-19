@@ -42,8 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "28f627376850eba5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sep.19.2024 Französisch; Livre une page 111.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sep.19.2024 französisch;.md",
+                "file": "Sep.19.2024 Französisch; Livre une page 111.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sep.19.2024 französisch;.md",
+                "file": "Sep.19.2024 Französisch; Livre une page 111.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sep.19.2024 französisch;.md"
+                "file": "Sep.19.2024 Französisch; Livre une page 111.md"
               }
             }
           },
@@ -253,11 +266,12 @@
       "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "606c0edf059f8f10",
+  "active": "28f627376850eba5",
   "lastOpenFiles": [
-    "Sep.18.2024 Französisch; Livre une page 106.md",
-    "Sep.19.2024 französisch;.md",
     "17.09.2024 Französisch; Résumé — Eine zusammenfassung eines Textes.md",
+    "Sep.19.2024 Französisch; Livre une page 111.md",
+    "Sep.19.2024 französisch;.md",
+    "Sep.18.2024 Französisch; Livre une page 106.md",
     "2024.09.18 Mathe;.md",
     "17.09.2024 Französisch.md"
   ]
