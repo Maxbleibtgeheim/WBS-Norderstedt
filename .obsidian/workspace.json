@@ -131,6 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Französisch/Klasse 13/Klasse 13.2/Sep.19.2024 französisch;.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,6 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Französisch/Klasse 13/Klasse 13.2/Sep.19.2024 französisch;.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +182,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Französisch/Klasse 13/Klasse 13.2/Sep.19.2024 französisch;.md"
+              }
             }
           },
           {
@@ -224,23 +228,23 @@
             }
           },
           {
-            "id": "f3891123de2321f2",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {}
-            }
-          },
-          {
             "id": "49128e25e1721887",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "3283010948642289",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 11
       }
     ],
     "direction": "horizontal",
@@ -274,8 +278,7 @@
       "3d-graph-new:Global 3D Graph": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "obsidian-jump-to-date-plugin:Jump-to-Date": false
+      "canvas:Create new canvas": false
     }
   },
   "active": "5f36f9692791bedc",
