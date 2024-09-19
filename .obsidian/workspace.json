@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sep.19.2024 französisch;.md",
+                "file": "Französisch/Klasse 13/Klasse 13.2/Sep.19.2024 französisch;.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "17.09.2024 Französisch; Résumé — Eine zusammenfassung eines Textes.md",
+                "file": "Französisch/Klasse 13/Klasse 13.2/17.09.2024 Französisch; Résumé — Eine zusammenfassung eines Textes.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024.09.18 Mathe;.md",
+                "file": "Mathe/Klasse 13/Klasse 13.2/Stochastik/Hypothesentests/2024.09.18 Mathe;.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +49,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sep.19.2024 Französisch; Livre une page 111.md",
+                "file": "Französisch/Klasse 13/Klasse 13.2/Sep.19.2024 Französisch; Livre une page 111.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "5f36f9692791bedc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -123,7 +131,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sep.19.2024 Französisch; Livre une page 111.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +147,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sep.19.2024 Französisch; Livre une page 111.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,9 +180,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Sep.19.2024 Französisch; Livre une page 111.md"
-              }
+              "state": {}
             }
           },
           {
@@ -274,16 +278,18 @@
       "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "28f627376850eba5",
+  "active": "5f36f9692791bedc",
   "lastOpenFiles": [
-    "Sep.19.2024 französisch;.md",
-    "Sep.19.2024 Französisch; Livre une page 111.md",
+    "Mathe/Klasse 13/Klasse 13.2/Stochastik/Hypothesentests/2024.09.18 Mathe;.md",
+    "Mathe/Klasse 13/Klasse 13.2/Stochastik/Hypothesentests",
+    "Mathe/Klasse 13/Klasse 13.2/Stochastik",
+    "Französisch/Klasse 13/Klasse 13.2/Sep.19.2024 französisch;.md",
+    "Französisch/Klasse 13/Klasse 13.2/17.09.2024 Französisch; Résumé — Eine zusammenfassung eines Textes.md",
+    "Französisch/Klasse 13/Klasse 13.2/Sep.19.2024 Französisch; Livre une page 111.md",
     "_Sonstige_/jpeg/Livre une page 111.jpg",
     "().md",
-    "17.09.2024 Französisch; Résumé — Eine zusammenfassung eines Textes.md",
     "Sep.19.2024.md",
     "Sep.18.2024 Französisch; Livre une page 106.md",
-    "2024.09.18 Mathe;.md",
     "17.09.2024 Französisch.md"
   ]
 }
