@@ -8,4 +8,4 @@ Ils ont rendez-vous à 14h.
 Alex examine les rétroviseurs, le coffre et le capot.
 La voiture a l'avantage d'être en bon état et d'être passée au contrôle technique la semaine dernière.
 Alex met le moteur en marche, teste les phares les clignotants et les freins.
-Le vendeur vérifie le permis de conduire d'Alex et ils roulent nent la voiture.
+Le vendeur vérifie le permis de conduire d'Alex et ils roulent la voiture.
