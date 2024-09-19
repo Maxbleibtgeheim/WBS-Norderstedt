@@ -6,4 +6,4 @@ La voiture est une 106 avec l'année de construction 1998 et les options un auto
 La voiture a un prix de 2000 €.
 Ils ont rendez-vous à 14h.
 Alex examine les rétroviseurs, le coffre et le capot.
-la voiture a l'avantage d'être en bon état et d'être passée au contrôle technique la semaine dernière
+La voiture a l'avantage d'être en bon état et d'être passée au contrôle technique la semaine dernière
