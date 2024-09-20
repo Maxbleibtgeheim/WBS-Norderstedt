@@ -15,7 +15,7 @@ tags:
 Die Insektenbeine bestehen aus Schenkelring, Schenkel, Schiene, Fuß. Sie setzen an der Hüfte an.
 
 Das Sprungbein:
-- Hat einen großen und wahrscheinlich Muskulösen Schenkel welcher von einer langen Schiene gefolgt wird welche als Hebel fungiert.
+- Hat einen großen und wahrscheinlich muskulösen Schenkel welcher von einer langen Schiene gefolgt wird welche als Hebel fungiert.
 Das Laufbein:
 - 
 Das Sammelbein:
