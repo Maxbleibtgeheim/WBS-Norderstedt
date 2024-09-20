@@ -66,9 +66,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "429ca1a68083942f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -135,7 +143,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe/Klasse 13/Klasse 13.2/Stochastik/Hypothesentests/2024.09.18 Mathe;.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +159,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe/Klasse 13/Klasse 13.2/Stochastik/Hypothesentests/2024.09.18 Mathe;.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,9 +192,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Mathe/Klasse 13/Klasse 13.2/Stochastik/Hypothesentests/2024.09.18 Mathe;.md"
-              }
+              "state": {}
             }
           },
           {
@@ -240,7 +244,7 @@
             }
           },
           {
-            "id": "6630577f7b415395",
+            "id": "da28d79b4e7c03df",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -282,10 +286,11 @@
       "3d-graph-new:Global 3D Graph": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false
+      "canvas:Create new canvas": false,
+      "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "5f36f9692791bedc",
+  "active": "429ca1a68083942f",
   "lastOpenFiles": [
     "Mathe/Klasse 13/Klasse 13.2/Stochastik/Hypothesentests/2024.09.18 Mathe;.md",
     "Mathe/Klasse 13/Klasse 13.2/Stochastik/Hypothesentests",
