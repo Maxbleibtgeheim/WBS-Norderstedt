@@ -88,9 +88,17 @@
                 "file": "_Sonstige_/Pdf/Insektenbeine.pdf"
               }
             }
+          },
+          {
+            "id": "5dad0fa78a48f4a4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -158,7 +166,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sep.20.2024 Biologie;.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +182,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sep.20.2024 Biologie;.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,9 +215,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Sep.20.2024 Biologie;.md"
-              }
+              "state": {}
             }
           },
           {
@@ -309,7 +313,7 @@
       "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "b1c1cd4b72270b65",
+  "active": "5dad0fa78a48f4a4",
   "lastOpenFiles": [
     "_Sonstige_/Pdf/Insektenbeine.pdf",
     "Sep.20.2024 Biologie;.md",
