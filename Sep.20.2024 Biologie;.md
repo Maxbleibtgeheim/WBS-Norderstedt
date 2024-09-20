@@ -9,7 +9,7 @@ tags:
 
 ---
 
-![[Insektenbeine.pdf]]
+![[Insektenbeine.png]]
 
 ---
 Die Insektenbeine bestehen aus Schenkelring, Schenkel, Schiene, Fuß. Sie setzen an der Hüfte an.
