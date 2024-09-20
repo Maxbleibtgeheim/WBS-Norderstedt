@@ -81,6 +81,22 @@
           }
         ],
         "currentTab": 5
+      },
+      {
+        "id": "bc197d0550db5577",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b668c622163fa52",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "_Sonstige_/Pdf/Insektenbeine.pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -302,8 +318,8 @@
   "active": "b1c1cd4b72270b65",
   "lastOpenFiles": [
     "_Sonstige_/Pdf/Insektenbeine.pdf",
-    "Sep.20.2024 Biologie; 3 homologiekriterien.md",
     "Sep.20.2024 Biologie;.md",
+    "Sep.20.2024 Biologie; 3 homologiekriterien.md",
     "_Sonstige_/Telegram",
     "Mathe/Klasse 13/Klasse 13.2/Stochastik/Hypothesentests/2024.09.18 Mathe;.md",
     "Mathe/Klasse 13/Klasse 13.2/Stochastik/Hypothesentests",

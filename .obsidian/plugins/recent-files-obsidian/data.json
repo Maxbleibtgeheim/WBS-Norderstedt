@@ -5,6 +5,10 @@
       "path": "Sep.20.2024 Biologie;.md"
     },
     {
+      "basename": "Insektenbeine",
+      "path": "_Sonstige_/Pdf/Insektenbeine.pdf"
+    },
+    {
       "basename": "Sep.20.2024 Biologie; 3 homologiekriterien",
       "path": "Sep.20.2024 Biologie; 3 homologiekriterien.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2023-06-04r",
       "path": "Biologie/Klasse 11/2023-06-04r.md"
-    },
-    {
-      "basename": "Act_1_Scene_4",
-      "path": "Englisch/Klasse 12/Act_1_Scene_4.md"
     }
   ],
   "omittedPaths": []
