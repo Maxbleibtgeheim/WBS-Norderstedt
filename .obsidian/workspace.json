@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sep.20.2024.md",
+                "file": "Sep.20.2024 Biologie;.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ec829f23c3b3c697",
@@ -147,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sep.20.2024.md",
+                "file": "Sep.20.2024 Biologie;.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sep.20.2024.md",
+                "file": "Sep.20.2024 Biologie;.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sep.20.2024.md"
+                "file": "Sep.20.2024 Biologie;.md"
               }
             }
           },
@@ -300,8 +301,9 @@
   },
   "active": "b1c1cd4b72270b65",
   "lastOpenFiles": [
+    "_Sonstige_/Pdf/Insektenbeine.pdf",
     "Sep.20.2024 Biologie; 3 homologiekriterien.md",
-    "Sep.20.2024.md",
+    "Sep.20.2024 Biologie;.md",
     "_Sonstige_/Telegram",
     "Mathe/Klasse 13/Klasse 13.2/Stochastik/Hypothesentests/2024.09.18 Mathe;.md",
     "Mathe/Klasse 13/Klasse 13.2/Stochastik/Hypothesentests",
