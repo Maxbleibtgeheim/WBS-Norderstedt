@@ -6,6 +6,7 @@ tags:
   - Klasse_13
   - Klasse_13_1
 ---
+
 ## 1. Kriterium der Lage:
 - dieselbe Lage im vergleichbaren Gefäßsystem (einzelne Knochen)
 - Organ / Körperteil befindet an vergleichbarer Position (Vorderextremitäten an Schultergürtel)
