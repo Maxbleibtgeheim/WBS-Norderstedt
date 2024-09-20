@@ -71,8 +71,12 @@
             "id": "b1c1cd4b72270b65",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Sep.20.2024.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -143,6 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sep.20.2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,6 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sep.20.2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +198,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sep.20.2024.md"
+              }
             }
           },
           {
@@ -292,6 +300,7 @@
   },
   "active": "b1c1cd4b72270b65",
   "lastOpenFiles": [
+    "Sep.20.2024.md",
     "Mathe/Klasse 13/Klasse 13.2/Stochastik/Hypothesentests/2024.09.18 Mathe;.md",
     "Mathe/Klasse 13/Klasse 13.2/Stochastik/Hypothesentests",
     "Mathe/Klasse 13/Klasse 13.2/Stochastik",
