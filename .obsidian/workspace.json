@@ -157,8 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ec829f23c3b3c697",
@@ -287,7 +286,7 @@
             }
           },
           {
-            "id": "3717fc4b5e96041c",
+            "id": "207a66cd1c139d3b",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -329,7 +328,8 @@
       "3d-graph-new:Global 3D Graph": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false
+      "canvas:Create new canvas": false,
+      "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
   "active": "33795e14a5ec1b9b",
