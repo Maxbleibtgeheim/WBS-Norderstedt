@@ -29,8 +29,25 @@ l'équipe de France 30 de football continue de porter les questionnements identi
 Pourtant, rarement les joueurs n'auront autant revendiqués leur amour de la France.
 «Je veux incarner la France, représenter la France», 
 clamait Kylian Mbappé vendredi dans une interview au quotidien français Le Monde.
-«C'est le sacre suprême. On aime les Français. 
-On est fiers d'être français, d'être Bleus. 
-Vive la République!», a encore déclaré Didier Deschamps à l'issue de la
+«C'est le sacre suprême. 
+On aime les Français. 
+On est fiers d'être français, 
+d'être Bleus. 
+Vive la République!»,
+a encore déclaré Didier Deschamps à l'issue de la La veille, 
+Paul Pogba avait vanté les nombreuses «origines» et «couleurs» de la population
+
+
+française: «C'est ça qui fait la so France, une belle France [...] C'est comme ça qu'on l'aime et qu'on l'aimera toujours». 
+Antoine Griezmann a lui aussi clamé sa fierté de jouer avec une équipe 5 bercée de multiples cultures. 
+«La diversité qu'on a dans cette sélection est à l'image de ce beau pays qu'est la France. 
+C'est la diversité et pour nous c'est super.
+• On est fiers de porter ce maillot et le peuple est fier d'avoir une équipe nationale comme ça. 
+On représente fièrement l'équipe de France et la France».
+Parmi les 23 Bleus présents au Mondial en Russie, 14 ont des origines sur le continent africain.
+Kylian Mbappé est né d'une mère d'origine algérienne et d'un père , d'origine camerounaise. 
+Il est «un des grands symboles [...]. 
+Il est beur, il est black, il est blanc à lui tout seul»,
+relève à l'AFP6 l'historien spécialiste de l'immigration, Pascal Blanchard.
 
 ---
