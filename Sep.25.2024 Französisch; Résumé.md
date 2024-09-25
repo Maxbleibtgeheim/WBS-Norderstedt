@@ -1,1 +1,1 @@
-Le présent texte rédige par Charlotte Boitiaux avec le titre « Mondial 2018 : les Bleus et la « richesse » des joueurs d’origine africaine » a été  publié en 2018. Le texte parle de la coupe du monde football et l’équipe Francise.
+Le présent texte rédige par Charlotte Boitiaux avec le titre « Mondial 2018 : les Bleus et la « richesse » des joueurs d’origine africaine » a été  publié en 2018. Le texte parle de la coupe du monde football et l’équipe de France.
