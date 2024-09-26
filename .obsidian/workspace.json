@@ -250,14 +250,6 @@
             }
           },
           {
-            "id": "5baff13dbc1db754",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {}
-            }
-          },
-          {
             "id": "2c4c35329995ec72",
             "type": "leaf",
             "state": {
@@ -298,15 +290,23 @@
             }
           },
           {
-            "id": "dd104c433e28265c",
+            "id": "3c5de50ef6cc21b6",
             "type": "leaf",
             "state": {
               "type": "timeline",
               "state": {}
             }
+          },
+          {
+            "id": "25905addd240d9b2",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
@@ -340,7 +340,8 @@
       "3d-graph-new:Global 3D Graph": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false
+      "canvas:Create new canvas": false,
+      "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
   "active": "a1347619fea92b14",
