@@ -7,6 +7,9 @@
         <mxCell id="gPoRqJbv3SqnU0sUz2jM-1" value="Divergenz&amp;nbsp;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="175" y="190" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="gPoRqJbv3SqnU0sUz2jM-5" value="Auseinanderentwicklung&amp;nbsp;&lt;div&gt;von Merkmalen&amp;nbsp;&lt;/div&gt;&lt;div&gt;verschiedener&amp;nbsp;&lt;/div&gt;&lt;div&gt;Lebewesen aufgrund eines Funktionswechsels&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="33.5" y="252.5" width="350" height="88" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
