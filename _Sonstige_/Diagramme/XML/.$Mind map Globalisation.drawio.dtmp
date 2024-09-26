@@ -11,10 +11,10 @@
           <mxGeometry x="960" y="399" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NGwiz2vUM0s61v812MuA-10" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Science&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;amp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;scientific aspechs&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="685" y="595" width="150" height="70" as="geometry" />
+          <mxGeometry x="737.5" y="544.5" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="NGwiz2vUM0s61v812MuA-12" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;health&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="725" y="721" width="70" height="30" as="geometry" />
+          <mxGeometry x="777.5" y="700" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NGwiz2vUM0s61v812MuA-14" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;globalisation&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="512" y="364" width="145" height="99" as="geometry" />
@@ -27,6 +27,9 @@
         </mxCell>
         <mxCell id="NGwiz2vUM0s61v812MuA-17" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;economic aspects&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="364.5" width="145" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="NGwiz2vUM0s61v812MuA-18" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="255" y="498" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
