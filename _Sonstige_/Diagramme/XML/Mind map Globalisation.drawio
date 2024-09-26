@@ -28,6 +28,9 @@
         <mxCell id="NGwiz2vUM0s61v812MuA-17" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;economic aspects&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="364.5" width="145" height="99" as="geometry" />
         </mxCell>
+        <mxCell id="NGwiz2vUM0s61v812MuA-19" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;stock market&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="297.5" y="564.5" width="110" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
