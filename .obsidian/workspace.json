@@ -298,7 +298,7 @@
             }
           },
           {
-            "id": "207a66cd1c139d3b",
+            "id": "dd104c433e28265c",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -340,8 +340,7 @@
       "3d-graph-new:Global 3D Graph": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "obsidian-jump-to-date-plugin:Jump-to-Date": false
+      "canvas:Create new canvas": false
     }
   },
   "active": "a1347619fea92b14",
