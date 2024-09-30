@@ -7,7 +7,7 @@ tags:
   - Morphologie
   - Anatomie
   - DNA-Hybridisierung
-  - DNA-Sequenzierung
+  - DNA-DNA-Sequenzierung
   - Klasse_13
   - Klasse_13_1
 ---
