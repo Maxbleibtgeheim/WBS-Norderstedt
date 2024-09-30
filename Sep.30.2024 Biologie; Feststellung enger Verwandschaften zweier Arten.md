@@ -29,8 +29,10 @@ Enge Verwandtschaft festgestellt durch
 
 
 ## Aufgabe 1:
-> p
+> 
 
+Die DNA-Stränge sind nur in bruchstücken forhanden.
+Die DNA muss vor der verwendung gereiniegt werden.
 
 ## Aufgabe 2:
 > 
