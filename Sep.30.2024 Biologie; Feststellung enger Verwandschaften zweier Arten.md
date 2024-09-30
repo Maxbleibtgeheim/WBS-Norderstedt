@@ -45,7 +45,7 @@ Die mt-DNA ist in jeder Körperzelle vermehrt vertreten und kann mit relativer E
 
 Zunächst erfolgt die Denaturierung der DNA-Doppelstränge zu Einzelstränge unter aufbrechung der Wasserstoffbrückenbindungen der Kolmplimentären Basebpaaren bei einer Erhöhung der Temperatur auf $\ge70~°C$.
 Darauf wird der Denaturierten DNA Primer, DNA-Polymerasemoleküle und die vier verschiedenen Desoxyribonukleotid-Triphosphate so wie in geringenmengen Didesoxyribonukleotid-Triphosphatehinzugegeben.  
-Aufgrund der fehlenden $OH-Gruppe$ kann das ddNTP nicht mit weiteren dNTPs verbunden werden und die Synthese bricht an dieser Stelle ab. 
+Aufgrund der fehlenden $OH-Gruppe$ kann das ddNTP nicht mit weiteren dNTPs verbunden werden und die Synthese bricht an dieser Stelle ab. Da die vier unterschiedlöichen ddNTp Basen mit unterschiedlich farbigen Flurescierenden Makern ausgestatet sind leuchten diese unter einem “**l**ight **a**mplification by **s**timulated **e**mission of **r**adiation” unterschiedlich farbig leuchten. Die nun unterschiedlich langen Stücke der DNA werden mitels einer GEL-Elektrophorese deren Länge nach sotiert. Wenn nun mitels eines “**l**ight **a**mplification by **s**timulated **e**mission of **r**adiation”s licht auf die Flureszierenden Maker scheint leuchten diese in einer Farbe koresbondierend zu jener an dieser stelle der Länge des Originalen stranges sich befindenen Base.
 ## Aufgabe 4:
 > P
 
