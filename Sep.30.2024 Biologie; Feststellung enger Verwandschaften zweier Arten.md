@@ -31,13 +31,13 @@ Enge Verwandtschaft festgestellt durch
 ## Aufgabe 1:
 > P
 
-Die DNA-Stränge sind nur in bruchstücken forhanden.
-Die DNA muss vor der verwendung gereiniegt werden.
+Die DNA-Stränge sind nur in Bruchstücken vorhanden.
+Die DNA muss vor der Verwendung gereinigt werden.
 
 ## Aufgabe 2:
 > P
 
-Die mt-DNA ist in jeder Körperzelle vermert vertreten und kann mit relativer einfachheit entnommen gereiniegt und vervielfeltigt werden. Aufgrund dieses vermerten auftretens ist die warscheinlichkeit erhoht funktionelle und folstaändige mt-DNA stränge anzuträffen warend andere DNA-Strange unvolständig und beschadigt sein könnten.
+Die mt-DNA ist in jeder Körperzelle vermehrt vertreten und kann mit relativer Einfachheit entnommen gereinigt und vervielfältigt werden. Aufgrund dieses vermehrten Auftretens ist die Wahrscheinlichkeit erhöht funktionelle und vollständige Mt-DNA Stränge anzutreffen während andere DNA-Strange unvollständig und beschädigt sein könnten.
 
 
 ## Aufgabe 3:
