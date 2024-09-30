@@ -114,6 +114,16 @@
             }
           },
           {
+            "id": "d97497753129c371",
+            "type": "leaf",
+            "state": {
+              "type": "ket-view",
+              "state": {
+                "file": "Ketcher/Ketcher 9-26-2024 08.50.42.ket"
+              }
+            }
+          },
+          {
             "id": "a1347619fea92b14",
             "type": "leaf",
             "state": {
@@ -126,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -193,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sep.26.2024.md",
+                "file": "Ketcher/Ketcher 9-26-2024 08.50.42.ket",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sep.26.2024.md",
+                "file": "Ketcher/Ketcher 9-26-2024 08.50.42.ket",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sep.26.2024.md"
+                "file": "Ketcher/Ketcher 9-26-2024 08.50.42.ket"
               }
             }
           },
@@ -340,14 +350,14 @@
       "3d-graph-new:Global 3D Graph": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "obsidian-jump-to-date-plugin:Jump-to-Date": false
+      "canvas:Create new canvas": false
     }
   },
-  "active": "33795e14a5ec1b9b",
+  "active": "d97497753129c371",
   "lastOpenFiles": [
-    "Ketcher/Ketcher 9-26-2024 08.25.49.ket",
     "Sep.26.2024.md",
+    "Ketcher/Ketcher 9-26-2024 08.50.42.ket",
+    "Ketcher/Ketcher 9-26-2024 08.25.49.ket",
     "2024.09.17 Geographie;.md",
     "Sep.20.2024 Biologie;.md",
     "_Sonstige_/Pdf/Insektenbeine.pdf",
