@@ -43,8 +43,8 @@ Die mt-DNA ist in jeder Körperzelle vermert vertreten und kann mit relativer ei
 ## Aufgabe 3:
 > P
 
-Zunächst ervolgt die Denaturierung der DNA-Doppelstränge zu einzelstränge bei einer 
-
+Zunächst erfolgt die Denaturierung der DNA-Doppelstränge zu einzelstränge bei einer erhöhung der Themperatur auf $\ge70~°C$
+Darauf wird der Denaturierten DNA Primer, DNA-Polymerasemoleküle und die vier verschiedenenr
 ## Aufgabe 4:
 > P
 
