@@ -43,8 +43,7 @@ Die mt-DNA ist in jeder Körperzelle vermert vertreten und kann mit relativer ei
 ## Aufgabe 3:
 > P
 
-Die DNA-Stränge sind nur in bruchstücken forhanden.
-Die DNA muss vor der verwendung gereiniegt werden.
+Zunächst ervolgt die Denaturierung der DNA-Doppelstränge zu einzelstränge bei einer 
 
 ## Aufgabe 4:
 > P
