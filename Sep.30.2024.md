@@ -22,7 +22,7 @@ Enge Verwandtschaft festgestellt durch
 	b) **DNA — Vergleich**
 		1. DNA - Hybridisierung 
 		2. DNA - Sequenzierung
-	c) **Verhalten**
+	c) **Verhalten**z 
 		1. Balzverhalten
 
 s<dddddsx                                                                                                                 
