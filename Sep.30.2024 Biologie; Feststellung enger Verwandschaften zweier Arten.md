@@ -25,10 +25,17 @@ Enge Verwandtschaft festgestellt durch
 	c) **Verhalten**z 
 		1. Balzverhalten
 
-s<dddddsx                                                                                                                 
 
 
 
+## Aufgabe 1:
+> p
+
+
+## Aufgabe 2:
+> 
+
+Die mt-DNA ist in jeder Körperzelle vermert vertreten und kann mit relativer einfachheit entnommen gereiniegt und vervielfeltigt werden. Aufgrund dieses vermerten auftretens ist die warscheinlichkeit erhoht funktionelle und folstaändige mt-DNA stränge anzuträffen warend andere DNA-Strange unvolständig und beschadigt sein könnten.
 
 
 

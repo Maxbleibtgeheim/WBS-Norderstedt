@@ -131,7 +131,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sep.30.2024.md",
+                "file": "Sep.30.2024 Biologie; Feststellung enger Verwandschaften zweier Arten.md",
                 "mode": "source",
                 "source": false
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sep.30.2024.md",
+                "file": "Sep.30.2024 Biologie; Feststellung enger Verwandschaften zweier Arten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sep.30.2024.md",
+                "file": "Sep.30.2024 Biologie; Feststellung enger Verwandschaften zweier Arten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -257,7 +257,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sep.30.2024.md"
+                "file": "Sep.30.2024 Biologie; Feststellung enger Verwandschaften zweier Arten.md"
               }
             }
           },
@@ -352,12 +352,13 @@
       "3d-graph-new:Global 3D Graph": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false
+      "canvas:Create new canvas": false,
+      "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
   "active": "c963e5ce3620792b",
   "lastOpenFiles": [
-    "Sep.30.2024.md",
+    "Sep.30.2024 Biologie; Feststellung enger Verwandschaften zweier Arten.md",
     "Sep.26.2024.md",
     "_Sonstige_/Diagramme/XML/Divergente Entwicklung.drawio",
     "Ketcher/Ketcher 9-26-2024 08.50.42.ket",
