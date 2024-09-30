@@ -49,6 +49,6 @@ Aufgrund der fehlenden $OH-Gruppe$ kann das DDNTP nicht mit weiteren DNTPs verbu
 ## Aufgabe 4:
 > P
 
-ü
+Das Gen wurde Menschlichen Zellen zur decodieung und synthetisierung eingesetzt 
 
 
