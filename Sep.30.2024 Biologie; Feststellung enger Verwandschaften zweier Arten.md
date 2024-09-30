@@ -45,7 +45,7 @@ Die mt-DNA ist in jeder Körperzelle vermehrt vertreten und kann mit relativer E
 
 Zunächst erfolgt die Denaturierung der DNA-Doppelstränge zu Einzelstränge bei einer Erhöhung der Temperatur auf $\ge70~°C$.
 Darauf wird der Denaturierten DNA Primer, DNA-Polymerasemoleküle und die vier verschiedenen Desoxyribonukleotid-Triphosphate so wie in geringenmengen Didesoxyribonukleotid-Triphosphatehinzugegeben.  
-Aufgrund der fehlenden $OH-Gruppe$ kann das DDNTP nicht mit weiteren dNTPs verbunden werden und die Synthese bricht an dieser Stelle ab. 
+Aufgrund der fehlenden $OH-Gruppe$ kann das ddNTP nicht mit weiteren dNTPs verbunden werden und die Synthese bricht an dieser Stelle ab. 
 ## Aufgabe 4:
 > P
 
