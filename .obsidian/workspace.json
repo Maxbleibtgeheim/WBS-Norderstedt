@@ -124,9 +124,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c963e5ce3620792b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -193,7 +201,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sep.26.2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +217,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sep.26.2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,9 +250,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Sep.26.2024.md"
-              }
+              "state": {}
             }
           },
           {
@@ -340,14 +344,15 @@
       "3d-graph-new:Global 3D Graph": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false
+      "canvas:Create new canvas": false,
+      "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "33795e14a5ec1b9b",
+  "active": "c963e5ce3620792b",
   "lastOpenFiles": [
+    "Sep.26.2024.md",
     "_Sonstige_/Diagramme/XML/Divergente Entwicklung.drawio",
     "Ketcher/Ketcher 9-26-2024 08.50.42.ket",
-    "Sep.26.2024.md",
     "Ketcher/Ketcher 9-26-2024 08.25.49.ket",
     "2024.09.17 Geographie;.md",
     "Sep.20.2024 Biologie;.md",
