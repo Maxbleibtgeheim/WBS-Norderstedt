@@ -44,7 +44,7 @@ Die mt-DNA ist in jeder Körperzelle vermert vertreten und kann mit relativer ei
 > P
 
 Zunächst erfolgt die Denaturierung der DNA-Doppelstränge zu einzelstränge bei einer erhöhung der Themperatur auf $\ge70~°C$
-Darauf wird der Denaturierten DNA Primer, DNA-Polymerasemoleküle und die vier verschiedenenr
+Darauf wird der Denaturierten DNA Primer, DNA-Polymerasemoleküle und die vier verschiedenen Desoxyribonukleotid-Triphosphate hinzugegeben.
 ## Aufgabe 4:
 > P
 
