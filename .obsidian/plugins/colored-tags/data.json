@@ -94,7 +94,12 @@
     "Re": 82,
     "Résumé": 83,
     "Lektion_10": 84,
-    "Homologie": 85
+    "Homologie": 85,
+    "Analogie": 86,
+    "Morphologie": 87,
+    "Anatomie": 88,
+    "DNA-Hybridisierung": 89,
+    "DNA-Sequenzierung": 90
   },
   "_version": 3
 }

@@ -1,3 +1,16 @@
+---
+tags:
+  - Biologie
+  - Evolution
+  - Homologie
+  - Analogie
+  - Morphologie
+  - Anatomie
+  - DNA-Hybridisierung
+  - DNA-Sequenzierung
+  - Klasse_13
+  - Klasse_13_1
+---
 Enge Verwandtschaft festgestellt durch
 	a) **Morphologie + Anatomie**
 		1. Homologie / Analogie
