@@ -49,7 +49,6 @@ Aufgrund der fehlenden $OH-Gruppe$ kann das DDNTP nicht mit weiteren DNTPs verbu
 ## Aufgabe 4:
 > P
 
-Die mt-DNA ist in jeder Körperzelle vermert vertreten und kann mit relativer einfachheit entnommen gereiniegt und vervielfeltigt werden. Aufgrund dieses vermerten auftretens ist die warscheinlichkeit erhoht funktionelle und folstaändige mt-DNA stränge anzuträffen warend andere DNA-Strange unvolständig und beschadigt sein könnten.i
-
+ü
 
 
