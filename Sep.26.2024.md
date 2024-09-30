@@ -1,0 +1,1 @@
+Ich bin mit meiner Freundin auf einer Gartenparty. Etwas verspätet erscheint meine Ehemalige Partnerinn zu der Gartenparty. 
