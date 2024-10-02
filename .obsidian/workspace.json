@@ -18,17 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e236faf47588de22",
-            "type": "leaf",
-            "state": {
-              "type": "swar8080/AVAILABLE_PLUGIN_UPDATES",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -262,7 +253,7 @@
       "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "e236faf47588de22",
+  "active": "a990c88621946aa1",
   "lastOpenFiles": [
     "Oct.02.2024.md",
     "Religion/Klasse 11/2023-03-13 Religion M3 _Funktionen von Religionen nach Stoodt_.md",
