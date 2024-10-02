@@ -1,3 +1,10 @@
+---
+tags:
+  - Deutsch
+  - Erzählperspektiven
+  - Klasse_13
+  - Klasse_13_1
+---
 Ich bin mit meiner Freundin auf einer Gartenparty.
 Ich bin froh, dass ich sie habe, sie ist sehr nett, freundlich und immer hilfsbereit und darüber hinaus sieht sie auch noch gut aus.
 In den Bäumen hängen leuchtende Lichterketten, welche in Rot, Grün, Blau und Gelb erstrahlte.
