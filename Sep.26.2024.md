@@ -7,8 +7,8 @@ Ich glaube nicht das ich ihr jemals meine Freundin vorgestellt habe.
 Nachdem wir uns vor langem getrent hatten, haben wir nicht mehr viel miteinander zu tun gehabt und ich verspüre auch nicht das bedürfniss dies zu ändern.
 
 
-Ein Mann sitzt mit einer 
-Die Gartenparty hat schon vor einer Weile begonnen. 
-
-
+Ein Mann sitzt mit seiner Partnerin auf einer Gartenparty.
+Die Verantstaltung hat schon vor einer Weile begonnen. 
+Der mann und seine freundin unterhalten sich und lachten.
+Werend sie sich unterhalten dachte der Mann darüber nach wie gut er es hat sie als seine Freundin zu haben.
 

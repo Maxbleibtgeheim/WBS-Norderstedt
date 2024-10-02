@@ -18,6 +18,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4aa5a0580dbf3119",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ]
       }
@@ -73,8 +81,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -255,6 +262,7 @@
   },
   "active": "a990c88621946aa1",
   "lastOpenFiles": [
+    "Sep.26.2024.md",
     "Oct.02.2024.md",
     "Religion/Klasse 11/2023-03-13 Religion M3 _Funktionen von Religionen nach Stoodt_.md",
     "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Theodizee.md",
@@ -262,7 +270,6 @@
     "Oct.01.2024 Geschichte; Weimarer Verfassung.md",
     "Mathe/Klasse 13/Klasse 13.2/Stochastik/Hypothesentests/2024.09.18 Mathe;.md",
     "Sep.25.2024 Französisch; Résumé.md",
-    "Sep.26.2024.md",
     "Sep.20.2024.md",
     "_Sonstige_/Pdf/Insektenbeine.pdf",
     "Sep.20.2024 Biologie;.md",
