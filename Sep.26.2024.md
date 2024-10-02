@@ -8,7 +8,7 @@ Nachdem wir uns vor langem getrent hatten, haben wir nicht mehr viel miteinander
 
 
 Ein Mann sitzt mit einer 
-Die Gartenparty hat schon vor einer weile begonnen. 
+Die Gartenparty hat schon vor einer Weile begonnen. 
 
 
 
