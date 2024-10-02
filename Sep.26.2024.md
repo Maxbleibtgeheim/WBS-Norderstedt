@@ -1,10 +1,10 @@
 Ich bin mit meiner Freundin auf einer Gartenparty.
-~~Ich bin froh das ich sie habe sie ist sehr nett, freundlich und immer hilfsbereit und darüber hinaus sieht sie auch noch gut aus.~~
-In den Bäumen hängen leuchtende Lichterketten, welche in rot, grün, blau und gelb erstrahlte.
+~~Ich bin froh, dass ich sie habe, sie ist sehr nett, freundlich und immer hilfsbereit und darüber hinaus sieht sie auch noch gut aus.~~
+In den Bäumen hängen leuchtende Lichterketten, welche in Rot, Grün, Blau und Gelb erstrahlte.
 Die Abendluft ist kühl, dies störte uns jedoch nicht es war eine Heitere Stimmung. Wir redeten und lachten. 
 Etwas verspätet erschien meine ehemalige Partnerin zu der Gartenparty. 
 Ich glaube nicht das ich ihr jemals meine Freundin vorgestellt habe.
-Nachdem wir uns vor langem getrent hatten, haben wir nicht mehr viel miteinander zu tun gehabt und ich verspüre auch nicht das bedürfniss dies zu ändern.
+Nachdem wir uns vor langem getrennt hatten, haben wir nicht mehr viel miteinander zu tun gehabt und ich verspüre auch nicht das bedürfniss dies zu ändern.
 
 
 Ein Mann sitzt mit seiner Partnerin auf einer Gartenparty.
@@ -12,6 +12,6 @@ In den Bäumen hängen leuchtende Lichterketten welche in den verschiedensten Fa
 Die Veranstaltung hat schon vor einer Weile begonnen. 
 Der Mann und seine Freundin unterhalten sich und lachten.
 Während sie sich unterhalten dachte der Mann darüber nach wie gut er es hat sie, als seine Freundin zu haben.
-Während dessen denkt seine freundin darüber nach wie er sie immer zum lachen bringt.
+Während dessen denkt seine Freundin darüber nach wie er sie immer zum Lachen bringt.
 
 
