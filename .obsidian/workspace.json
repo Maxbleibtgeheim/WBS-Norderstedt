@@ -148,9 +148,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bc4760746c2dd670",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "16.05.2024; Religion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -217,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oct.01.2024 Geschichte; Weimarer Verfassung.md",
+                "file": "16.05.2024; Religion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +246,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oct.01.2024 Geschichte; Weimarer Verfassung.md",
+                "file": "16.05.2024; Religion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -269,7 +281,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oct.01.2024 Geschichte; Weimarer Verfassung.md"
+                "file": "16.05.2024; Religion.md"
               }
             }
           },
@@ -364,13 +376,21 @@
       "3d-graph-new:Global 3D Graph": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false
+      "canvas:Create new canvas": false,
+      "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "a384d2a5925267ec",
+  "active": "bc4760746c2dd670",
   "lastOpenFiles": [
-    "Sep.30.2024 Biologie; Feststellung enger Verwandschaften zweier Arten.md",
+    "17.09.2024 Französisch.md",
+    "2023-05-23 Religions Podcast; E-Mail an Frau Lescow.md",
+    "2024.09.18 reli.md",
+    "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/11.09.2024 Religion; M4 Leben wir in der besten aller möglichen Welten?.md",
+    "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/11.09.2024 religion; Böse V Übel.md",
+    "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Wo begegnet uns Leid? — Meldungen und Notitzen.md",
+    "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; \"Das Leid ist der Fels der Atheisten\".md",
     "Oct.01.2024 Geschichte; Weimarer Verfassung.md",
+    "Sep.30.2024 Biologie; Feststellung enger Verwandschaften zweier Arten.md",
     "Mathe/Klasse 13/Klasse 13.2/Stochastik/Hypothesentests/2024.09.18 Mathe;.md",
     "Sep.25.2024 Französisch; Résumé.md",
     "Sep.26.2024.md",
@@ -393,7 +413,6 @@
     "_Sonstige_/jpeg/Livre une page 111.jpg",
     "().md",
     "Sep.19.2024.md",
-    "Sep.18.2024 Französisch; Livre une page 106.md",
-    "17.09.2024 Französisch.md"
+    "Sep.18.2024 Französisch; Livre une page 106.md"
   ]
 }
