@@ -8,10 +8,10 @@ Nachdem wir uns vor langem getrent hatten, haben wir nicht mehr viel miteinander
 
 
 Ein Mann sitzt mit seiner Partnerin auf einer Gartenparty.
-In den Bäumen hängen leuchtende Lichterketten welche in den verschiedensten Farben erstrallen.
-Die Verantstaltung hat schon vor einer Weile begonnen. 
-Der mann und seine freundin unterhalten sich und lachten.
-Werend sie sich unterhalten dachte der Mann darüber nach wie gut er es hat sie als seine Freundin zu haben.
+In den Bäumen hängen leuchtende Lichterketten welche in den verschiedensten Farben Erstrallen.
+Die Veranstaltung hat schon vor einer Weile begonnen. 
+Der Mann und seine Freundin unterhalten sich und lachten.
+Während sie sich unterhalten dachte der Mann darüber nach wie gut er es hat sie, als seine Freundin zu haben.
 Während dessen denkt seine freundin darüber nach wie er sie immer zum lachen bringt.
 
 
