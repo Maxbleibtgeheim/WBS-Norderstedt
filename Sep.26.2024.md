@@ -14,6 +14,6 @@ Der Mann und seine Freundin unterhalten sich und lachten.
 Während sie sich unterhalten dachte der Mann darüber nach wie gut er es hat sie, als seine Freundin zu haben.
 Während dessen denkt, seine Freundin darüber nach wie er sie immer zum Lachen bringt.
 Verspätet kommt auch die ehemalige Partnerin des Mannes zu der Gartenparty dazu.
-Nachdem sie sich getrennt hattenr wenig kontakt, weshalb er ihr auch nie seine neue Freundin vorgestellt hatte.
-Die ehemalige Partnerin dengt darüber nach dass sie es ihrem ehemaligen freund nich verübeln könne das er eine neue partnerin hat da er schon lange keine partnerin hatte.
+Nachdem sie sich getrennt hatten wenig Kontakt, weshalb er ihr auch nie seine neue Freundin vorgestellt hatte.
+Die ehemalige Partnerin denkt darüber nach, dass sie es ihrem ehemaligen Freund nicht verübeln könne das er eine neue Partnerin hat da er schon lange keine Partnerin hatte. Sie denkt darüber hinaus auch das seine Freundin sehr atraktiv ist und sie gut zusammen zu pasen scheinen.
 
