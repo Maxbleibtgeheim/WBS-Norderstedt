@@ -13,7 +13,7 @@ Etwas verspätet erschien meine ehemalige Partnerin zu der Gartenparty.
 Ich glaube nicht das ich ihr jemals meine Freundin vorgestellt habe.
 Nachdem wir uns vor langem getrennt hatten, haben wir nicht mehr viel miteinander zu tun gehabt und ich verspüre auch nicht das Bedürfnis dies zu ändern.
 
-
+ 
 Ein Mann sitzt mit seiner Partnerin auf einer Gartenparty.
 In den Bäumen hängen leuchtende Lichterketten welche in den verschiedensten Farben Erstrallen.
 Die Veranstaltung hat schon vor einer Weile begonnen. 

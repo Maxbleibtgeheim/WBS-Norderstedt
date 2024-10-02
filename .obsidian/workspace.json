@@ -220,9 +220,19 @@
               "type": "timeline",
               "state": {}
             }
+          },
+          {
+            "id": "2685bb8f4d125cd2",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Sep.26.2024 Deutsch; Die Freundin meines Freundes.md"
+              }
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 13
       }
     ],
     "direction": "horizontal",
