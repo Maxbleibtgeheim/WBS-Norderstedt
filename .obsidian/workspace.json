@@ -23,12 +23,15 @@
             "id": "5c06f0aecc2afca5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Religion/Klasse 11/2023-03-13 Religion M3 _Funktionen von Religionen nach Stoodt_.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -66,8 +69,24 @@
               "type": "recent-files",
               "state": {}
             }
+          },
+          {
+            "id": "7438314e50d67245",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:Religion",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -95,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Theodizee.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Theodizee.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +165,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Theodizee.md"
+              }
             }
           },
           {
@@ -238,12 +261,13 @@
       "3d-graph-new:Global 3D Graph": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "obsidian-jump-to-date-plugin:Jump-to-Date": false
+      "canvas:Create new canvas": false
     }
   },
-  "active": "4f36b123beadf4d5",
+  "active": "7438314e50d67245",
   "lastOpenFiles": [
+    "Religion/Klasse 11/2023-03-13 Religion M3 _Funktionen von Religionen nach Stoodt_.md",
+    "Religion/Klasse 11/BlankMap.md",
     "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Theodizee.md",
     "Oct.01.2024 Geschichte; Weimarer Verfassung.md",
     "Mathe/Klasse 13/Klasse 13.2/Stochastik/Hypothesentests/2024.09.18 Mathe;.md",
