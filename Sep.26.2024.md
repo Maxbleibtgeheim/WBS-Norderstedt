@@ -14,4 +14,6 @@ Der Mann und seine Freundin unterhalten sich und lachten.
 Während sie sich unterhalten dachte der Mann darüber nach wie gut er es hat sie, als seine Freundin zu haben.
 Während dessen denkt, seine Freundin darüber nach wie er sie immer zum Lachen bringt.
 Verspätet kommt auch die ehemalige Partnerin des Mannes zu der Gartenparty dazu.
+Nachdem sie sich getrennt hattenr wenig kontakt, weshalb er ihr auch nie seine neue Freundin vorgestellt hatte.
+Der Mann hatte
 
