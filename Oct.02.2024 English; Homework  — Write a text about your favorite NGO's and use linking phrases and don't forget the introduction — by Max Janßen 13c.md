@@ -1,3 +1,6 @@
+
+---
+
 Dearest readers of the now following text, where I'm talking about my favourite non-governmental organization or abbreviated NGO, I welcome you to my presentation of the Wildlife Fund.
 
 First and foremost, I wish to declare the difference between a non-governmental organization (NGO) and a non-profit organization (NPO).
@@ -11,3 +14,8 @@ Now that we’ve gotten this behind us, I would like to introduce to you the Wil
 The Wildlife Fund is active on approximately 85.714,285,714,285,71% of the world’s continents with 10^{6}. They work together with local communities like cities and counties, of which they work together with 350.
 
 The reason I cared to present the Wildlife Fund as my NGO is due to me believing their mission to be admirable. I am of the sense that it is quite essential for us all to help and preserve the world’s diversity in nature. I am convinced that it is the responsibility of everyone of us to do our part to keep this earth a world of diversity.
+
+Yours faithfully
+Max Janßen 13c
+
+---
