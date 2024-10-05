@@ -27,7 +27,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oct.02.2024 English; Homework  — Write a text about your favorite NGO's and use linking phrases and don't forget the introduction — by Max Janßen 13c.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oct.02.2024 English; Homework  — Write a text about your favorite NGO's and use linking phrases and don't forget the introduction — by Max Janßen 13c.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,9 +159,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Oct.02.2024 English; Homework  — Write a text about your favorite NGO's and use linking phrases and don't forget the introduction — by Max Janßen 13c.md"
-              }
+              "state": {}
             }
           },
           {
@@ -206,14 +203,6 @@
             }
           },
           {
-            "id": "25905addd240d9b2",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {}
-            }
-          },
-          {
             "id": "bf767c85d4c05397",
             "type": "leaf",
             "state": {
@@ -226,13 +215,19 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Oct.02.2024 English; Homework  — Write a text about your favorite NGO's and use linking phrases and don't forget the introduction — by Max Janßen 13c.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "0f102a23f1372d22",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 12
       }
     ],
     "direction": "horizontal",
@@ -266,13 +261,14 @@
       "3d-graph-new:Global 3D Graph": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false
+      "canvas:Create new canvas": false,
+      "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "a990c88621946aa1",
+  "active": "4aa5a0580dbf3119",
   "lastOpenFiles": [
-    "Sep.26.2024 Deutsch; Die Freundin meines Freundes.md",
     "Oct.02.2024 English; Homework  — Write a text about your favorite NGO's and use linking phrases and don't forget the introduction — by Max Janßen 13c.md",
+    "Sep.26.2024 Deutsch; Die Freundin meines Freundes.md",
     "Oct.02.2024.md",
     "Religion/Klasse 11/2023-03-13 Religion M3 _Funktionen von Religionen nach Stoodt_.md",
     "Religion/Klasse 13/Klasse 13.1/Das Leid ist der Fels des Atheismus/04.09.2024 Religion; Theodizee.md",
