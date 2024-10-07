@@ -1,5 +1,7 @@
 Sowohl der Julidochromis ornatus aus dem Tanganjika-See als auch der Melanochromis auratus leben in einer felsigen uferzone. Auch in ihrem nährverhalten sind gemeinsamkeiten zu erkennen, konsomieren beide arten Algen so wie wirbelose kleintiere an steinen. Unterscheiden tun sich die Fische jedoch in ihrer äußerlichen gesstalltung so ist der Julidochromis ornatus lediglich 0,08 m groß und besitzt eine Gelbe färbung, während der Melanochromis auratus eine Türkisgöldige Färbung und eine Größe von 0,11 m bei dem Mänchen und eien größe von 0,09 m bei den Weibchen aufzuweisen vermarg. Auffälig ist des weitern, dass Buntbarsche im Tanganjika-See keinen geschlechtsdimorphismus aufweisen, volglich wessen es keine größen unterschied zwischen Mänchen und weibchen bei Julidochromis ornatus auftreten. Deren beider verhalten Unterschiedet sich dahingehend, dass die Weibchen des Julidochromis ornatus ein Unterwüfiges verhalten gegenüber den Agressieven Mänchen zeigen während indessen die Melanochromis auratus  unbeachtend dessen Geschlechtes Agressiv sind.
 
+Tropheus brichardi und Pseudotropheus microstoma unterscheiden sich in größen, wobei die Tropheus brichardi die größere Art darstellt mit einer größe von 0,12 m bis 0,16 m während die Pseudotropheus microstoma nur eine größe von nicht mehr als 0,11 m aufweisen. Beide Arten Erneähren sich hingegend von an Felsen wachsende Algen und leben Felsküsten.
+
 
 
 
