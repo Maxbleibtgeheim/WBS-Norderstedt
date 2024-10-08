@@ -12,7 +12,6 @@ wir kamen um 17:46 an und sind in ein restaurang essen gegangen.
 
 
 Am samstagmorgen sind wir aufgestanden und sind spazieren gegangen.
-
 Luise hatte die ide in einem cafe zu früstücken.
 - was haben wir gegessen $\text{hier einfügen: }$ $\textbf{Video / audio wir sind in einem Restaurant}$
 danach wollten wir Einkaufen / shopen gehen jedoch haben wir uns verlaufen.
