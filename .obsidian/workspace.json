@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3761bd90f658151c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oct.07.2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +126,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oct.07.2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,9 +159,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Oct.07.2024.md"
-              }
+              "state": {}
             }
           },
           {
@@ -210,9 +215,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Oct.07.2024.md"
-              }
+              "state": {}
             }
           },
           {
@@ -258,13 +261,14 @@
       "3d-graph-new:Global 3D Graph": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false
+      "canvas:Create new canvas": false,
+      "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "a990c88621946aa1",
+  "active": "3761bd90f658151c",
   "lastOpenFiles": [
-    "Oct.02.2024 English; Homework  — Write a text about your favorite NGO's and use linking phrases and don't forget the introduction — by Max Janßen 13c.md",
     "Oct.07.2024.md",
+    "Oct.02.2024 English; Homework  — Write a text about your favorite NGO's and use linking phrases and don't forget the introduction — by Max Janßen 13c.md",
     "().md",
     "Sep.30.2024 Biologie; Feststellung enger Verwandschaften zweier Arten.md",
     "Sep.20.2024 Biologie; 3 homologiekriterien.md",
