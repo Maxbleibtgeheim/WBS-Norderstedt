@@ -1,3 +1,10 @@
+---
+tags:
+  - Französisch
+  - Lektion_10
+  - Klasse_13
+  - Klasse_13_1
+---
 ## Le week-end denier à la mer
 #### Deutsch
 > Am letzen wochen ende sind Luise und ich mit der Ban ans mehr auf sylt gefahren. 
