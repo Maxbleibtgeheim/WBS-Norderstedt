@@ -1,10 +1,16 @@
 ## Le week-end denier à la mer
-Le week-end dernier, nous, Luise et Max, sommes allés à la plage.
-Samedi matin, on s'est levés et on est allés se promener.
+Am letzen wochen ende sind Luise und ich mit der Ban ans mehr auf sylt gefahren. Freitag, haben wir uns am hamburger haubtbarnhof getroffen und uns fahrkarten gekauft.
+
+
+
+
+
+
+
 
 
 Luise hatte die ide in einem cafe zu früstücken.
-- was haben wir gegessen $\text{hier einfügen:}\bg{\text{Video / audio wir sind in einem Restaurant}}$
+- was haben wir gegessen $\text{hier einfügen:}\textbf{\text{Video / audio wir sind in einem Restaurant}}$
 danach wollten wir Einkaufen / shopen gehen jedoch haben wir uns verlaufen.
 Wir haben eine ältere dame nach dem weg gefragt
 wir hatten angst / befürchtet uns nicht verstehen zu können.
@@ -14,6 +20,10 @@ wir hatten angst / befürchtet uns nicht verstehen zu können.
  auf dem rückweg sind wir an einem imbiss sthen geblieben und haben etwas gegessen
 
 
+
+
+Le week-end dernier, nous, Luise et Max, sommes allés à la plage.
+Samedi matin, on s'est levés et on est allés se promener.
 
 Nous avons mangé dans un restaurant à la plage.
 
