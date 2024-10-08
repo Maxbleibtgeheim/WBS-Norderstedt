@@ -1,5 +1,5 @@
 ## Le week-end denier à la mer
-Le week-end dernier, nous, Luise et Max, sommes allés à la plage.7
+Le week-end dernier, nous, Luise et Max, sommes allés à la plage.
 
 
 
