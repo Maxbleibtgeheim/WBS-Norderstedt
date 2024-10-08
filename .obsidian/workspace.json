@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oct.07.2024.md",
+                "file": "Oct.08.2024 Französisch; Le week-end denier à la mer.md",
                 "mode": "source",
                 "source": false
               }
@@ -27,8 +27,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Oct.08.2024 Französisch; Le week-end denier à la mer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Oct.08.2024 Französisch; Le week-end denier à la mer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +160,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Oct.08.2024 Französisch; Le week-end denier à la mer.md"
+              }
             }
           },
           {
@@ -215,7 +218,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Oct.08.2024 Französisch; Le week-end denier à la mer.md"
+              }
             }
           },
           {
@@ -265,9 +270,10 @@
       "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "3761bd90f658151c",
+  "active": "a990c88621946aa1",
   "lastOpenFiles": [
     "Oct.07.2024.md",
+    "Oct.08.2024 Französisch; Le week-end denier à la mer.md",
     "Oct.02.2024 English; Homework  — Write a text about your favorite NGO's and use linking phrases and don't forget the introduction — by Max Janßen 13c.md",
     "().md",
     "Sep.30.2024 Biologie; Feststellung enger Verwandschaften zweier Arten.md",
@@ -293,7 +299,6 @@
     "16.05.2024; Religion.md",
     "17.09.2024 Französisch.md",
     "2023-05-23 Religions Podcast; E-Mail an Frau Lescow.md",
-    "2024.09.18 reli.md",
     "_Sonstige_/Diagramme/XML/Divergente Entwicklung.drawio",
     "Ketcher/Ketcher 9-26-2024 08.50.42.ket",
     "Ketcher/Ketcher 9-26-2024 08.25.49.ket",
