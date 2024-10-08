@@ -1,27 +1,23 @@
 ## Le week-end denier à la mer
-Am letzen wochen ende sind Luise und ich mit der Ban ans mehr auf sylt gefahren. 
-Freitag, haben wir uns am hamburger haubtbarnhof getroffen und uns fahrkarten gekauft.
-mit der ban sind wir dreitage (stunden) nach sylt gefaahren.
-wir kamen um 17:46 an und sind in ein restaurang essen gegangen.
-
-
-
-
-
-
-
-
-Am samstagmorgen sind wir aufgestanden und sind spazieren gegangen.
-Luise hatte die ide in einem cafe zu früstücken.
-- was haben wir gegessen $\text{hier einfügen: }$ $\textbf{Video / audio wir sind in einem Restaurant}$
-danach wollten wir Einkaufen / shopen gehen jedoch haben wir uns verlaufen.
-Wir haben eine ältere dame nach dem weg gefragt
-wir hatten angst / befürchtet uns nicht verstehen zu können.
- wir sind jedoch zurecht gekommen, sie sprach englisch / deutsch.
- und wir haben uns wieder beruhigt
- wir sind mit dem bus zu einem laden gefahren und haben eingekauft.
- auf dem rückweg sind wir an einem imbiss sthen geblieben und haben etwas gegessen
-
+#### Deutsch
+> Am letzen wochen ende sind Luise und ich mit der Ban ans mehr auf sylt gefahren. 
+> Freitag, haben wir uns am hamburger haubtbarnhof getroffen und uns fahrkarten gekauft.
+> mit der ban sind wir dreitage (stunden) nach sylt gefaahren.
+> wir kamen um 17:46 an und sind in ein restaurang essen gegangen.
+> 
+> Am samstagmorgen sind wir aufgestanden und sind spazieren gegangen.
+> Luise hatte die ide in einem cafe zu früstücken.
+> - was haben wir gegessen $\text{hier einfügen: }$ $\textbf{Video / audio wir sind in einem Restaurant}$
+> danach wollten wir Einkaufen / shopen gehen jedoch haben wir uns verlaufen.
+> Wir haben eine ältere dame nach dem weg gefragt
+> wir hatten angst / befürchtet uns nicht verstehen zu können.
+>  wir sind jedoch zurecht gekommen, sie sprach englisch / deutsch.
+>  und wir haben uns wieder beruhigt
+>  wir sind mit dem bus zu einem laden gefahren und haben eingekauft.
+>  auf dem rückweg sind wir an einem imbiss sthen geblieben und haben etwas gegessen
+> 
+> Am Sontag haben wir uns zuhause früstüg gemach danach sind wir zu fuß an den strand gegangen und sind im mehr schwimmen gegangen.
+> 
 
 
 
