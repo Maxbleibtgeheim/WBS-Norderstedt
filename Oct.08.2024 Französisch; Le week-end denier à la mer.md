@@ -1,7 +1,8 @@
 ## Le week-end denier à la mer
 Am letzen wochen ende sind Luise und ich mit der Ban ans mehr auf sylt gefahren. 
 Freitag, haben wir uns am hamburger haubtbarnhof getroffen und uns fahrkarten gekauft.
-mit der ban sind wir dreitage (stunden) nach sylt
+mit der ban sind wir dreitage (stunden) nach sylt gefaahren.
+wir kamen um 17:46 an und sind in ein restaurang essen gegangen.
 
 
 
@@ -10,6 +11,7 @@ mit der ban sind wir dreitage (stunden) nach sylt
 
 
 
+Am samstagmorgen sind wir aufgestanden und sind spazieren gegangen.
 
 Luise hatte die ide in einem cafe zu früstücken.
 - was haben wir gegessen $\text{hier einfügen: }$ $\textbf{Video / audio wir sind in einem Restaurant}$
