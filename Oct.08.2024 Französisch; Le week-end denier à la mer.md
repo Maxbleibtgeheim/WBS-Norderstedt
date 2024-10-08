@@ -24,6 +24,8 @@
 > Am Sontag haben wir uns früstüg gemach danach sind wir zu fuß an den strand gegangen und sind im mehr schwimmen gegangen.
 > nach dem schwimmen haben wir uns in der sonne gebräund. nachmittags sind wir dann wieder zurück gegangen und haben uns in unserem hotel ausgeruht.
 > 
+> abens sind wir dan mit der ban wieder nach hause gefahren.
+> Wir haten viel spas am mehr und ich freue mich bereits auf das nächste mal.
 
 
 
