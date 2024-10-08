@@ -1,5 +1,7 @@
 ## Le week-end denier à la mer
-Am letzen wochen ende sind Luise und ich mit der Ban ans mehr auf sylt gefahren. Freitag, haben wir uns am hamburger haubtbarnhof getroffen und uns fahrkarten gekauft.
+Am letzen wochen ende sind Luise und ich mit der Ban ans mehr auf sylt gefahren. 
+Freitag, haben wir uns am hamburger haubtbarnhof getroffen und uns fahrkarten gekauft.
+mit der ban sind wir dreitage (stunden) nach sylt
 
 
 
@@ -10,7 +12,7 @@ Am letzen wochen ende sind Luise und ich mit der Ban ans mehr auf sylt gefahren.
 
 
 Luise hatte die ide in einem cafe zu früstücken.
-- was haben wir gegessen $\text{hier einfügen:}\textbf{\text{Video / audio wir sind in einem Restaurant}}$
+- was haben wir gegessen $\text{hier einfügen: }$ $\textbf{Video / audio wir sind in einem Restaurant}$
 danach wollten wir Einkaufen / shopen gehen jedoch haben wir uns verlaufen.
 Wir haben eine ältere dame nach dem weg gefragt
 wir hatten angst / befürchtet uns nicht verstehen zu können.
