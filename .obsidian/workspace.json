@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geographie/Klasse 13/Klasse 13.1/China/Oct.09.2024 Geagraphie; China Aufstieg zum Industriestaat.md",
+                "file": "Oct.08.2024 Französisch; Le week-end denier à la mer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geographie/Klasse 13/Klasse 13.1/China/Oct.09.2024 Geagraphie; China Aufstieg zum Industriestaat.md",
+                "file": "Oct.08.2024 Französisch; Le week-end denier à la mer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geographie/Klasse 13/Klasse 13.1/China/Oct.09.2024 Geagraphie; China Aufstieg zum Industriestaat.md"
+                "file": "Oct.08.2024 Französisch; Le week-end denier à la mer.md"
               }
             }
           },
@@ -224,7 +224,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Geographie/Klasse 13/Klasse 13.1/China/Oct.09.2024 Geagraphie; China Aufstieg zum Industriestaat.md"
+                "file": "Oct.08.2024 Französisch; Le week-end denier à la mer.md"
               }
             }
           },
@@ -271,8 +271,7 @@
       "3d-graph-new:Global 3D Graph": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "obsidian-jump-to-date-plugin:Jump-to-Date": false
+      "canvas:Create new canvas": false
     }
   },
   "active": "4f36b123beadf4d5",
