@@ -30,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "061ea1d3e2e3b2a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Oct.02.2024 English; Homework  — Write a text about your favorite NGO's and use linking phrases and don't forget the introduction — by Max Janßen 13c.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -76,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "biolo",
+                "query": "wwf",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +98,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -113,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oct.08.2024 Französisch; Le week-end denier à la mer.md",
+                "file": "Oct.02.2024 English; Homework  — Write a text about your favorite NGO's and use linking phrases and don't forget the introduction — by Max Janßen 13c.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oct.08.2024 Französisch; Le week-end denier à la mer.md",
+                "file": "Oct.02.2024 English; Homework  — Write a text about your favorite NGO's and use linking phrases and don't forget the introduction — by Max Janßen 13c.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oct.08.2024 Französisch; Le week-end denier à la mer.md"
+                "file": "Oct.02.2024 English; Homework  — Write a text about your favorite NGO's and use linking phrases and don't forget the introduction — by Max Janßen 13c.md"
               }
             }
           },
@@ -223,7 +237,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Oct.08.2024 Französisch; Le week-end denier à la mer.md"
+                "file": "Oct.02.2024 English; Homework  — Write a text about your favorite NGO's and use linking phrases and don't forget the introduction — by Max Janßen 13c.md"
               }
             }
           },
@@ -274,10 +288,10 @@
       "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "a990c88621946aa1",
+  "active": "061ea1d3e2e3b2a3",
   "lastOpenFiles": [
-    "Geographie/Klasse 13/Klasse 13.1/China",
     "Oct.08.2024 Französisch; Le week-end denier à la mer.md",
+    "Geographie/Klasse 13/Klasse 13.1/China",
     "Geographie/Klasse 13/Klasse 13.1/China/Oct.09.2024 Geagraphie; China Aufstieg zum Industriestaat.md",
     "Oct.07.2024.md",
     "Oct.02.2024 English; Homework  — Write a text about your favorite NGO's and use linking phrases and don't forget the introduction — by Max Janßen 13c.md",
