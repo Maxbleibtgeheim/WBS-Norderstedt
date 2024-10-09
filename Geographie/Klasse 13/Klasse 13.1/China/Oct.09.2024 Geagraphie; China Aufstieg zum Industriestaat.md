@@ -51,46 +51,4 @@ $\boxed{\Rightarrow ~ \text{Transformationsprozess}}$
 
 Bodennutzung durch Landwirtschaft Zurückgeträngt, Umweltverschmutzung
 <b><u>Raumnutzungskonflikt</u></b>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**↪**
-**↯**
-**↳**
-
-
-
-
-
-
-$$
-	\begin{align}
-	- 1949: Mao Gleichheit in der Gesellschaft → Gleichstellung der Geschlechter \\
-	- 1950: Ehegesetze, keine Zwangsheirat \\
-	- Ende 1950er: „konterrevolutionäre“ verfolgt und getötet \\
-	- 1958 – 1962: „Große Sprung nach vorne“ Fokus auf Stahl / Kohle \\
-		→ „ein Hochofen für jedes Dorf“ \\
-			↳ Hungersnot wegen Vernachlässigung des primären Sektors \\
-			↳ minderwertige Stahlqualität \\
-		→ Absatz **↯** \\
-		→ Armut \\
-	- Zwangsverwaltungswirtschaft \\
-	- 1976 Mao **♰**
-	\end{align}
-	\textbraceright
-$$
+****
