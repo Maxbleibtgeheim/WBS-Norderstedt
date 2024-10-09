@@ -29,7 +29,7 @@ Erbe der Vergangenheit
 - Bevölkerungswachstum 
     ↳Geburtenkontrolle 
     ↳ Ernährungssicherstellungen 
-    Landwirtschaft 
+		→Landwirtschaft
       
     - Bereitstellung von Arbeitsplätzen 
         
