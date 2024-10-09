@@ -7,7 +7,8 @@ tags:
 
 ---
 
-Dearest readers of the now following text, where I'm talking about my favourite non-governmental organization or abbreviated NGO, I welcome you to my presentation of the Wildlife Fund.
+Dearest readers of the now following text, where I'm talking about my favourite non-governmental organization or abbreviated to NGO, 
+I welcome you to my presentation of the Wildlife Fund.
 
 First and foremost, I wish to declare the difference between a non-governmental organization (NGO) and a non-profit organization (NPO).
 
