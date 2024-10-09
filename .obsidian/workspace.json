@@ -27,7 +27,7 @@
               "state": {
                 "file": "Oct.09.2024 China Aufstieg zum Industriestaat.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -271,7 +271,8 @@
       "3d-graph-new:Global 3D Graph": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false
+      "canvas:Create new canvas": false,
+      "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
   "active": "3761bd90f658151c",

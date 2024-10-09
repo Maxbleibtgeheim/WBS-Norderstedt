@@ -28,11 +28,9 @@ Erbe der Vergangenheit
 
 - Bevölkerungswachstum 
     ↳Geburtenkontrolle 
-    
-    - Ernährungssicherstellungen 
-        
-        - Landwirtschaft 
-            
+    ↳ Ernährungssicherstellungen 
+    Landwirtschaft 
+      
     - Bereitstellung von Arbeitsplätzen 
         
     - Leistungsgesellschaft 
@@ -41,6 +39,30 @@ Erbe der Vergangenheit
     - Altersvorsorge = Kinder 
         
 - Transformationsprozess
+
+
+
+
+## <u>Transformationsprozess</u>
+- öffnung des Landes nach außen
+- Arbeitsplätze
+- Bevorzugung der Küstenstädte im Osten (siehe naturräumliche Potential)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
