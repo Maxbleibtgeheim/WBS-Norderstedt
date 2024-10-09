@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wwf",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ec829f23c3b3c697",
@@ -288,7 +289,7 @@
       "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "061ea1d3e2e3b2a3",
+  "active": "7438314e50d67245",
   "lastOpenFiles": [
     "Oct.08.2024 Französisch; Le week-end denier à la mer.md",
     "Geographie/Klasse 13/Klasse 13.1/China",
