@@ -5,6 +5,8 @@ tags:
   - Klasse_13
   - Klasse_13_1
 ---
+****
+## China Aufstieg zum Industriestaat
 - 1949: Mao Gleichheit in der Gesellschaft → Gleichstellung der Geschlechter
 - 1950: Ehegesetze, keine Zwangsheirat
 - Ende 1950er: „konterrevolutionäre“ verfolgt und getötet
@@ -16,16 +18,16 @@ tags:
 	→ Armut
 - Zwangsverwaltungswirtschaft
 - 1976 Mao **♰**
-
-**⇓**
+****
+# **⇓**
 
 Erbe der Vergangenheit
 ⇒ 1978: Reformbedarf “Entwicklungsland”
 - 1979: Ein-Kind-Politik
-- Zweigeteiltes China: Küstenregion / Landländliche Gebiete
+- ⇒Zweigeteiltes China: Küstenregion / Landländliche Gebiete
 - Bevorzugung der Schwerindustrie
 - SWZ: Sonderwirtschaftszonen
-
+****
 - Bevölkerungswachstum 
     ↳ Geburtenkontrolle
     ↳ Ernährungssicherstellungen 
@@ -33,12 +35,10 @@ Erbe der Vergangenheit
 	↳ Arbeitsplätze Schaffen
 ⇒Leistungsgesellschaft
 → Altersvorsorge = Kinder
-- Transformationsprozess
+$\boxed{\Rightarrow ~ \text{Transformationsprozess}}$
 - 2016: Abschaffung der Ein-Kind-Politik
 → Zwei-Kind-Politik
-
-
-
+****
 ## <u>Transformationsprozess</u>
 - öffnung des Landes nach außen
 - Arbeitsplätze
@@ -50,7 +50,7 @@ Erbe der Vergangenheit
 ↓
 
 Bodennutzung durch Landwirtschaft Zurückgeträngt, Umweltverschmutzung
-<u>Raumnutzungskonflikt</u>
+<b><u>Raumnutzungskonflikt</u></b>
 
 
 
