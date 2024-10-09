@@ -27,19 +27,15 @@ Erbe der Vergangenheit
 - SWZ: Sonderwirtschaftszonen
 
 - Bevölkerungswachstum 
-    ↳Geburtenkontrolle 
+    ↳ Geburtenkontrolle
     ↳ Ernährungssicherstellungen 
 		→Landwirtschaft
-      
-    - Bereitstellung von Arbeitsplätzen 
-        
-    - Leistungsgesellschaft 
-        
-    - 
-    - Altersvorsorge = Kinder 
-        
+	↳ Arbeitsplätze Schaffen
+⇒Leistungsgesellschaft
+→ Altersvorsorge = Kinder
 - Transformationsprozess
-
+- 2016: Abschaffung der Ein-Kind-Politik
+→ Zwei-Kind-Politik
 
 
 
