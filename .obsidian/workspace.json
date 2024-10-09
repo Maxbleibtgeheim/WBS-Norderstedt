@@ -23,11 +23,16 @@
             "id": "3761bd90f658151c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Oct.09.2024.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oct.08.2024 Französisch; Le week-end denier à la mer.md",
+                "file": "Oct.09.2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oct.08.2024 Französisch; Le week-end denier à la mer.md",
+                "file": "Oct.09.2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oct.08.2024 Französisch; Le week-end denier à la mer.md"
+                "file": "Oct.09.2024.md"
               }
             }
           },
@@ -219,7 +224,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Oct.08.2024 Französisch; Le week-end denier à la mer.md"
+                "file": "Oct.09.2024.md"
               }
             }
           },
@@ -266,13 +271,15 @@
       "3d-graph-new:Global 3D Graph": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false
+      "canvas:Create new canvas": false,
+      "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "a990c88621946aa1",
+  "active": "3761bd90f658151c",
   "lastOpenFiles": [
-    "Oct.07.2024.md",
+    "Oct.09.2024.md",
     "Oct.08.2024 Französisch; Le week-end denier à la mer.md",
+    "Oct.07.2024.md",
     "Oct.02.2024 English; Homework  — Write a text about your favorite NGO's and use linking phrases and don't forget the introduction — by Max Janßen 13c.md",
     "().md",
     "Sep.30.2024 Biologie; Feststellung enger Verwandschaften zweier Arten.md",
@@ -297,7 +304,6 @@
     "Französisch/Klasse 13/Klasse 13.2/Sep.19.2024 französisch;.md",
     "16.05.2024; Religion.md",
     "17.09.2024 Französisch.md",
-    "2023-05-23 Religions Podcast; E-Mail an Frau Lescow.md",
     "_Sonstige_/Diagramme/XML/Divergente Entwicklung.drawio",
     "Ketcher/Ketcher 9-26-2024 08.50.42.ket",
     "Ketcher/Ketcher 9-26-2024 08.25.49.ket",
