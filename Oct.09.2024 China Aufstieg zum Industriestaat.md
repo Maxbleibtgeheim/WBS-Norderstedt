@@ -1,3 +1,10 @@
+---
+tags:
+  - Geographie
+  - China
+  - Klasse_13
+  - Klasse_13_1
+---
 - 1949: Mao Gleichheit in der Gesellschaft → Gleichstellung der Geschlechter
 - 1950: Ehegesetze, keine Zwangsheirat
 - Ende 1950er: „konterrevolutionäre“ verfolgt und getötet
