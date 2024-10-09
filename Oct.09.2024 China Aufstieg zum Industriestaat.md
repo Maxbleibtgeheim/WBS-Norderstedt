@@ -3,4 +3,5 @@
 - Ende 1950er: “konterrevolutionäre” verfolgt und getötet
 - 1958 – 1962: “Große Sprung nach vorne” Fokus auf Stahl / Kohle
   → “ein Hochofen für jedes Dorf”
-- 
+  → Hungersnot wegen Vernachlässigung des Primären Sektors
+  → minderwertige Stahlqualität
