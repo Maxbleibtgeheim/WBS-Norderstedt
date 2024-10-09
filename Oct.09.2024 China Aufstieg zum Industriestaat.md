@@ -19,10 +19,35 @@ Erbe der Vergangenheit
 - Bevorzugung der Schwerindustrie
 - SWZ: Sonderwirtschaftszonen
 
+- Bevölkerungswachstum 
+    ↳Geburtenkontrolle 
+    
+    - Ernährungssicherstellungen 
+        
+        - Landwirtschaft 
+            
+    - Bereitstellung von Arbeitsplätzen 
+        
+    - Leistungsgesellschaft 
+        
+    - 
+    - Altersvorsorge = Kinder 
+        
+- Transformationsprozess
+
+
+
+
+
 
 **↪**
 **↯**
 **↳**
+
+
+
+
+
 
 $$
 	\begin{align}
