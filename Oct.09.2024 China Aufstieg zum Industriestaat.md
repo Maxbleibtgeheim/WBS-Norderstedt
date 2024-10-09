@@ -47,10 +47,14 @@ Erbe der Vergangenheit
 - öffnung des Landes nach außen
 - Arbeitsplätze
 - Bevorzugung der Küstenstädte im Osten (siehe naturräumliche Potential)
+- Politik
+- SWZ: Sonderwirtschaftszonen → investoren
+- 2001: WTO-Beitritt
 
+↓
 
-
-
+Bodennutzung durch Landwirtschaft Zurückgeträngt, Umweltverschmutzung
+<u>Raumnutzungskonflikt</u>
 
 
 
