@@ -30,8 +30,18 @@ $$
 
 ### Rechnung
 $$
-\begin{align}
+\begin{array}
 	\vec{M_{1}M_{2}}&=
-	\begin 
-\end{align}
+      &\begin{pmatrix}
+        7-1\\
+        13-7\\
+        1-(-2)
+      \end{pmatrix}
+    &=
+      &\begin{pmatrix}
+        6\\
+        6\\
+        3
+      \end{pmatrix}
+\end{array}
 $$
