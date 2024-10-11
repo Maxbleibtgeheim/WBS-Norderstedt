@@ -46,4 +46,4 @@ $$
 	\vec{t}&=\vec{OM_{1}}+\lambda\cdot\frac{\vec{M_{1}M_{2}}}{\abs{\vec{M_{1}M_{2}}}}
 \end{array}
 $$
-Da der Radius
+Da der Radius $R_{1}=6$ ist, bedeutet dies einen abstand von $d=6$ zu der anderen Kugel.
