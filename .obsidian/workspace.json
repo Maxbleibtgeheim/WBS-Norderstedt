@@ -39,12 +39,20 @@
               "state": {
                 "file": "Oct.11.2024 Mathe; Buchseite 197.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
+            }
+          },
+          {
+            "id": "a65288f4a97ff559",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -128,7 +136,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oct.11.2024 Mathe; Buchseite 197.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +152,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oct.11.2024 Mathe; Buchseite 197.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,9 +185,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Oct.11.2024 Mathe; Buchseite 197.md"
-              }
+              "state": {}
             }
           },
           {
@@ -237,9 +241,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Oct.11.2024 Mathe; Buchseite 197.md"
-              }
+              "state": {}
             }
           },
           {
@@ -289,10 +291,10 @@
       "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "061ea1d3e2e3b2a3",
+  "active": "a65288f4a97ff559",
   "lastOpenFiles": [
-    "Oct.08.2024 Französisch; Le week-end denier à la mer.md",
     "Oct.11.2024 Mathe; Buchseite 197.md",
+    "Oct.08.2024 Französisch; Le week-end denier à la mer.md",
     "Geographie/Klasse 13/Klasse 13.1/China",
     "Geographie/Klasse 13/Klasse 13.1/China/Oct.09.2024 Geagraphie; China Aufstieg zum Industriestaat.md",
     "Oct.07.2024.md",

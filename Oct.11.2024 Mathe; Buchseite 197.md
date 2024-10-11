@@ -43,10 +43,10 @@ $$
 			6\\
 			3
 		\end{pmatrix}\\
-	\overrightarrow{t}&=\overrightarrow{OM_{1}}+\lambda\cdot\frac{\overrightarrow{M_{1}M_{2}}}{\abs{\overrightarrow{M_{1}M_{2}}}}
+	&&\overrightarrow{t}&=\overrightarrow{OM_{1}}+\lambda\cdot\frac{\overrightarrow{M_{1}M_{2}}}{\left|\overrightarrow{M_{1}M_{2}}\right|}
 \end{array}
 $$
-Da der Radius $R_{1}=6$ ist, bedeutet dies einen abstand von $d=6$ zu der anderen Kugel.
+Da der Radius $R_{1}=6$ ist, bedeutet dies einen Abstand von $d=6$ zu der anderen Kugel.
 $$
 \begin{array}
 	\overrightarrow{t}&=
@@ -65,13 +65,13 @@ $$
 				\end{pmatrix}
 			}
 			{
-				\abs{
+				\left|
 					\begin{pmatrix}
 						6\\
 						6\\
 						3\\
 				\end{pmatrix}
-				}
+				\right|
 			}
 \end{array}
 $$
