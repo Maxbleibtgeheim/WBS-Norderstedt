@@ -43,5 +43,6 @@ $$
         6\\
         3
       \end{pmatrix}
+      &&\mid \vec{M_{1}M_{2}} \text{ sei } \vec{n}
 \end{array}
 $$
