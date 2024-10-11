@@ -31,18 +31,19 @@ $$
 ### Rechnung
 $$
 \begin{array}
-  \vec{M_{1}M_{2}}&=
-    &\begin{pmatrix}
-      7-1\\
-      13-7\\
-      1-(-2)
-      \end{pmatrix}
-  &=
-    &\begin{pmatrix}
-      6\\
-      6\\
-      3
-    \end{pmatrix}\\
-  z
+	\vec{M_{1}M_{2}}&=
+		&\begin{pmatrix}
+			7-1\\
+			13-7\\
+			1-(-2)
+		\end{pmatrix}
+	&=
+		&\begin{pmatrix}
+			6\\
+			6\\
+			3
+		\end{pmatrix}\\
+	\vec{t}&=\vec{OM_{1}}+\lambda\cdot\frac{\vec{M_{1}M_{2}}}{\abs{\vec{M_{1}M_{2}}}}
 \end{array}
 $$
+Da der Radius
