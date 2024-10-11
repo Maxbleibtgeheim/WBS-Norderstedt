@@ -31,7 +31,7 @@ $$
 ### Rechnung
 $$
 \begin{array}
-	\vec{M_{1}M_{2}}&=
+	\overrightarrow{M_{1}M_{2}}&=
 		&\begin{pmatrix}
 			7-1\\
 			13-7\\
@@ -43,13 +43,13 @@ $$
 			6\\
 			3
 		\end{pmatrix}\\
-	\vec{t}&=\vec{OM_{1}}+\lambda\cdot\frac{\vec{M_{1}M_{2}}}{\abs{\vec{M_{1}M_{2}}}}
+	\overrightarrow{t}&=\overrightarrow{OM_{1}}+\lambda\cdot\frac{\overrightarrow{M_{1}M_{2}}}{\abs{\overrightarrow{M_{1}M_{2}}}}
 \end{array}
 $$
 Da der Radius $R_{1}=6$ ist, bedeutet dies einen abstand von $d=6$ zu der anderen Kugel.
 $$
 \begin{array}
-	\vec{t}&=
+	\overrightarrow{t}&=
 			\begin{pmatrix}
 				6\\
 				6\\
