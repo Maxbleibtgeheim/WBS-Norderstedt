@@ -13,7 +13,7 @@ tags:
 ### Aufgabe 4:
 > Die Kugel $K_{1}:\begin{pmatrix}1\\7\\-2\end{pmatrix}^{2} =36$ und $K_{2}:\begin{pmatrix}7\\13\\1\end{pmatrix}^{2}=9$ berühren sich. Bestimmen Sie eine Gleichung der gemeinsamen Tangentialebene.
 
-### Definition:
+### Difinierung der Variablen:
 $$
 \begin{align}
 	M_{1}&=(1|7|-2)\\
@@ -25,3 +25,13 @@ $$
 $$
 
 
+### Skizze:
+![[TO BE ADDED]]
+
+### Rechnung
+$$
+\begin{align}
+	\vec{M_{1}M_{2}}&=
+	\begin 
+\end{align}
+$$
