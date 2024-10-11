@@ -47,3 +47,21 @@ $$
 \end{array}
 $$
 Da der Radius $R_{1}=6$ ist, bedeutet dies einen abstand von $d=6$ zu der anderen Kugel.
+$$
+\begin{array}
+	\vec{t}&=
+			\begin{pmatrix}
+				6\\
+				6\\
+				3
+			\end{pmatrix}
+		+\lambda\cdot
+			\frac
+			{
+			\begin{pmatrix}
+				6\\
+				6\\
+				3\\
+			\end{pmatrix}\vec{M_{1}M_{2}}}{\abs{\vec{M_{1}M_{2}}}}
+\end{array}
+$$
