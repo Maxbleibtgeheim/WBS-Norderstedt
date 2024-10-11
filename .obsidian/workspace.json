@@ -47,8 +47,12 @@
             "id": "a65288f4a97ff559",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Seite 197 Nr. 4).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -106,13 +110,11 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ec829f23c3b3c697",
@@ -136,6 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Seite 197 Nr. 4).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,6 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Seite 197 Nr. 4).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +189,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Seite 197 Nr. 4).md"
+              }
             }
           },
           {
@@ -241,7 +247,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Seite 197 Nr. 4).md"
+              }
             }
           },
           {
@@ -294,6 +302,7 @@
   "active": "a65288f4a97ff559",
   "lastOpenFiles": [
     "Oct.11.2024 Mathe; Buchseite 197.md",
+    "Seite 197 Nr. 4).md",
     "Oct.08.2024 Französisch; Le week-end denier à la mer.md",
     "Geographie/Klasse 13/Klasse 13.1/China",
     "Geographie/Klasse 13/Klasse 13.1/China/Oct.09.2024 Geagraphie; China Aufstieg zum Industriestaat.md",
@@ -320,7 +329,6 @@
     "Französisch/Klasse 13/Klasse 13.2/Sep.19.2024 Französisch; Livre une page 111.md",
     "Französisch/Klasse 13/Klasse 13.2/17.09.2024 Französisch; Résumé — Eine zusammenfassung eines Textes.md",
     "Französisch/Klasse 13/Klasse 13.2/Sep.19.2024 französisch;.md",
-    "16.05.2024; Religion.md",
     "_Sonstige_/Diagramme/XML/Divergente Entwicklung.drawio",
     "Ketcher/Ketcher 9-26-2024 08.50.42.ket",
     "Ketcher/Ketcher 9-26-2024 08.25.49.ket",

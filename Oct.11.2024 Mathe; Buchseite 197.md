@@ -26,7 +26,7 @@ $$
 
 
 ### Skizze:
-![[TO BE ADDED]]
+![[TO BE ADDED; kreise4.png]]
 
 ### Rechnung
 $$
