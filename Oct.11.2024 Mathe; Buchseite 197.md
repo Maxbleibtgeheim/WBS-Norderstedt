@@ -58,10 +58,20 @@ $$
 		+\lambda\cdot
 			\frac
 			{
-			\begin{pmatrix}
-				6\\
-				6\\
-				3\\
-			\end{pmatrix}\vec{M_{1}M_{2}}}{\abs{\vec{M_{1}M_{2}}}}
+				\begin{pmatrix}
+					6\\
+					6\\
+					3\\
+				\end{pmatrix}
+			}
+			{
+				\abs{
+					\begin{pmatrix}
+						6\\
+						6\\
+						3\\
+				\end{pmatrix}
+				}
+			}
 \end{array}
 $$
