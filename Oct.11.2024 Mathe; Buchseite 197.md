@@ -75,3 +75,22 @@ $$
 			}
 \end{array}
 $$
+
+$$
+\begin{align}
+	g:\vec{x}&=\overrightarrow{OM_1}+\frac{\lambda}{\left|\overrightarrow{M_1M_2}\right|}\cdot\overrightarrow{M_1M_2}\\
+	\overrightarrow{OS}&=
+		\begin{pmatrix}1\\7\\-2\end{pmatrix}+
+		\frac{6}{\left|\begin{pmatrix}7-1\\13-7\\1+2\end{pmatrix}\right|}\cdot
+		\begin{pmatrix}7-1\\13-7\\1+2\end{pmatrix}\\
+	&=\begin{pmatrix}1\\7\\-2\end{pmatrix}+
+		\frac{6}{\left|\begin{pmatrix}6\\6\\3\end{pmatrix}\right|}\cdot
+		\begin{pmatrix}6\\6\\3\end{pmatrix}\\
+	&=\begin{pmatrix}1\\7\\-2\end{pmatrix}+
+		\frac{6}{\sqrt{6^2+6^2+3^2}}\cdot
+		\begin{pmatrix}6\\6\\3\end{pmatrix}\\
+	&=\begin{pmatrix}1\\7\\-2\end{pmatrix}+
+		\begin{pmatrix}4\\4\\2\end{pmatrix}\\
+	\overrightarrow{OS}&=\begin{pmatrix}5\\11\\0\end{pmatrix}
+\end{align}
+$$
