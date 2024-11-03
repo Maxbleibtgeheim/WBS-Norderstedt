@@ -16,7 +16,9 @@
                 "file": "Oct.08.2024 Französisch; Le week-end denier à la mer.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Oct.08.2024 Französisch; Le week-end denier à la mer"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "Geographie/Klasse 13/Klasse 13.1/China/Oct.09.2024 Geagraphie; China Aufstieg zum Industriestaat.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Oct.09.2024 Geagraphie; China Aufstieg zum Industriestaat"
             }
           },
           {
@@ -40,7 +44,9 @@
                 "file": "Oct.11.2024 Mathe; Buchseite 197.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Oct.11.2024 Mathe; Buchseite 197"
             }
           },
           {
@@ -52,7 +58,9 @@
                 "file": "Seite 197 Nr. 4).md",
                 "mode": "preview",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Seite 197 Nr. 4)"
             }
           }
         ],
@@ -76,7 +84,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -84,7 +94,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
@@ -92,7 +104,9 @@
             "type": "leaf",
             "state": {
               "type": "recent-files",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -107,7 +121,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           }
         ]
@@ -129,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -146,7 +164,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Seite 197 Nr. 4)"
             }
           },
           {
@@ -158,7 +178,9 @@
                 "file": "Seite 197 Nr. 4).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Seite 197 Nr. 4)"
             }
           },
           {
@@ -169,7 +191,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -181,7 +205,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -191,7 +217,9 @@
               "type": "outline",
               "state": {
                 "file": "Seite 197 Nr. 4).md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Seite 197 Nr. 4)"
             }
           },
           {
@@ -199,7 +227,9 @@
             "type": "leaf",
             "state": {
               "type": "todo",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -207,15 +237,19 @@
             "type": "leaf",
             "state": {
               "type": "reminder-list",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
             "id": "eee20d56833ac772",
             "type": "leaf",
             "state": {
-              "type": "graph-analysis",
-              "state": {}
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -223,7 +257,9 @@
             "type": "leaf",
             "state": {
               "type": "FANTASY_CALENDAR",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -231,15 +267,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "bf767c85d4c05397",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -249,19 +279,73 @@
               "type": "file-properties",
               "state": {
                 "file": "Seite 197 Nr. 4).md"
-              }
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Seite 197 Nr. 4)"
             }
           },
           {
-            "id": "0f102a23f1372d22",
+            "id": "74d99c38c6f7ffba",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {},
+              "icon": "GA-ICON",
+              "title": "Graph Analysis"
+            }
+          },
+          {
+            "id": "f1b9336623e86e90",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          },
+          {
+            "id": "653a2673445c9f5d",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "clock",
+              "title": "Reminders"
+            }
+          },
+          {
+            "id": "346acd16ba1b541c",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
+          },
+          {
+            "id": "02621989c516a595",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
-              "state": {}
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "1b800731e988e366",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {},
+              "icon": "GA-ICON",
+              "title": "Graph Analysis"
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 17
       }
     ],
     "direction": "horizontal",
@@ -270,12 +354,15 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "3d-graph-new:Global 3D Graph": false,
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
-      "omnisearch:Omnisearch": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
+      "omnisearch:Omnisearch": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "handwritten-notes:Create empty handwritten note": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "excel:Create Excel File": false,
@@ -283,25 +370,22 @@
       "obsidian-full-calendar:Open Full Calendar": false,
       "time-ruler:Open Time Ruler": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-day-planner:Timeline": false,
       "homework-manager:Open homework": false,
       "obsidian-map-view:Open map view": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": true,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "media-extended:Open media": false,
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "obsidian-projects:Open projects": false,
       "fantasy-calendar:Open Large Fantasy Calendar": false,
       "ketcher:Create new structure": false,
-      "3d-graph-new:Global 3D Graph": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "a65288f4a97ff559",
+  "active": "1b800731e988e366",
   "lastOpenFiles": [
-    "Oct.11.2024 Mathe; Buchseite 197.md",
     "Seite 197 Nr. 4).md",
+    "Oct.11.2024 Mathe; Buchseite 197.md",
     "Oct.08.2024 Französisch; Le week-end denier à la mer.md",
     "Geographie/Klasse 13/Klasse 13.1/China",
     "Geographie/Klasse 13/Klasse 13.1/China/Oct.09.2024 Geagraphie; China Aufstieg zum Industriestaat.md",
