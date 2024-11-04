@@ -14,4 +14,4 @@
 2. Untersuchen Sie die Aussage “Republik ohne Republikaner” in Bezug auf die Weimarer Republik. (S. 258-259) 
 	1. Richter aus dem Kaiserreich waren nach der Bildung der Republik nicht von ihrem Amt entlassen. Zur Folge hatte dies, dass diese der neuen Staatsform nicht entgegen kommen wollten. Hierdurch behielten sie eine Ungerechte Justiz. Ebenfalls das Bildungsbürgertum (z.B. alte Eliten) wollte die Weimarer Republik nicht akzeptieren. Die Kriesenjahre ab 1929 führten dazu, dass Vernunftrepublikaner schlussendlich ebenfalls radikale linke und rechte Parteien wählen.
 3. Nehmen Sie Stellung zu der Aussage, die Weimarer Republik sei von Beginn an zum Scheitern verurteilt gewesen (zum Zeitpunkt 1923)
-	1. 
+	1. Die Weimarer Republik ist nur bedingter Weise seit Beginn an zum Sc
