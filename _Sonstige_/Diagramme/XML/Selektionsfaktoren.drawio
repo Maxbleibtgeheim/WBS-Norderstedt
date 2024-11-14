@@ -25,6 +25,18 @@
         <mxCell id="Ckr_f1OWKaerwH_Einks-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.442;entryY=0.08;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=default;autosize=1;resizable=0;" edge="1" parent="1" source="Ckr_f1OWKaerwH_Einks-4" target="Ckr_f1OWKaerwH_Einks-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Ckr_f1OWKaerwH_Einks-9" value="&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Lexend&quot; face=&quot;Lexend&quot;&gt;- Geschlechtliche Selektion&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="406" y="358" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ckr_f1OWKaerwH_Einks-11" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Lexend&quot; face=&quot;Lexend&quot; style=&quot;font-size: 16px;&quot;&gt;Sexuelle Selektion&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="441" y="438" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ckr_f1OWKaerwH_Einks-12" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Lexend&quot; face=&quot;Lexend&quot; style=&quot;font-size: 16px;&quot;&gt;Intersexuelle&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="301" y="528" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ckr_f1OWKaerwH_Einks-13" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Lexend&quot; face=&quot;Lexend&quot; style=&quot;font-size: 16px;&quot;&gt;intersexuelle&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="541" y="548" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
