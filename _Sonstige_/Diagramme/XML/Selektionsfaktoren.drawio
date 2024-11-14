@@ -1,9 +1,30 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.8.4">
   <diagram name="Seite-1" id="1VUyYolPEd8sXtGV_Gkh">
-    <mxGraphModel>
+    <mxGraphModel dx="1674" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Ckr_f1OWKaerwH_Einks-1" value="&lt;font style=&quot;font-size: 24px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Lexend&quot; face=&quot;Lexend&quot;&gt;Selektionsfaktoren&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="299" y="20" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ckr_f1OWKaerwH_Einks-3" value="&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Lexend&quot; face=&quot;Lexend&quot;&gt;abiotisch&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="66" y="118" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ckr_f1OWKaerwH_Einks-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ckr_f1OWKaerwH_Einks-4" target="Ckr_f1OWKaerwH_Einks-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ckr_f1OWKaerwH_Einks-4" value="&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Lexend&quot; face=&quot;Lexend&quot;&gt;biotisch&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="561" y="128" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ckr_f1OWKaerwH_Einks-5" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Lexend&quot; face=&quot;Lexend&quot;&gt;Zwischenartliche&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Lexend&quot; face=&quot;Lexend&quot;&gt;Serlektion&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="411" y="180" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ckr_f1OWKaerwH_Einks-7" value="&lt;div&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Lexend&quot; face=&quot;Lexend&quot; style=&quot;font-size: 16px;&quot;&gt;Innerartliche&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;5KuqBejU01gJM0YpHPSN&quot; size=&quot;3&quot;&gt;Selektion&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="591" y="178" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ckr_f1OWKaerwH_Einks-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.442;entryY=0.08;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=default;autosize=1;resizable=0;" edge="1" parent="1" source="Ckr_f1OWKaerwH_Einks-4" target="Ckr_f1OWKaerwH_Einks-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
