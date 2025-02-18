@@ -1,9 +1,30 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:135.0) Gecko/20100101 Firefox/135.0" version="26.0.14">
   <diagram name="Page-1" id="KNsGLFj_nhdCPrY1TZIR">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="1000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="wUH8i6BSNTHAuNKodM3G-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="wUH8i6BSNTHAuNKodM3G-1" target="wUH8i6BSNTHAuNKodM3G-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wUH8i6BSNTHAuNKodM3G-1" value="&lt;font&gt;Im Anfangszustand ist das Zellinnere ungefähr mit -65 mV geladen, die extrazelluläre Flüssigkeit positiv. Die Ladung verändert sich nicht&lt;/font&gt;." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="5" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="wUH8i6BSNTHAuNKodM3G-7" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="wUH8i6BSNTHAuNKodM3G-4" target="wUH8i6BSNTHAuNKodM3G-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wUH8i6BSNTHAuNKodM3G-4" value="Ein Reiz sorgt dafür, dass sich Natriumionenkanäle öffnen. Diese werden nur bei dem Überschreiten des Aktionspotentials geöffnet." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="10" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wUH8i6BSNTHAuNKodM3G-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wUH8i6BSNTHAuNKodM3G-6" target="wUH8i6BSNTHAuNKodM3G-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wUH8i6BSNTHAuNKodM3G-6" value="Die soeben geöffneten Natriumkanäle bewirken ein Einströmen von Natriumionen in das Axon wo durch sich die vorliegende ladung zu einer Positiven verändert" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="640" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wUH8i6BSNTHAuNKodM3G-8" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
