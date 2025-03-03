@@ -1,9 +1,39 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Safari/605.1.15" version="25.0.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Safari/605.1.15" version="26.0.16">
   <diagram name="Page-1" id="wfHDxuZN4622-VBC6_Kh">
-    <mxGraphModel>
+    <mxGraphModel dx="4267" dy="2413" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ePUxbNJY71EW7FELIC8C-9" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ePUxbNJY71EW7FELIC8C-1" target="ePUxbNJY71EW7FELIC8C-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ePUxbNJY71EW7FELIC8C-1" value="&lt;b&gt;LOHAS&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="64" y="-90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ePUxbNJY71EW7FELIC8C-2" value="Nachhaltigkeit&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-118" y="133" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ePUxbNJY71EW7FELIC8C-3" value="Grundwerte {orange}" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-161.5" y="96.5" width="167" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="ePUxbNJY71EW7FELIC8C-4" value="Box orange" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-10.5" y="137.5" width="100" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="ePUxbNJY71EW7FELIC8C-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="126" y="133" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ePUxbNJY71EW7FELIC8C-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="339" y="133" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ePUxbNJY71EW7FELIC8C-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="138" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ePUxbNJY71EW7FELIC8C-8" value="Konsum" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-245.5" y="283.5" width="77" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="ePUxbNJY71EW7FELIC8C-10" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.356;entryY=0.362;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ePUxbNJY71EW7FELIC8C-2" target="ePUxbNJY71EW7FELIC8C-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
